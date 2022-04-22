@@ -2,7 +2,7 @@ import requests
 
 class requestToGooglemap:
     #def setUp(self):
-        #self.key = "AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
+        #self.key = "mykey"
         #self.client = googlemaps.Client(self.key)
         # The location of Kyoto University Yoshidahonmachi
         #self.location = (35.026416, 135.780920)
@@ -13,7 +13,7 @@ class requestToGooglemap:
 
     url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=chinese&" \
           "language=ja&location=35.026416%2C135.780920&maxprice=4&minprice=0&opennow=true&" \
-          "radius=1000&type=restaurant&key=AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
+          "radius=1000&type=restaurant&key=mykey"
     payload = {}
     headers = {}
 
