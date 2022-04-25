@@ -11,7 +11,7 @@ class requestToGooglemap:
         #self.type = "restaurant"
         #self.radius = 1000
 
-    url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=chinese&" \
+    url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=fastfood&" \
           "language=ja&location=35.026416%2C135.780920&maxprice=4&minprice=0&opennow=true&" \
           "radius=1000&type=restaurant&key=AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
     payload = {}
