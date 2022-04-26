@@ -34,6 +34,6 @@ class restaurantFileInsert:
         miseNum.append(misenum)
 
 
-        #jhhh222
+        # test by sqx
     print(miseNum)
     f.close()
