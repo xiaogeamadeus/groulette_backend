@@ -32,5 +32,8 @@ class restaurantFileInsert:
         dictionary1 = json.loads(response1.text)
         misenum = len(dictionary['results']) + len(dictionary1['results'])
         miseNum.append(misenum)
+
+
+        #jhhh222
     print(miseNum)
     f.close()
