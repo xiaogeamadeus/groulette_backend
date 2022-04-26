@@ -8,7 +8,7 @@ import responses
 class PlaceTest:
 
     def setUp(self):
-        self.key = "AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
+        self.key = "mykey"
         self.client = googlemaps.Client(self.key)
         # The location of Kyoto University Yoshidahonmachi
         self.location = (35.026416, 135.780920)
