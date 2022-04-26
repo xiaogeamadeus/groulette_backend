@@ -1,0 +1,290 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0214436,
+               "lng" : 135.7689126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02274897989272,
+                  "lng" : 135.7702640798927
+               },
+               "southwest" : {
+                  "lat" : 35.02004932010728,
+                  "lng" : 135.7675644201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "OLU BURGER KYOTO",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDV4dNsdf8yQOsDHV6uQEXDhDGwd4GIWo7BlTTTLoxRqqNno6FWvVZ0VDXb9LI9V3uq_LfRRs_x2il-hYx4a28UGmlFLfsj9RPnz22WKE4Iw5NUGO_J7FCItsqeQzBLHOkn1uVx9jaZ8BnKJVBdKg3iRqeFYF7toRg3GBcjB51Cr5kU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRU-Fs3kJAWARet7NEHG9XHU",
+         "plus_code" : {
+            "compound_code" : "2QC9+HH 京都市、京都府",
+            "global_code" : "8Q7Q2QC9+HH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJRU-Fs3kJAWARet7NEHG9XHU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68,
+         "vicinity" : "京都市上京区荒神町１０９番地"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0269431,
+               "lng" : 135.7897138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02826352989273,
+                  "lng" : 135.7911089798928
+               },
+               "southwest" : {
+                  "lat" : 35.02556387010728,
+                  "lng" : 135.7884093201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burg×Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2789,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDkLYq_iVcnZNgxrQb_sS9Tu8fCKouyMnSzo_z-eRDxZru3ELx_YbLnXFABoY_I-C53u3WQJyxag0eY4QlBBqLteflO3TddZu9gDoYKlgvW4kY21gjqBCEBzJWQPnc4kxHQDmwG1LEc7Y7AoT1lgFd1M7b64V37EnuO0zMDZU0xG8rT",
+               "width" : 2790
+            }
+         ],
+         "place_id" : "ChIJ29SfM1-nAWAR1OUOQpb6qjo",
+         "plus_code" : {
+            "compound_code" : "2QGQ+QV 京都市、京都府",
+            "global_code" : "8Q7Q2QGQ+QV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ29SfM1-nAWAR1OUOQpb6qjo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "京都市左京区吉田神楽岡町３７−２ リバティハウス 101"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0284931,
+               "lng" : 135.7676871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02981007989272,
+                  "lng" : 135.7690332298927
+               },
+               "southwest" : {
+                  "lat" : 35.02711042010728,
+                  "lng" : 135.7663335701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "グランドバーガー",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118384552425569491458\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkwVxyU11kL5AsYLGMyXR84fKrzB26kB3hS4uiNhfcc5T3ATTcsfNJLCC8rEaQO2BAAK6PLptuk73oE0y8gyOZHfpHSyNA7lnRUHa3T4VSqc8TsgtbqzbLFuMddKcGGH3RNDvO8vQDpUhNnXlsBUeUJQBw_D4u4YBaflIVBrr2PDWi",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC9GoIWYIAWAR2dpgeElhN8I",
+         "plus_code" : {
+            "compound_code" : "2QH9+93 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+93"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJC9GoIWYIAWAR2dpgeElhN8I",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 371,
+         "vicinity" : "京都市上京区真如堂前町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0214165,
+               "lng" : 135.768881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02273532989272,
+                  "lng" : 135.7702314798927
+               },
+               "southwest" : {
+                  "lat" : 35.02003567010728,
+                  "lng" : 135.7675318201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "オルバーガー京都",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117919392702789146382\"\u003e藤崎進一\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-oEgk-XdWU7aK4w81BdTxrvcs1XEgSo8Kh0wJKFmMgeG2k8-REY6CF8Hp0xRC5iMocbQBQVv_QQ7rlYd6ttzRbDd8mhN2sZvEFLn1TP5K6XSQg4PGRgGLQoCMNHyGLj-u7WhuBoH2dNkaOQky3oNKjRhptp7M5oYJ5h0Uxq8gxihW",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJb8-CHVIJAWARjLIv2FKENiA",
+         "plus_code" : {
+            "compound_code" : "2QC9+HH 京都市、京都府",
+            "global_code" : "8Q7Q2QC9+HH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJb8-CHVIJAWARjLIv2FKENiA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "京都市上京区宮垣町７８−１ グランディール荒神口"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0298681,
+               "lng" : 135.7793091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03121792989272,
+                  "lng" : 135.7806589298928
+               },
+               "southwest" : {
+                  "lat" : 35.02851827010728,
+                  "lng" : 135.7779592701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ジェイムスキッチン",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDVgihLiiZOmINKDeywMnv85scv2c5vMHZEXcovS4bHrgsjmQaVwE6jHGNN4XTtVtbSJUouvaO506js6axTGE2gTJnQaBGbNcnq3CwKgfce5hp2Dn9qnOVAkiDDcZtb1J308EFAwEkIxAanHFsShdnChhP7p319Buubc2yJaF9w5FxA",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJL_lMIVoIAWARTWqYBNWwOSY",
+         "plus_code" : {
+            "compound_code" : "2QHH+WP 京都市、京都府",
+            "global_code" : "8Q7Q2QHH+WP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJL_lMIVoIAWARTWqYBNWwOSY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 341,
+         "vicinity" : "京都市左京区田中門前町４６ 京美華ビル １F"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0219483,
+               "lng" : 135.7690718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02329812989272,
+                  "lng" : 135.7704216298927
+               },
+               "southwest" : {
+                  "lat" : 35.02059847010727,
+                  "lng" : 135.7677219701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "ALOHANAcafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108651005399301220173\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDyi98kSbMEC3tg-cSO9WucKHl_082C6YWHvXvwCCYU_PaBofYNlrq_JrF1fM-3Gy2ssztL_DJR1QZIxPzqhp58PwB2oazBpOy2Flz2UEctXzyW-P0bYmm45AZepblYbyrlpYNJakm4xyJmK1nM4M_zolvxJMUmLblQ_Avu37b3RCeY",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJpYJwTmAIAWARWf2jhikZteA",
+         "plus_code" : {
+            "compound_code" : "2QC9+QJ 京都市、京都府",
+            "global_code" : "8Q7Q2QC9+QJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpYJwTmAIAWARWf2jhikZteA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "京都市上京区東桜町３９−２"
+      }
+   ],
+   "status" : "OK"
+}

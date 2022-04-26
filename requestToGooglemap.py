@@ -1,28 +1,42 @@
 import requests
+import json
 
 class requestToGooglemap:
     #def setUp(self):
         #self.key = "AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
         #self.client = googlemaps.Client(self.key)
         # The location of Kyoto University Yoshidahonmachi
-        #self.location = (35.026416, 135.780920)
+        #self.location = (35.028810, 135.779259)
         #self.language = "ja"
         #self.keyword = "chinese"
         #self.type = "restaurant"
         #self.radius = 1000
 
-    url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=fastfood&" \
-          "language=ja&location=35.026416%2C135.780920&maxprice=4&minprice=0&opennow=true&" \
-          "radius=1000&type=restaurant&key=AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
-    payload = {}
-    headers = {}
+    API_KEY = "AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
+    miseName = ["Chinese","Ramen","Fast","Pasta","Italian","Humberger","Gyudon","Syokudo","Teishoku","Family",
+                "Udon","Noodles","Franch","Asian","Korean","Pizza","Yakiniku","Pizza","Tempura","cafe","Health",
+                "Vegan","Yakitori", "Izakaya","Sushi"]
 
-    response = requests.request("GET", url, headers=headers, data=payload)
+    nums = []
+    for i in miseName:
+        url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?&" \
+          "language=ja&location=35.028810%2C135.779259&" \
+          f"radius=1000&keyword={i}&type=restaurant&key={API_KEY}"
+        payload = {}
+        headers = {}
+        response = requests.request("GET", url, headers=headers, data=payload)
+        f = open(f"/users/xiaogeamadeus/mypy/Practice_of_Information_System/groulette_backend/restaurantData/{i}.txt", mode='a+')
+        num = f.write(response.text)
+        dictionary = json.loads(response.text)
+        nums.append(len(dictionary['results']))
 
-    print(response.text)
 
-    response = requests.request("POST", url, headers=headers, data=payload)
-
+    print(nums)
+    f.close()
+    # f = open("/users/xiaogeamadeus/mypy/Practice_of_Information_System/groulette_backend/.txt", mode='w')
+    # num = f.write(response.text)
+    # print(num)
+    # f.close()
     # send to front end
     # json
     #result:[

@@ -1,0 +1,108 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0336299,
+               "lng" : 135.7812277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03497762989272,
+                  "lng" : 135.7826085298927
+               },
+               "southwest" : {
+                  "lat" : 35.03227797010728,
+                  "lng" : 135.7799088701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "LOBUTA（ろぶた）本店",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100948530203059696111\"\u003e詭道軒テクノロ爺\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDvj2-28cFjqIX_4uyPl_Fch9clcPTwNVJjZnjVwCz4ed9F3Fsb9cPGFM0bB7q4HTj_AMUw8YOxoNYaT96ROyxfGXeJOqMwHoQ7Gf1TzZvI9a5_RoUbK1bmHec2jJ4wQqXj-tAYpGG9da6q6LMilGjOAv6Op5BLajf0sWcz5HRza-Tz",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJv7mmbVAIAWARVodgqbEGicU",
+         "plus_code" : {
+            "compound_code" : "2QMJ+FF 京都市、京都府",
+            "global_code" : "8Q7Q2QMJ+FF"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJv7mmbVAIAWARVodgqbEGicU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 110,
+         "vicinity" : "京都市左京区shi Tanaka Satonouchichō, 48"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0288514,
+               "lng" : 135.7694059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03019032989272,
+                  "lng" : 135.7708435298927
+               },
+               "southwest" : {
+                  "lat" : 35.02749067010728,
+                  "lng" : 135.7681438701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "出町スタンド",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEANoHY9hwXmf-g6CywD_4oMzzrennXThlqkXLai9jdjyZUKhxNdufkwbrbj9tw2IIbpzP7I_Ewzo9T1DUEMuCCjKL7o0kVNY-y7G_fpsXiZCfedEo0rpb2nceQBxYUXXO5eyHWpH93QKGxLLcnkcnQ4Q-FFhZd2wMxhtl22xUjE9sej",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJoXcjxWcIAWAR1Dkjfjy5V8A",
+         "plus_code" : {
+            "compound_code" : "2QH9+GQ 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+GQ"
+         },
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "ChIJoXcjxWcIAWAR1Dkjfjy5V8A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58,
+         "vicinity" : "京都市上京区 大宮町（今出川通）３１７−４"
+      }
+   ],
+   "status" : "OK"
+}

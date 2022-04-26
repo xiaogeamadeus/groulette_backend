@@ -1,0 +1,54 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0291372,
+               "lng" : 135.7788919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03035577989272,
+                  "lng" : 135.7802653298927
+               },
+               "southwest" : {
+                  "lat" : 35.02765612010727,
+                  "lng" : 135.7775656701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "サイゼリヤ 百万遍店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117653769290402811088\"\u003eshiga Ao\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAYO134SqfwHMFVcSXq87k6CDLTfptf6HDOJwuvz2_jd5nMm-PxpqnIIAK_6BwhDczPXuRGw9Wib2CBx2B4y-2aPkrm3M6qiAozRloUVWiyYWLDSK_ZvfAOr8lmU4iCkLapWqFQHA4DeJuOBsYRHt80k7NLCp8tHJpWQKUdPOqQYJaH",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ9wuc83UJAWARIsbA8e6_RoU",
+         "plus_code" : {
+            "compound_code" : "2QHH+MH 京都市、京都府",
+            "global_code" : "8Q7Q2QHH+MH"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ9wuc83UJAWARIsbA8e6_RoU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 354,
+         "vicinity" : "京都市左京区田中門前町２８−１０ ｵﾘｴﾝﾄﾋﾞﾙ 2F"
+      }
+   ],
+   "status" : "OK"
+}

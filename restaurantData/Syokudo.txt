@@ -1,0 +1,4690 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0300553,
+               "lng" : 135.774488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03144147989273,
+                  "lng" : 135.7758575298927
+               },
+               "southwest" : {
+                  "lat" : 35.02874182010729,
+                  "lng" : 135.7731578701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "つなぐ食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105649652204531128618\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJ9wNIiBCLLYKYuV_TA7O3CjUR4mmVxEc_UdoHUsP-ao7CNXX4XeXoZt0trBN2O9aAozcdkPdrgFysKs9nsH3S9o6wEfUhd_InplR-cN6U4f1URaS94WU6adOlHfZiTR56Epz4rJIJdKnyvBwt3rgNO7RZsMH_R0DTPir-_hKiq0NN",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "plus_code" : {
+            "compound_code" : "2QJF+2Q 京都市、京都府",
+            "global_code" : "8Q7Q2QJF+2Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "京都市左京区田中下柳町１−１２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0298619,
+               "lng" : 135.7839812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03121172989272,
+                  "lng" : 135.7853310298927
+               },
+               "southwest" : {
+                  "lat" : 35.02851207010728,
+                  "lng" : 135.7826313701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 北部食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECo_WlVnXfSWvh_MzRtmpYCDiq45oePi7S7vqqUOd99jMeduPTO4YGyoSbK2pbEhUMzJzU0yItl3YoeA5Ytu-V0H6V811LHaInlrIcuMfffRYiN6j-P9guGtWbrkno9EwNFXMQwCvm8_vVFo3dXHEQG8-EvsB6wgY1PtAe1h2c9rdfo",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "plus_code" : {
+            "compound_code" : "2QHM+WH 京都市、京都府",
+            "global_code" : "8Q7Q2QHM+WH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192,
+         "vicinity" : "京都市左京区 京都大学生活協同組合 北部食堂"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.018893,
+               "lng" : 135.7690949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02023322989272,
+                  "lng" : 135.7705298798928
+               },
+               "southwest" : {
+                  "lat" : 35.01753357010728,
+                  "lng" : 135.7678302201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "食堂 ほかげ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107679658601388144873\"\u003eEVAN FAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED7F6KNwGcek3I_0-zLF_00QYE2TzK5rIJrKifYvgpdlwJCZUKnS7UBlW6GU-KEJ0KwR--UjWIB80puO9-lVIEYhUTjgPWaTuH5i8vKsbyZugyzjcJGG2rOPe3Y8XDlJM_Z8rwgUtjtToRd5DegrztUFY-JWybppKFhFMxAll4Y02fT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "plus_code" : {
+            "compound_code" : "2Q99+HJ 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+HJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "京都市上京区出水町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0203765,
+               "lng" : 135.7824331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02172632989272,
+                  "lng" : 135.7837829298927
+               },
+               "southwest" : {
+                  "lat" : 35.01902667010728,
+                  "lng" : 135.7810832701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "末広食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105931464450711204000\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOiEsHC0wXbMtO63EzHuMiYqUC1jEc1vCDJfM9yxgZVIxhwPextvzGJmMoIM_L7_WP6YjjmANupYcoJCnNUfz1t7jH51YnDTzSftgoHpxAVYyku0Q4dIpB_lM6fn8-xMybMGvY8M_Ukmc1kNoHv1p6ewUM0gPGBOQc7pwiKSux-S07",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "plus_code" : {
+            "compound_code" : "2QCJ+5X 京都市、京都府",
+            "global_code" : "8Q7Q2QCJ+5X"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "京都市左京区聖護院東町２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0276484,
+               "lng" : 135.792205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02899822989271,
+                  "lng" : 135.7935548298927
+               },
+               "southwest" : {
+                  "lat" : 35.02629857010727,
+                  "lng" : 135.7908551701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "大銀食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117186784006337269359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB5FORgZ87z7UC3ejJcRZiTSf709XX5WmygFOz4ptn3zWcxdDaAr1yCAa4sHK5mi7bBy5WH2gyqU5yh7vvsXszJOPKV1tqfLBPAxiOLdxKjyt3q9_YtuTWh4l05ijD-_F4DV93KL7lV_yPPEk8UQyFZiHpxNPok4aZnp9M-mP1hkITt",
+               "width" : 6048
+            }
+         ],
+         "place_id" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "plus_code" : {
+            "compound_code" : "2QHR+3V 京都市、京都府",
+            "global_code" : "8Q7Q2QHR+3V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129,
+         "vicinity" : "京都市左京区浄土寺東田町６０ 大銀食堂"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0210532,
+               "lng" : 135.783143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02240302989271,
+                  "lng" : 135.7844928298927
+               },
+               "southwest" : {
+                  "lat" : 35.01970337010727,
+                  "lng" : 135.7817931701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "モンパン食堂",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1002,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115754578077950902676\"\u003eJapan gold\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDWD4ksHuw7qRKCohdrOZsfHnxMrUZPvVIt2yCOONDDSHi6-wMDOho14NL-zEaXEaaijRQVSm8-tNZbuvlvPxLLtGxbIubxKGtWyEMvaFhXQGlS0RAkGuibsRZuBOa4jgckM8ztRGLBzgpNk5lLTN5DKYLRaWAurPuC9Zi9mWu6NMrN",
+               "width" : 1508
+            }
+         ],
+         "place_id" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "plus_code" : {
+            "compound_code" : "2QCM+C7 京都市、京都府",
+            "global_code" : "8Q7Q2QCM+C7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "京都市左京区吉田下大路町２９−４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0339993,
+               "lng" : 135.7855595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03534172989272,
+                  "lng" : 135.7868488298928
+               },
+               "southwest" : {
+                  "lat" : 35.03264207010728,
+                  "lng" : 135.7841491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "西岡食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1643,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAf3MbeJWCsF9sOfDkw7EOplyPs8vpEVLf0Be5J1QQmmm5ksZ3Sq35OImIxDeGFw12Foume4fB168dE5B1ZMyVl0vpoS-_G_M78cxY08DeIlF32ldODeOYLHBEMIT6Tzhjq47qqpVLDk420q4YKTxYa3T0DwruRY7hqb8IiJawAKzgK",
+               "width" : 2190
+            }
+         ],
+         "place_id" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "plus_code" : {
+            "compound_code" : "2QMP+H6 京都市、京都府",
+            "global_code" : "8Q7Q2QMP+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "京都市左京区田中東樋ノ口町３５"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.028984,
+               "lng" : 135.785759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03033382989272,
+                  "lng" : 135.7871088298927
+               },
+               "southwest" : {
+                  "lat" : 35.02763417010728,
+                  "lng" : 135.7844091701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ビンタン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101476883799591023573\"\u003ekikuko kawasaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBzDknpX1v8XkFbBtBx5VS2M-9Qf83QHVu5X9VlFtbFcn6ECKZOQpQLw5W-E8MGNVUS7XzvUm91ZZTVwn9Y66eOD1Z3tE0RnCEG7e0v5oT_LE0O81EXFztS6aCGrN1zYL_SsVpqGIacT73iL5pY5_I0dqx2sUnwWYmGLDXyavmuDWrU",
+               "width" : 1616
+            }
+         ],
+         "place_id" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "plus_code" : {
+            "compound_code" : "2QHP+H8 京都市、京都府",
+            "global_code" : "8Q7Q2QHP+H8"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "京都市左京区北白川西町８２−３ 光楽堂ビル"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0222267,
+               "lng" : 135.7762049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02357497989272,
+                  "lng" : 135.7776738798927
+               },
+               "southwest" : {
+                  "lat" : 35.02087532010728,
+                  "lng" : 135.7749742201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 南部食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003e清水翼\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED1UlmNOfUpOkKDozjVKNkv9LULO-sI40hJ-eoOzk8K8t5eNfxWuZnbZFJh1esQ6-ZfOxS8sAkL2Lf-NRaSG2aW2KN0mKVfXgsZD97UXVYHR1PqCZbUfByt4HVoeNql8sj7EGIXt4qo2cDpLFPNLOs2Td1gd7xOVKpLAH-X3cozOMvb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "plus_code" : {
+            "compound_code" : "2QCG+VF 京都市、京都府",
+            "global_code" : "8Q7Q2QCG+VF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "京都市左京区吉田下阿達町１０−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0287527,
+               "lng" : 135.7809899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03005927989272,
+                  "lng" : 135.7823268298927
+               },
+               "southwest" : {
+                  "lat" : 35.02735962010728,
+                  "lng" : 135.7796271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ハイライト食堂 百万遍店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECmnem322ys-YWsZn7_GmrY3-dVMO5fXfBSQWL_h8SAMcUKb6lTYhZSGEokfxB1pAqSJdSJbIvK4mWgqnRJvcxhKOtxkl78jgSwURmhl8Zh_F7ZtTqu2s_zMyuVhxDjjwJilA7hFVNoztHWlM53HcjdMNSqvxVjvJ7IxTSeViU8a9Jz",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "plus_code" : {
+            "compound_code" : "2QHJ+G9 京都市、京都府",
+            "global_code" : "8Q7Q2QHJ+G9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473,
+         "vicinity" : "京都市左京区田中門前町９４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0248678,
+               "lng" : 135.7763257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02621762989272,
+                  "lng" : 135.7776755298927
+               },
+               "southwest" : {
+                  "lat" : 35.02351797010728,
+                  "lng" : 135.7749758701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "お食事処とくら",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 9248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118233367215970069682\"\u003eToshiro Nakahira\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJkc1ROztL3wuTEQlebaxyQXy55e6fw45PtJOh1O2Inu4ySgqQY9Yku6F2DaVnV8bp-sJdrlDAPlSDM_bXM90FLPcmYXEVzg3v8K6suGebfITdbJXQdcPaHCWN66-gfvooEjPT6UKsFsKQg5y4Xayyli6tbIJ9pyQMciHHy6g6CbS6",
+               "width" : 6936
+            }
+         ],
+         "place_id" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "plus_code" : {
+            "compound_code" : "2QFG+WG 京都市、京都府",
+            "global_code" : "8Q7Q2QFG+WG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "京都市左京区吉田中阿達町１０−３７"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0199356,
+               "lng" : 135.7697235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02129567989272,
+                  "lng" : 135.7709215798927
+               },
+               "southwest" : {
+                  "lat" : 35.01859602010727,
+                  "lng" : 135.7682219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都健菜食堂 SOGEN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "plus_code" : {
+            "compound_code" : "2Q99+XV 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+XV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市上京区上生洲町２４０ コートリビエール1F"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0266577,
+               "lng" : 135.7818152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02800132989272,
+                  "lng" : 135.7830346298927
+               },
+               "southwest" : {
+                  "lat" : 35.02530167010728,
+                  "lng" : 135.7803349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 中央食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076722562714558619\"\u003eJinYoung Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA2FM3_rBf_LdK75-LLiy69Gg8GDBVWdWLQudDP-RUtWvFo5IFN0ziZRGv8ZTf0nrejG9h9WxAgry-ATAVb2vCvD_aeHQqR8Dyx02RKg83Ia5-whsSPIGZooDoEKA7qhOZOcDHbDR0tWf79e-XMYIHoaJGor6fwCHM781Kv0SlfPeFg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "plus_code" : {
+            "compound_code" : "2QGJ+MP 京都市、京都府",
+            "global_code" : "8Q7Q2QGJ+MP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "京都市左京区吉田本町３６ 総合研究8号館"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.02883810000001,
+               "lng" : 135.7876286
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03014067989272,
+                  "lng" : 135.7889641298927
+               },
+               "southwest" : {
+                  "lat" : 35.02744102010728,
+                  "lng" : 135.7862644701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "タイ料理 カトーコバーン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjbwdq06YStpT9OfPioX_LGL_PVCGHWcs7PK_Hd5KvG_ONVq65eCTF-1tdhy_e9k1s9BIxsUGJjBQC9mo_y8zBnKVpjz48nd18t3Z8sTetR4b-fMfqZhXSQEYq_rn-RdCSTVl2RjeiH689SaG-YBSc5rzWrRHhSLw68h8P2OpXxtwh",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "plus_code" : {
+            "compound_code" : "2QHQ+G3 京都市、京都府",
+            "global_code" : "8Q7Q2QHQ+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "京都市左京区北白川久保田町６４−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0237805,
+               "lng" : 135.7791007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02522852989273,
+                  "lng" : 135.7804207298927
+               },
+               "southwest" : {
+                  "lat" : 35.02252887010728,
+                  "lng" : 135.7777210701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 吉田食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105368070317040652041\"\u003eMatsushita Takahiko\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECokh7K2d1xZdQWSZA3rwzQQkEV9FNnRjgRPqwwgNZ2MiVoySKVMK12dZ9iUTrUtLXQJym1Zkw3eKO8b6caIQsWsTuM1oX5dcuJOscgSwOY7oY1u534jydqirJ-0Q39_i5imXJmKF82EyacBpdPi-vu093cGHQsut52PT5S8qjxKg_Y",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "plus_code" : {
+            "compound_code" : "2QFH+GJ 京都市、京都府",
+            "global_code" : "8Q7Q2QFH+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "京都市左京区吉田本町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0285583,
+               "lng" : 135.7683937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02983242989273,
+                  "lng" : 135.7697387298927
+               },
+               "southwest" : {
+                  "lat" : 35.02713277010729,
+                  "lng" : 135.7670390701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "なかじま食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eMasataka Inoue\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECxcBFbReMMfPzKvR348LAxOVlytsBgqvbuYDu1muIW4dNVZBmDjcuADYJrE2hgRAeN6PkeIHQpVzeXl9OnbmbTH2Ydp8iICYwyTKRM7cJRFxqHKMgtHbfMubEvVpXvfhm26J-zN8kLrxFkMB5JvJMYlQig-cSu3lAP7KC6_2K1jW4O",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "plus_code" : {
+            "compound_code" : "2QH9+C9 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+C9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "京都市上京区寺町通今出川下る 東入米屋町310"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0347928,
+               "lng" : 135.7757202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03622447989272,
+                  "lng" : 135.7770480298927
+               },
+               "southwest" : {
+                  "lat" : 35.03352482010727,
+                  "lng" : 135.7743483701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1195,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECEESs3Bpm9PgqiQT8Moec7234W3tsTqYjmEXM8hJ21zugH32znKwd-4e-V6GDpJtKmcgK5HCV2SiBV2um0ge68IzmHMFq2s5RL7nAnFq-cBHwNlBCjlj6MI5Ut78DmXJTuQ10OCcLtfkSYgGIdCfSDxslaaYyVsZzyi12JP4hsvb_V",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "plus_code" : {
+            "compound_code" : "2QMG+W7 京都市、京都府",
+            "global_code" : "8Q7Q2QMG+W7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "京都市左京区高野蓼原町25"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0335176,
+               "lng" : 135.7838496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03486742989272,
+                  "lng" : 135.7851994298927
+               },
+               "southwest" : {
+                  "lat" : 35.03216777010728,
+                  "lng" : 135.7824997701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ひらがな館",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106790192523357465050\"\u003etien-hsuan Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3DG20Xxj_BttKMVN4gxwD_qJFTR6XAOpEAENsag3Fkq6kLNUY-rXdxVAl-CYvUi6MiNt2JlhGUE5kn0fFL1ivb3_svANX-dhxr-sUefmjSA9XTq82lupueRnwpgWzbgs3XdYqBtBp7CG5cN0J-OsYxEfi6TJ4UYMmvPZ8jZlGjinU",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "plus_code" : {
+            "compound_code" : "2QMM+CG 京都市、京都府",
+            "global_code" : "8Q7Q2QMM+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "京都市左京区田中西樋ノ口町４４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0355259,
+               "lng" : 135.7809031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03687572989272,
+                  "lng" : 135.7822529298927
+               },
+               "southwest" : {
+                  "lat" : 35.03417607010728,
+                  "lng" : 135.7795532701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "天狗食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107579528477423084379\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJWeE4aSjD2znrs45EKMuANz3EfBfpm_VvTptJESQ6Be1RVd7V-M7KNHRqu9tlI93eqQciOV7s4lYl99oxV3X40nUO-dTA16mJ0BMkVlJdZBSE8KjwGbFgvvql8ern4wmhg0LWBxqpMewCxvcBsCKF8sd_y44eNteE5dvy9vQg8qe8",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "plus_code" : {
+            "compound_code" : "2QPJ+69 京都市、京都府",
+            "global_code" : "8Q7Q2QPJ+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "京都市左京区田中西大久保町４７−１"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0268212,
+               "lng" : 135.7840177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02817342989272,
+                  "lng" : 135.7853459298927
+               },
+               "southwest" : {
+                  "lat" : 35.02547377010728,
+                  "lng" : 135.7826462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "野菜食堂 大雅堂",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115845968809064508073\"\u003eMasayuki Akimoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAsDs3IDt0iDVkFu3itsTW2dpVp2mrCZeT9ks9RC_VYWx67zkc597lj4PMeJ5_1dDqtmU3QSvuTTJCDPp9Kfy2wvPlVK1uUPKxkE0ctOhqAwt5yDqLk5654FtTbKDJtk_gTb8avEn3n1fIDwHHPYCDkPxQUnTCHgy5Vs_NUMuSW3lB8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "plus_code" : {
+            "compound_code" : "2QGM+PJ 京都市、京都府",
+            "global_code" : "8Q7Q2QGM+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市左京区吉田本町１２−２１"
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0300553,
+               "lng" : 135.774488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03144147989273,
+                  "lng" : 135.7758575298927
+               },
+               "southwest" : {
+                  "lat" : 35.02874182010729,
+                  "lng" : 135.7731578701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "つなぐ食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105649652204531128618\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDD0KDWwGSwxGeivmqQ9US5Aea21ImeP7t4PvXGkPWCgiRxXVtttnDcFyPvp7ibk2g4HqbUA3G5ssp6CI-G6QjtBpCB6AgC4EF0P2A49NFQbGVabyeLA8rKU96RtLfGKJBAycmklyLC_tTl8O4rtEZDE1CYtjOuB8Kdg0iVWS7jCfsM",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "plus_code" : {
+            "compound_code" : "2QJF+2Q 京都市、京都府",
+            "global_code" : "8Q7Q2QJF+2Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "京都市左京区田中下柳町１−１２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0298619,
+               "lng" : 135.7839812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03121172989272,
+                  "lng" : 135.7853310298927
+               },
+               "southwest" : {
+                  "lat" : 35.02851207010728,
+                  "lng" : 135.7826313701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 北部食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECOVNJKKxOvPJoGLKpDYQUKK_TJECUNylXIDluEfmZBeX8Zu5EqznjQp9k_Rv6URTPpzVNee6d-NUKq8R5Zzlvrg0yTVGnWQ8iG1F6l5I_1dX87836mYy9Ztj93icl3ZFRQMJrES5lu4pkAZXwq6yg2u-JvZsHeZ0RWHWxDByhof8qJ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "plus_code" : {
+            "compound_code" : "2QHM+WH 京都市、京都府",
+            "global_code" : "8Q7Q2QHM+WH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192,
+         "vicinity" : "京都市左京区 京都大学生活協同組合 北部食堂"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.018893,
+               "lng" : 135.7690949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02023322989272,
+                  "lng" : 135.7705298798928
+               },
+               "southwest" : {
+                  "lat" : 35.01753357010728,
+                  "lng" : 135.7678302201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "食堂 ほかげ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107679658601388144873\"\u003eEVAN FAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBj-L6z6x9kt45WoR9zLgDKhK6AUannj3UHBblOgA1wZO1d8xt0sysyIK1o9j49hAs-n9DNqeCt0m6SzpCDSZMHDWN5iUma6udmYui1-jRANsvmmqPes3AgmbyUoY1wJOkKmAIiRBmofl4qoLGFZN6uGuJHb9fL830j5iVu9-JZ_Eg2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "plus_code" : {
+            "compound_code" : "2Q99+HJ 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+HJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "京都市上京区出水町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0203765,
+               "lng" : 135.7824331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02172632989272,
+                  "lng" : 135.7837829298927
+               },
+               "southwest" : {
+                  "lat" : 35.01902667010728,
+                  "lng" : 135.7810832701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "末広食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105931464450711204000\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDJorhWR0O5hSoEb60W5UryxKXXjJ2urizjlTnzb47GB2pUaWxO5njXja7qpfh60dk0QiYbGgPX_2YIB1dZQ8RluLi97WxdrHYhSgYQrCeuQr2keUpreoLKp2fBfeN7Bl1E8FxeaKImKoEMPjzugYqqLKlwPVmhet-NipA8s1rznnNP",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "plus_code" : {
+            "compound_code" : "2QCJ+5X 京都市、京都府",
+            "global_code" : "8Q7Q2QCJ+5X"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "京都市左京区聖護院東町２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0276484,
+               "lng" : 135.792205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02899822989271,
+                  "lng" : 135.7935548298927
+               },
+               "southwest" : {
+                  "lat" : 35.02629857010727,
+                  "lng" : 135.7908551701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "大銀食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117186784006337269359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDOZBiUNWsmgXtaFcpKWn1mxYweOsTUfuZgJJ-4USP15tuKNIbgc7ydBVj1JBbuZWtuKzJS7AsrtdPCV3920TZHa4nnNEiUrGqTLfq_pF9BpSt6sBQMiSgkJL72re1cuPIhKtlcmjDNjKQXm-XAS5NAgwdJGfuaOIHQUrzUNWQqQk5d",
+               "width" : 6048
+            }
+         ],
+         "place_id" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "plus_code" : {
+            "compound_code" : "2QHR+3V 京都市、京都府",
+            "global_code" : "8Q7Q2QHR+3V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129,
+         "vicinity" : "京都市左京区浄土寺東田町６０ 大銀食堂"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0210532,
+               "lng" : 135.783143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02240302989271,
+                  "lng" : 135.7844928298927
+               },
+               "southwest" : {
+                  "lat" : 35.01970337010727,
+                  "lng" : 135.7817931701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "モンパン食堂",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1002,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115754578077950902676\"\u003eJapan gold\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBGjsTN0cnu7gVZxGMrWN0wqQTkdpzdhx9lMpX3qomXndFbsMLAMtI2R16C8p2jCqzbPKpyGqbvbAUn4aB4mpZCotwpQso1tmVL5RPjoIzqvXpnEEHc6up65S3jYPauYOSWhUUjVTZHasCPpLiZMwW8-Fyf4gSH1mxwVLdQWIev738X",
+               "width" : 1508
+            }
+         ],
+         "place_id" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "plus_code" : {
+            "compound_code" : "2QCM+C7 京都市、京都府",
+            "global_code" : "8Q7Q2QCM+C7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "京都市左京区吉田下大路町２９−４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0339993,
+               "lng" : 135.7855595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03534172989272,
+                  "lng" : 135.7868488298928
+               },
+               "southwest" : {
+                  "lat" : 35.03264207010728,
+                  "lng" : 135.7841491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "西岡食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1643,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChY5c9U3kmbGkmA8cKzHnsmT5sC8KwulFOJ-cjQKUW8_PNq6kQGDi_seNgkf6R7y5RcOR_jLU3j8LaAEpc5L53qUNEifCA92Z9vxwejcu6yQcK6aJ_w8Zf-c9v3vT89A7Q4MTlhA-IZVcUAvgoKiieXDu4BgEQMQREEfljnMWOXAgc",
+               "width" : 2190
+            }
+         ],
+         "place_id" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "plus_code" : {
+            "compound_code" : "2QMP+H6 京都市、京都府",
+            "global_code" : "8Q7Q2QMP+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "京都市左京区田中東樋ノ口町３５"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.028984,
+               "lng" : 135.785759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03033382989272,
+                  "lng" : 135.7871088298927
+               },
+               "southwest" : {
+                  "lat" : 35.02763417010728,
+                  "lng" : 135.7844091701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ビンタン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101476883799591023573\"\u003ekikuko kawasaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDQDQ30XgFxxx-y62M8erx55Te25fjOXiTgBeFmxmEdBAbNSZl2DCe2DWqwN59sOs9AYvnErM8SopJvflAIciFl1AokXPPtfSK0woMDcv1gth8pvgwFVVHQdoHQF-vZdIG2G5Q5sT9py1lwzOqRE2s0PAnwhB3IIlprUbZUxRo6zaQe",
+               "width" : 1616
+            }
+         ],
+         "place_id" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "plus_code" : {
+            "compound_code" : "2QHP+H8 京都市、京都府",
+            "global_code" : "8Q7Q2QHP+H8"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "京都市左京区北白川西町８２−３ 光楽堂ビル"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0222267,
+               "lng" : 135.7762049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02357497989272,
+                  "lng" : 135.7776738798927
+               },
+               "southwest" : {
+                  "lat" : 35.02087532010728,
+                  "lng" : 135.7749742201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 南部食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003e清水翼\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAdSKCglZ_B1bHGB8dcf6VIYL3mSE9Gcsi3rq-_Fcc3_4EkYMDzClakrXXe_iY9Hyo1NG4alJ6Vp_-Mxsk0baAEOi26-BTpEZWsfsS3-vdwsmXsxXDgtnwj-SDJwXIKVvxdxK2mqpNE6oPqbpyNL1FEksx4lt_r5BGElVIiUO-urgeV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "plus_code" : {
+            "compound_code" : "2QCG+VF 京都市、京都府",
+            "global_code" : "8Q7Q2QCG+VF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "京都市左京区吉田下阿達町１０−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0287527,
+               "lng" : 135.7809899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03005927989272,
+                  "lng" : 135.7823268298927
+               },
+               "southwest" : {
+                  "lat" : 35.02735962010728,
+                  "lng" : 135.7796271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ハイライト食堂 百万遍店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB8Y_n-kN44QsOHXFzbglgnpX15J-RZqJTMiSRwrQ9JfMdtHS1ovPpQXr3brmOghuSZY1luv4_mhFbEH9CmNIW5lgI_80znjXgwZ-ZVkpPyaqf6joDwlHK3FrCu5g8RyZdYeRYystt9AIsPJ1gIRe9vI9IEvOLgizaAMMApqTQl5V19",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "plus_code" : {
+            "compound_code" : "2QHJ+G9 京都市、京都府",
+            "global_code" : "8Q7Q2QHJ+G9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473,
+         "vicinity" : "京都市左京区田中門前町９４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0248678,
+               "lng" : 135.7763257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02621762989272,
+                  "lng" : 135.7776755298927
+               },
+               "southwest" : {
+                  "lat" : 35.02351797010728,
+                  "lng" : 135.7749758701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "お食事処とくら",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 9248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118233367215970069682\"\u003eToshiro Nakahira\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED5hzRPJvlLfuc7RZoWgYm3UcrpXnP2cJUBi8gBeS770aSNlUAA4_yuOiv8zlKwxbF64dOBW4tGI7PfVSWTe2BWQCh6SlZmCAyog-ngNv2s14ygdS4HJ9V6HlbZHE1RcYTNJyHVlSRyC4xh_ygy5D1KIiwjXsiVi3tus05j-nppMiaz",
+               "width" : 6936
+            }
+         ],
+         "place_id" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "plus_code" : {
+            "compound_code" : "2QFG+WG 京都市、京都府",
+            "global_code" : "8Q7Q2QFG+WG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "京都市左京区吉田中阿達町１０−３７"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0199356,
+               "lng" : 135.7697235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02129567989272,
+                  "lng" : 135.7709215798927
+               },
+               "southwest" : {
+                  "lat" : 35.01859602010727,
+                  "lng" : 135.7682219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都健菜食堂 SOGEN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "plus_code" : {
+            "compound_code" : "2Q99+XV 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+XV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市上京区上生洲町２４０ コートリビエール1F"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0266577,
+               "lng" : 135.7818152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02800132989272,
+                  "lng" : 135.7830346298927
+               },
+               "southwest" : {
+                  "lat" : 35.02530167010728,
+                  "lng" : 135.7803349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 中央食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076722562714558619\"\u003eJinYoung Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDw5qBSR9i247zo20cqU5iGw-Fqsne3M1Z8bSDtjUidZNapBMRMDDN52Hd803L8bdvRbBcrL1sFR7GVqkK9tI_EqXmlSBP_BfAYHJdj5TUCBLYmQKHxSvMvjEKbuk8yQIADDeMjl9Mk8SS6rmJr2ZurELP36TIuVX2YgjwjvPZI28ME",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "plus_code" : {
+            "compound_code" : "2QGJ+MP 京都市、京都府",
+            "global_code" : "8Q7Q2QGJ+MP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "京都市左京区吉田本町３６ 総合研究8号館"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.02883810000001,
+               "lng" : 135.7876286
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03014067989272,
+                  "lng" : 135.7889641298927
+               },
+               "southwest" : {
+                  "lat" : 35.02744102010728,
+                  "lng" : 135.7862644701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "タイ料理 カトーコバーン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAe2xoDLUk1s6GExrpfWCLpjzu-xutDMWdif21o-Li5_DU-xO7dXWoYOymRtPzNQptf6ug32AR7P52_vvexUE24DF9Pdon20gVJ_XKOC7K8atsBx_ewivXfoRFGcQrjTut7byoxWcj_FYnTVo9tVCmlZbh2vB9EfGc1l4ZiZd3hd23W",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "plus_code" : {
+            "compound_code" : "2QHQ+G3 京都市、京都府",
+            "global_code" : "8Q7Q2QHQ+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "京都市左京区北白川久保田町６４−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0237805,
+               "lng" : 135.7791007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02522852989273,
+                  "lng" : 135.7804207298927
+               },
+               "southwest" : {
+                  "lat" : 35.02252887010728,
+                  "lng" : 135.7777210701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 吉田食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105368070317040652041\"\u003eMatsushita Takahiko\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECebG5oQ6Lrv1yMsRRP0m5wxgvNPApnaxgoar3d4SsoZfqirwjmj1_NCxWEaSMJnDdag8l6c7kyHGPM6q1tWlh75TI3WAR-jgfzZlzfvssTQyqZbG63KLcLb61bBfl7zkFTpQxsqFEEqukkiW6t8UbK60c7Qy5TPuwJYYL3VHxLLlmN",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "plus_code" : {
+            "compound_code" : "2QFH+GJ 京都市、京都府",
+            "global_code" : "8Q7Q2QFH+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "京都市左京区吉田本町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0285583,
+               "lng" : 135.7683937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02983242989273,
+                  "lng" : 135.7697387298927
+               },
+               "southwest" : {
+                  "lat" : 35.02713277010729,
+                  "lng" : 135.7670390701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "なかじま食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eMasataka Inoue\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxCzZh2-39gOEfYMcwgGE0VzT9IOkGp3rCzoqenTCRRkVt23RFae8009yOU4ov19OWPzn05QSkmwsVWfTWZJUF9uqPUMfMcUajuF8OOMrJHKe93cbSdwBin2thFsZxFsmZUTCMVOcUUAzUdYxNsI1RLXEKtFkYfpbI2nCTMjMd3gkz",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "plus_code" : {
+            "compound_code" : "2QH9+C9 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+C9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "京都市上京区寺町通今出川下る 東入米屋町310"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0347928,
+               "lng" : 135.7757202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03622447989272,
+                  "lng" : 135.7770480298927
+               },
+               "southwest" : {
+                  "lat" : 35.03352482010727,
+                  "lng" : 135.7743483701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1195,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJu44zOj82Rl2TGOwoNA6V31LpY6D4_DL4kvCXZwoCpMv705_PJaGFwKEhALWybgYuYNb1P5jNNVQQ5gtWi_i7Toym_woc71wom7dGiqdEixshdLOPmmjCVsSeIMK7PfkCf2xZ8i2Zart0ytMu9XFFc9XvWBSoizSCjBIZlabN0zu_",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "plus_code" : {
+            "compound_code" : "2QMG+W7 京都市、京都府",
+            "global_code" : "8Q7Q2QMG+W7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "京都市左京区高野蓼原町25"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0335176,
+               "lng" : 135.7838496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03486742989272,
+                  "lng" : 135.7851994298927
+               },
+               "southwest" : {
+                  "lat" : 35.03216777010728,
+                  "lng" : 135.7824997701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ひらがな館",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106790192523357465050\"\u003etien-hsuan Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBoBLovATm8IjYB4XYCxGf4ye8IgAVtQ3HS9KthcALfRAKjn1Lp0CQzS0_Vm_804vI8QldZymXLxmO9Eprfag_r2pslAzhQT3yptucYgy0tBMuc-5ToXLMvPCnInfVyLau2U6d0JLXgS-LpugM8FMLO3OBl8ncT7iNDI3vF1llZWjBD",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "plus_code" : {
+            "compound_code" : "2QMM+CG 京都市、京都府",
+            "global_code" : "8Q7Q2QMM+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "京都市左京区田中西樋ノ口町４４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0355259,
+               "lng" : 135.7809031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03687572989272,
+                  "lng" : 135.7822529298927
+               },
+               "southwest" : {
+                  "lat" : 35.03417607010728,
+                  "lng" : 135.7795532701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "天狗食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107579528477423084379\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDsGsYB1GV8N8GL3E7Yi1gF-svljZY6Lme978A12oh-cpwyRfstU8a7k8fPhgodBn_CbMLPChXG51TD6KO23X990_5aNmvDwNQ2F6hfprc47bKAHRGLnWMFdUToNyqCfj6xNJjSqaEnn3flYcxcTYxh6mIoJu8wAf7J4ESOUqWm9nnH",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "plus_code" : {
+            "compound_code" : "2QPJ+69 京都市、京都府",
+            "global_code" : "8Q7Q2QPJ+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "京都市左京区田中西大久保町４７−１"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0268212,
+               "lng" : 135.7840177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02817342989272,
+                  "lng" : 135.7853459298927
+               },
+               "southwest" : {
+                  "lat" : 35.02547377010728,
+                  "lng" : 135.7826462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "野菜食堂 大雅堂",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115845968809064508073\"\u003eMasayuki Akimoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBdTBj5NXp_NTT9_hEkAcz3QNmlmi31sjZpN5TJtuOJVEv0OdN3238LkhstNVl-_ozUChVpB6kPPb_xlwTHMlrvBVpo43rjcAVw-ZrPouIV8n501gika-d21DvfKcsCDxOWFEFSSuzG8t4a62q7tG6Fu38KUT2WHeNIsooXIqx1snN8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "plus_code" : {
+            "compound_code" : "2QGM+PJ 京都市、京都府",
+            "global_code" : "8Q7Q2QGM+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市左京区吉田本町１２−２１"
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0300553,
+               "lng" : 135.774488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03144147989273,
+                  "lng" : 135.7758575298927
+               },
+               "southwest" : {
+                  "lat" : 35.02874182010729,
+                  "lng" : 135.7731578701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "つなぐ食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105649652204531128618\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDD0KDWwGSwxGeivmqQ9US5Aea21ImeP7t4PvXGkPWCgiRxXVtttnDcFyPvp7ibk2g4HqbUA3G5ssp6CI-G6QjtBpCB6AgC4EF0P2A49NFQbGVabyeLA8rKU96RtLfGKJBAycmklyLC_tTl8O4rtEZDE1CYtjOuB8Kdg0iVWS7jCfsM",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "plus_code" : {
+            "compound_code" : "2QJF+2Q 京都市、京都府",
+            "global_code" : "8Q7Q2QJF+2Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "京都市左京区田中下柳町１−１２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0298619,
+               "lng" : 135.7839812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03121172989272,
+                  "lng" : 135.7853310298927
+               },
+               "southwest" : {
+                  "lat" : 35.02851207010728,
+                  "lng" : 135.7826313701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 北部食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECOVNJKKxOvPJoGLKpDYQUKK_TJECUNylXIDluEfmZBeX8Zu5EqznjQp9k_Rv6URTPpzVNee6d-NUKq8R5Zzlvrg0yTVGnWQ8iG1F6l5I_1dX87836mYy9Ztj93icl3ZFRQMJrES5lu4pkAZXwq6yg2u-JvZsHeZ0RWHWxDByhof8qJ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "plus_code" : {
+            "compound_code" : "2QHM+WH 京都市、京都府",
+            "global_code" : "8Q7Q2QHM+WH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192,
+         "vicinity" : "京都市左京区 京都大学生活協同組合 北部食堂"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.018893,
+               "lng" : 135.7690949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02023322989272,
+                  "lng" : 135.7705298798928
+               },
+               "southwest" : {
+                  "lat" : 35.01753357010728,
+                  "lng" : 135.7678302201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "食堂 ほかげ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107679658601388144873\"\u003eEVAN FAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBj-L6z6x9kt45WoR9zLgDKhK6AUannj3UHBblOgA1wZO1d8xt0sysyIK1o9j49hAs-n9DNqeCt0m6SzpCDSZMHDWN5iUma6udmYui1-jRANsvmmqPes3AgmbyUoY1wJOkKmAIiRBmofl4qoLGFZN6uGuJHb9fL830j5iVu9-JZ_Eg2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "plus_code" : {
+            "compound_code" : "2Q99+HJ 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+HJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "京都市上京区出水町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0203765,
+               "lng" : 135.7824331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02172632989272,
+                  "lng" : 135.7837829298927
+               },
+               "southwest" : {
+                  "lat" : 35.01902667010728,
+                  "lng" : 135.7810832701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "末広食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105931464450711204000\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDJorhWR0O5hSoEb60W5UryxKXXjJ2urizjlTnzb47GB2pUaWxO5njXja7qpfh60dk0QiYbGgPX_2YIB1dZQ8RluLi97WxdrHYhSgYQrCeuQr2keUpreoLKp2fBfeN7Bl1E8FxeaKImKoEMPjzugYqqLKlwPVmhet-NipA8s1rznnNP",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "plus_code" : {
+            "compound_code" : "2QCJ+5X 京都市、京都府",
+            "global_code" : "8Q7Q2QCJ+5X"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "京都市左京区聖護院東町２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0276484,
+               "lng" : 135.792205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02899822989271,
+                  "lng" : 135.7935548298927
+               },
+               "southwest" : {
+                  "lat" : 35.02629857010727,
+                  "lng" : 135.7908551701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "大銀食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117186784006337269359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDOZBiUNWsmgXtaFcpKWn1mxYweOsTUfuZgJJ-4USP15tuKNIbgc7ydBVj1JBbuZWtuKzJS7AsrtdPCV3920TZHa4nnNEiUrGqTLfq_pF9BpSt6sBQMiSgkJL72re1cuPIhKtlcmjDNjKQXm-XAS5NAgwdJGfuaOIHQUrzUNWQqQk5d",
+               "width" : 6048
+            }
+         ],
+         "place_id" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "plus_code" : {
+            "compound_code" : "2QHR+3V 京都市、京都府",
+            "global_code" : "8Q7Q2QHR+3V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129,
+         "vicinity" : "京都市左京区浄土寺東田町６０ 大銀食堂"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0210532,
+               "lng" : 135.783143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02240302989271,
+                  "lng" : 135.7844928298927
+               },
+               "southwest" : {
+                  "lat" : 35.01970337010727,
+                  "lng" : 135.7817931701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "モンパン食堂",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1002,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115754578077950902676\"\u003eJapan gold\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBGjsTN0cnu7gVZxGMrWN0wqQTkdpzdhx9lMpX3qomXndFbsMLAMtI2R16C8p2jCqzbPKpyGqbvbAUn4aB4mpZCotwpQso1tmVL5RPjoIzqvXpnEEHc6up65S3jYPauYOSWhUUjVTZHasCPpLiZMwW8-Fyf4gSH1mxwVLdQWIev738X",
+               "width" : 1508
+            }
+         ],
+         "place_id" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "plus_code" : {
+            "compound_code" : "2QCM+C7 京都市、京都府",
+            "global_code" : "8Q7Q2QCM+C7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "京都市左京区吉田下大路町２９−４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0339993,
+               "lng" : 135.7855595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03534172989272,
+                  "lng" : 135.7868488298928
+               },
+               "southwest" : {
+                  "lat" : 35.03264207010728,
+                  "lng" : 135.7841491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "西岡食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1643,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChY5c9U3kmbGkmA8cKzHnsmT5sC8KwulFOJ-cjQKUW8_PNq6kQGDi_seNgkf6R7y5RcOR_jLU3j8LaAEpc5L53qUNEifCA92Z9vxwejcu6yQcK6aJ_w8Zf-c9v3vT89A7Q4MTlhA-IZVcUAvgoKiieXDu4BgEQMQREEfljnMWOXAgc",
+               "width" : 2190
+            }
+         ],
+         "place_id" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "plus_code" : {
+            "compound_code" : "2QMP+H6 京都市、京都府",
+            "global_code" : "8Q7Q2QMP+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "京都市左京区田中東樋ノ口町３５"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.028984,
+               "lng" : 135.785759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03033382989272,
+                  "lng" : 135.7871088298927
+               },
+               "southwest" : {
+                  "lat" : 35.02763417010728,
+                  "lng" : 135.7844091701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ビンタン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101476883799591023573\"\u003ekikuko kawasaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDQDQ30XgFxxx-y62M8erx55Te25fjOXiTgBeFmxmEdBAbNSZl2DCe2DWqwN59sOs9AYvnErM8SopJvflAIciFl1AokXPPtfSK0woMDcv1gth8pvgwFVVHQdoHQF-vZdIG2G5Q5sT9py1lwzOqRE2s0PAnwhB3IIlprUbZUxRo6zaQe",
+               "width" : 1616
+            }
+         ],
+         "place_id" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "plus_code" : {
+            "compound_code" : "2QHP+H8 京都市、京都府",
+            "global_code" : "8Q7Q2QHP+H8"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "京都市左京区北白川西町８２−３ 光楽堂ビル"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0222267,
+               "lng" : 135.7762049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02357497989272,
+                  "lng" : 135.7776738798927
+               },
+               "southwest" : {
+                  "lat" : 35.02087532010728,
+                  "lng" : 135.7749742201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 南部食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003e清水翼\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAdSKCglZ_B1bHGB8dcf6VIYL3mSE9Gcsi3rq-_Fcc3_4EkYMDzClakrXXe_iY9Hyo1NG4alJ6Vp_-Mxsk0baAEOi26-BTpEZWsfsS3-vdwsmXsxXDgtnwj-SDJwXIKVvxdxK2mqpNE6oPqbpyNL1FEksx4lt_r5BGElVIiUO-urgeV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "plus_code" : {
+            "compound_code" : "2QCG+VF 京都市、京都府",
+            "global_code" : "8Q7Q2QCG+VF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "京都市左京区吉田下阿達町１０−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0287527,
+               "lng" : 135.7809899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03005927989272,
+                  "lng" : 135.7823268298927
+               },
+               "southwest" : {
+                  "lat" : 35.02735962010728,
+                  "lng" : 135.7796271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ハイライト食堂 百万遍店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB8Y_n-kN44QsOHXFzbglgnpX15J-RZqJTMiSRwrQ9JfMdtHS1ovPpQXr3brmOghuSZY1luv4_mhFbEH9CmNIW5lgI_80znjXgwZ-ZVkpPyaqf6joDwlHK3FrCu5g8RyZdYeRYystt9AIsPJ1gIRe9vI9IEvOLgizaAMMApqTQl5V19",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "plus_code" : {
+            "compound_code" : "2QHJ+G9 京都市、京都府",
+            "global_code" : "8Q7Q2QHJ+G9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473,
+         "vicinity" : "京都市左京区田中門前町９４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0248678,
+               "lng" : 135.7763257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02621762989272,
+                  "lng" : 135.7776755298927
+               },
+               "southwest" : {
+                  "lat" : 35.02351797010728,
+                  "lng" : 135.7749758701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "お食事処とくら",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 9248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118233367215970069682\"\u003eToshiro Nakahira\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED5hzRPJvlLfuc7RZoWgYm3UcrpXnP2cJUBi8gBeS770aSNlUAA4_yuOiv8zlKwxbF64dOBW4tGI7PfVSWTe2BWQCh6SlZmCAyog-ngNv2s14ygdS4HJ9V6HlbZHE1RcYTNJyHVlSRyC4xh_ygy5D1KIiwjXsiVi3tus05j-nppMiaz",
+               "width" : 6936
+            }
+         ],
+         "place_id" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "plus_code" : {
+            "compound_code" : "2QFG+WG 京都市、京都府",
+            "global_code" : "8Q7Q2QFG+WG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "京都市左京区吉田中阿達町１０−３７"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0199356,
+               "lng" : 135.7697235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02129567989272,
+                  "lng" : 135.7709215798927
+               },
+               "southwest" : {
+                  "lat" : 35.01859602010727,
+                  "lng" : 135.7682219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都健菜食堂 SOGEN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "plus_code" : {
+            "compound_code" : "2Q99+XV 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+XV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市上京区上生洲町２４０ コートリビエール1F"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0266577,
+               "lng" : 135.7818152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02800132989272,
+                  "lng" : 135.7830346298927
+               },
+               "southwest" : {
+                  "lat" : 35.02530167010728,
+                  "lng" : 135.7803349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 中央食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076722562714558619\"\u003eJinYoung Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDw5qBSR9i247zo20cqU5iGw-Fqsne3M1Z8bSDtjUidZNapBMRMDDN52Hd803L8bdvRbBcrL1sFR7GVqkK9tI_EqXmlSBP_BfAYHJdj5TUCBLYmQKHxSvMvjEKbuk8yQIADDeMjl9Mk8SS6rmJr2ZurELP36TIuVX2YgjwjvPZI28ME",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "plus_code" : {
+            "compound_code" : "2QGJ+MP 京都市、京都府",
+            "global_code" : "8Q7Q2QGJ+MP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "京都市左京区吉田本町３６ 総合研究8号館"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.02883810000001,
+               "lng" : 135.7876286
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03014067989272,
+                  "lng" : 135.7889641298927
+               },
+               "southwest" : {
+                  "lat" : 35.02744102010728,
+                  "lng" : 135.7862644701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "タイ料理 カトーコバーン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAe2xoDLUk1s6GExrpfWCLpjzu-xutDMWdif21o-Li5_DU-xO7dXWoYOymRtPzNQptf6ug32AR7P52_vvexUE24DF9Pdon20gVJ_XKOC7K8atsBx_ewivXfoRFGcQrjTut7byoxWcj_FYnTVo9tVCmlZbh2vB9EfGc1l4ZiZd3hd23W",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "plus_code" : {
+            "compound_code" : "2QHQ+G3 京都市、京都府",
+            "global_code" : "8Q7Q2QHQ+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "京都市左京区北白川久保田町６４−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0237805,
+               "lng" : 135.7791007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02522852989273,
+                  "lng" : 135.7804207298927
+               },
+               "southwest" : {
+                  "lat" : 35.02252887010728,
+                  "lng" : 135.7777210701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 吉田食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105368070317040652041\"\u003eMatsushita Takahiko\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECebG5oQ6Lrv1yMsRRP0m5wxgvNPApnaxgoar3d4SsoZfqirwjmj1_NCxWEaSMJnDdag8l6c7kyHGPM6q1tWlh75TI3WAR-jgfzZlzfvssTQyqZbG63KLcLb61bBfl7zkFTpQxsqFEEqukkiW6t8UbK60c7Qy5TPuwJYYL3VHxLLlmN",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "plus_code" : {
+            "compound_code" : "2QFH+GJ 京都市、京都府",
+            "global_code" : "8Q7Q2QFH+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "京都市左京区吉田本町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0285583,
+               "lng" : 135.7683937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02983242989273,
+                  "lng" : 135.7697387298927
+               },
+               "southwest" : {
+                  "lat" : 35.02713277010729,
+                  "lng" : 135.7670390701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "なかじま食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eMasataka Inoue\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxCzZh2-39gOEfYMcwgGE0VzT9IOkGp3rCzoqenTCRRkVt23RFae8009yOU4ov19OWPzn05QSkmwsVWfTWZJUF9uqPUMfMcUajuF8OOMrJHKe93cbSdwBin2thFsZxFsmZUTCMVOcUUAzUdYxNsI1RLXEKtFkYfpbI2nCTMjMd3gkz",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "plus_code" : {
+            "compound_code" : "2QH9+C9 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+C9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "京都市上京区寺町通今出川下る 東入米屋町310"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0347928,
+               "lng" : 135.7757202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03622447989272,
+                  "lng" : 135.7770480298927
+               },
+               "southwest" : {
+                  "lat" : 35.03352482010727,
+                  "lng" : 135.7743483701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1195,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJu44zOj82Rl2TGOwoNA6V31LpY6D4_DL4kvCXZwoCpMv705_PJaGFwKEhALWybgYuYNb1P5jNNVQQ5gtWi_i7Toym_woc71wom7dGiqdEixshdLOPmmjCVsSeIMK7PfkCf2xZ8i2Zart0ytMu9XFFc9XvWBSoizSCjBIZlabN0zu_",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "plus_code" : {
+            "compound_code" : "2QMG+W7 京都市、京都府",
+            "global_code" : "8Q7Q2QMG+W7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "京都市左京区高野蓼原町25"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0335176,
+               "lng" : 135.7838496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03486742989272,
+                  "lng" : 135.7851994298927
+               },
+               "southwest" : {
+                  "lat" : 35.03216777010728,
+                  "lng" : 135.7824997701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ひらがな館",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106790192523357465050\"\u003etien-hsuan Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBoBLovATm8IjYB4XYCxGf4ye8IgAVtQ3HS9KthcALfRAKjn1Lp0CQzS0_Vm_804vI8QldZymXLxmO9Eprfag_r2pslAzhQT3yptucYgy0tBMuc-5ToXLMvPCnInfVyLau2U6d0JLXgS-LpugM8FMLO3OBl8ncT7iNDI3vF1llZWjBD",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "plus_code" : {
+            "compound_code" : "2QMM+CG 京都市、京都府",
+            "global_code" : "8Q7Q2QMM+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "京都市左京区田中西樋ノ口町４４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0355259,
+               "lng" : 135.7809031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03687572989272,
+                  "lng" : 135.7822529298927
+               },
+               "southwest" : {
+                  "lat" : 35.03417607010728,
+                  "lng" : 135.7795532701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "天狗食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107579528477423084379\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDsGsYB1GV8N8GL3E7Yi1gF-svljZY6Lme978A12oh-cpwyRfstU8a7k8fPhgodBn_CbMLPChXG51TD6KO23X990_5aNmvDwNQ2F6hfprc47bKAHRGLnWMFdUToNyqCfj6xNJjSqaEnn3flYcxcTYxh6mIoJu8wAf7J4ESOUqWm9nnH",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "plus_code" : {
+            "compound_code" : "2QPJ+69 京都市、京都府",
+            "global_code" : "8Q7Q2QPJ+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "京都市左京区田中西大久保町４７−１"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0268212,
+               "lng" : 135.7840177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02817342989272,
+                  "lng" : 135.7853459298927
+               },
+               "southwest" : {
+                  "lat" : 35.02547377010728,
+                  "lng" : 135.7826462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "野菜食堂 大雅堂",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115845968809064508073\"\u003eMasayuki Akimoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBdTBj5NXp_NTT9_hEkAcz3QNmlmi31sjZpN5TJtuOJVEv0OdN3238LkhstNVl-_ozUChVpB6kPPb_xlwTHMlrvBVpo43rjcAVw-ZrPouIV8n501gika-d21DvfKcsCDxOWFEFSSuzG8t4a62q7tG6Fu38KUT2WHeNIsooXIqx1snN8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "plus_code" : {
+            "compound_code" : "2QGM+PJ 京都市、京都府",
+            "global_code" : "8Q7Q2QGM+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市左京区吉田本町１２−２１"
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0300553,
+               "lng" : 135.774488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03144147989273,
+                  "lng" : 135.7758575298927
+               },
+               "southwest" : {
+                  "lat" : 35.02874182010729,
+                  "lng" : 135.7731578701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "つなぐ食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105649652204531128618\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBfw5Hn7NKhtVQo4IYLKe-jZ94O3RVWabAn86CtplioWd71HspnlF-5LkxYkPrqOOVsM5_e2nk88Q8jmK8U3A78NlRHW8cfEX3vjwoQEJIERzK7y7B4rJZdTEEQOFasrcEQj9mCVQJiYy9R03ocAORaEIciqLxurZAhIgHhYFV8MF9H",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "plus_code" : {
+            "compound_code" : "2QJF+2Q 京都市、京都府",
+            "global_code" : "8Q7Q2QJF+2Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "京都市左京区田中下柳町１−１２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0298619,
+               "lng" : 135.7839812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03121172989272,
+                  "lng" : 135.7853310298927
+               },
+               "southwest" : {
+                  "lat" : 35.02851207010728,
+                  "lng" : 135.7826313701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 北部食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB5Ldab1t_G8tZxKClwHOCZU_3GmWnMHooFiPEI6bawxtTyKONoEPOlmQYavQVZNo0Klch_hTWyxKIMCtkkAAL8n4SkDbmG_c7dFXTlL3OWj_UqoWDKtlvIAesrkDGW4jvNAsnINDVvrYY4-6ZeDjPxEz0cGygT7pOckvKsu5YgPnGX",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "plus_code" : {
+            "compound_code" : "2QHM+WH 京都市、京都府",
+            "global_code" : "8Q7Q2QHM+WH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192,
+         "vicinity" : "京都市左京区 京都大学生活協同組合 北部食堂"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.018893,
+               "lng" : 135.7690949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02023322989272,
+                  "lng" : 135.7705298798928
+               },
+               "southwest" : {
+                  "lat" : 35.01753357010728,
+                  "lng" : 135.7678302201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "食堂 ほかげ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107679658601388144873\"\u003eEVAN FAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECLOIfMaNBeDt5JTGO2ddoO08JsgmqnTwUssSElhk5pfg1Ainyi_ElkFRMAIb6n5GNkqYaGAXl7F9dMY8IcV8C0A_gXLu9NV_OMYnNGwEFTzmy5HDg9O2CeIUWbBkV9zOzwIBm3ZD1ZzKwyLyPJoYG9rx98L1LFkX9l2bzxeAP6_3w_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "plus_code" : {
+            "compound_code" : "2Q99+HJ 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+HJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "京都市上京区出水町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0203765,
+               "lng" : 135.7824331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02172632989272,
+                  "lng" : 135.7837829298927
+               },
+               "southwest" : {
+                  "lat" : 35.01902667010728,
+                  "lng" : 135.7810832701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "末広食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105931464450711204000\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECiVqv8d4DoXvFHMcGI_UBFNlOK3V2DJBDEQBe8feJU17A9xxodL-ZXRpvIFr1MUximpjBXAcetXQhjUf2vzGK5UOUoF51cLXQvQGgppPWEIqmhXEjT2Axlz2b3t_SOn1cyXFBhl7Gm93ymIsQVwXyPqwdkpxFL5-UvEzEJJEzJfw5e",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "plus_code" : {
+            "compound_code" : "2QCJ+5X 京都市、京都府",
+            "global_code" : "8Q7Q2QCJ+5X"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "京都市左京区聖護院東町２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0276484,
+               "lng" : 135.792205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02899822989271,
+                  "lng" : 135.7935548298927
+               },
+               "southwest" : {
+                  "lat" : 35.02629857010727,
+                  "lng" : 135.7908551701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "大銀食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117186784006337269359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEASM_2VXdnCXMYx8S0EdgUpxinrviPpuod2mRV7N6BqhyASD-n9A7hwKXyLVNCuoUZpst-EHADKenKWbT_1Td9bn1j5mdauj_mSLwipU0En1ovOsPhkuaRaaBAAkEBRXt_TkWJ1PtZHzgJz-NfkhU2_ujXsUWBKW4Y2iSOFwxuIuirm",
+               "width" : 6048
+            }
+         ],
+         "place_id" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "plus_code" : {
+            "compound_code" : "2QHR+3V 京都市、京都府",
+            "global_code" : "8Q7Q2QHR+3V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129,
+         "vicinity" : "京都市左京区浄土寺東田町６０ 大銀食堂"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0210532,
+               "lng" : 135.783143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02240302989271,
+                  "lng" : 135.7844928298927
+               },
+               "southwest" : {
+                  "lat" : 35.01970337010727,
+                  "lng" : 135.7817931701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "モンパン食堂",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1002,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115754578077950902676\"\u003eJapan gold\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-iIrsfDA3NDtesZ-o9aNdGhZ9SiPqOOZ9joiiGRvWq5UzWOOjuMcpIlEzmX662lu5QHAF4NHIbpRLQucZbTnRIrA8ot7Jc4ElKQVahcB0FfQV6i47BPmvjZHh4jgvzyuVf_PmyjYSihBrZONFgoVzWcNqY0PnvMQq5GxLP0ALU9eX",
+               "width" : 1508
+            }
+         ],
+         "place_id" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "plus_code" : {
+            "compound_code" : "2QCM+C7 京都市、京都府",
+            "global_code" : "8Q7Q2QCM+C7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "京都市左京区吉田下大路町２９−４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0339993,
+               "lng" : 135.7855595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03534172989272,
+                  "lng" : 135.7868488298928
+               },
+               "southwest" : {
+                  "lat" : 35.03264207010728,
+                  "lng" : 135.7841491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "西岡食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1643,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkDYHLhSWK2UynN99_n04Tdh8-3jf3BPuPmiAQMOdKgngVf9Ve5nzVSR2NC4kf0quhUWHyomXXUXOPH_j7B0wJJPyEMYv5o2IXq1rFC3PusySpy4F1Ul1OY4sRQSNP036zwGNaYkc1XWenbkvlbSeV-5PN3zuCpb3uPtP_oJQa8N26",
+               "width" : 2190
+            }
+         ],
+         "place_id" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "plus_code" : {
+            "compound_code" : "2QMP+H6 京都市、京都府",
+            "global_code" : "8Q7Q2QMP+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "京都市左京区田中東樋ノ口町３５"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.028984,
+               "lng" : 135.785759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03033382989272,
+                  "lng" : 135.7871088298927
+               },
+               "southwest" : {
+                  "lat" : 35.02763417010728,
+                  "lng" : 135.7844091701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ビンタン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101476883799591023573\"\u003ekikuko kawasaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBj8EIWAlRB1J2QHNH0Qhd7GWzNGlPbIesftDVH75vaXOgwjT2xBB3Awa86G59aGBeSpgSKws7ronUhovZwJVd_isXcmroMSc7AyizBN7zdn-mYDzUzcEoHR_aZ8tKyLruzWpWwiwgOw3er6uIC7iZk0CKk37J1RN8FOxM3uxaJvgk8",
+               "width" : 1616
+            }
+         ],
+         "place_id" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "plus_code" : {
+            "compound_code" : "2QHP+H8 京都市、京都府",
+            "global_code" : "8Q7Q2QHP+H8"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "京都市左京区北白川西町８２−３ 光楽堂ビル"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0222267,
+               "lng" : 135.7762049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02357497989272,
+                  "lng" : 135.7776738798927
+               },
+               "southwest" : {
+                  "lat" : 35.02087532010728,
+                  "lng" : 135.7749742201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 南部食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003e清水翼\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxMBRi_d-hq4TxkUghwS8FIeQI2Ts7Yqvq5EPLgYaX0PmkglAsa0WA4IBJNSzattluWAQqqARxKL11Ncd21WHwKMK4JW5-l2P-fmPMZqS7ezQleiBqYJ_hn4yKTdmbzpAVbRMpz6ocDRzkZbeCtdDC5bA7Tu-qftPLjfOnrH-TJ3Vg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "plus_code" : {
+            "compound_code" : "2QCG+VF 京都市、京都府",
+            "global_code" : "8Q7Q2QCG+VF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "京都市左京区吉田下阿達町１０−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0287527,
+               "lng" : 135.7809899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03005927989272,
+                  "lng" : 135.7823268298927
+               },
+               "southwest" : {
+                  "lat" : 35.02735962010728,
+                  "lng" : 135.7796271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ハイライト食堂 百万遍店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAq5zpD-CbZzE20JiDZbt2RNgrEo6ffiTu3n48w4HOkzMbBkUJ9in7nP7noafkBvZ82ghZE-x4XKYQb2R0vRCVgCiYmbT1df42vh8c_ZkTwpbwWTM6GTnYQxkRgj0TeHclye08yDGyqTp_WkuMo2G5zg_ti-QS7KO5TPfwL4XI-wYQr",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "plus_code" : {
+            "compound_code" : "2QHJ+G9 京都市、京都府",
+            "global_code" : "8Q7Q2QHJ+G9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473,
+         "vicinity" : "京都市左京区田中門前町９４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0248678,
+               "lng" : 135.7763257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02621762989272,
+                  "lng" : 135.7776755298927
+               },
+               "southwest" : {
+                  "lat" : 35.02351797010728,
+                  "lng" : 135.7749758701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "お食事処とくら",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 9248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118233367215970069682\"\u003eToshiro Nakahira\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECy9fq9aJKYDfh7b7YKEFpJ3fP87p8ykLtIehT8BsHvdxgrcVts6YDJwdKSf-LlLzs1xC_OSkykm6luxHIBfejuF1xjQ10lhJALdSoBwO_biEslUbO1laUc8U41g1D7BrBromWfx4RucBhciuPaJbZdZHYTBQYIh2uVEUDVX0Bn0ddF",
+               "width" : 6936
+            }
+         ],
+         "place_id" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "plus_code" : {
+            "compound_code" : "2QFG+WG 京都市、京都府",
+            "global_code" : "8Q7Q2QFG+WG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "京都市左京区吉田中阿達町１０−３７"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0199356,
+               "lng" : 135.7697235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02129567989272,
+                  "lng" : 135.7709215798927
+               },
+               "southwest" : {
+                  "lat" : 35.01859602010727,
+                  "lng" : 135.7682219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都健菜食堂 SOGEN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "plus_code" : {
+            "compound_code" : "2Q99+XV 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+XV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市上京区上生洲町２４０ コートリビエール1F"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0266577,
+               "lng" : 135.7818152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02800132989272,
+                  "lng" : 135.7830346298927
+               },
+               "southwest" : {
+                  "lat" : 35.02530167010728,
+                  "lng" : 135.7803349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 中央食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076722562714558619\"\u003eJinYoung Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOzWzglK3huZqqjpmsZ_j-h5aT6Nw9Ljez0CS5I5ZH-uCG1ag10F8-zp_VAATxzcCfNS9plSj3EEfD7ZLrj4ad1gHzno3YS313pMKK--hkBW067sBb6fmdEWFb8CgNQt9Pbyc_lTSKewT624qhpIzWivvUqT_ulp5s-nUzc2-JVGDK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "plus_code" : {
+            "compound_code" : "2QGJ+MP 京都市、京都府",
+            "global_code" : "8Q7Q2QGJ+MP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "京都市左京区吉田本町３６ 総合研究8号館"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.02883810000001,
+               "lng" : 135.7876286
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03014067989272,
+                  "lng" : 135.7889641298927
+               },
+               "southwest" : {
+                  "lat" : 35.02744102010728,
+                  "lng" : 135.7862644701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "タイ料理 カトーコバーン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAvOF02tkeG_5eOHwN9rhNH0hwrK-G8rd3yc8wRYefKjeAhqu6dZhPuFOlfBudub-b2onO9qtX8_OW14MAVYSAariDLOB0rBbKyjBwRSM2elWGMcDzBCHqMoRClcJVdeBHdV9oMY2hwkpsj-_Y_xJ-3nZJOQ9cFIeGBoiHEwu0YKgJh",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "plus_code" : {
+            "compound_code" : "2QHQ+G3 京都市、京都府",
+            "global_code" : "8Q7Q2QHQ+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "京都市左京区北白川久保田町６４−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0237805,
+               "lng" : 135.7791007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02522852989273,
+                  "lng" : 135.7804207298927
+               },
+               "southwest" : {
+                  "lat" : 35.02252887010728,
+                  "lng" : 135.7777210701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 吉田食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105368070317040652041\"\u003eMatsushita Takahiko\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAQ7uINT4Q0p44Qxg4XaY5FBruqPGUDaKZJlbg4dkKI-a2UFbTviNG8XJ-sG7A6kMVcXya_UPF7W7gtvh8bKOZiVWibs320zue6ybbpHI6daMzZHgFoEPPVtVwFObGlnwostK6FVTY6TfGyI34fKBO92leb8vGjCuz8SDB6QVYOAFek",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "plus_code" : {
+            "compound_code" : "2QFH+GJ 京都市、京都府",
+            "global_code" : "8Q7Q2QFH+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "京都市左京区吉田本町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0285583,
+               "lng" : 135.7683937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02983242989273,
+                  "lng" : 135.7697387298927
+               },
+               "southwest" : {
+                  "lat" : 35.02713277010729,
+                  "lng" : 135.7670390701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "なかじま食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eMasataka Inoue\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED0VghCtRVnYWBcPwnUjXSX_1duio7tqC6fvrUSnFfImZs__YQ9e3Q-jMHOLfhmZveHhk78BdSValU42-vcTC86FaoBTX19KRuTtFPgHCfrnLdzyWSlRKG5-XhEO0T2VGEX14pFt_ctuFnf1FUb9tUV2HUyea1hf3O4OiB8XSjlhMPD",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "plus_code" : {
+            "compound_code" : "2QH9+C9 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+C9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "京都市上京区寺町通今出川下る 東入米屋町310"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0347928,
+               "lng" : 135.7757202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03622447989272,
+                  "lng" : 135.7770480298927
+               },
+               "southwest" : {
+                  "lat" : 35.03352482010727,
+                  "lng" : 135.7743483701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1195,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAPxrxeJCF46Gc1IhTBeiXVIdjgQKLQA_HUkfPe2p6Jw4NDvj_39YTIPH2jkUr_YEvN8Lsf63MFG-hdmTsxYj9Ply8gV4YXdUimzrbcuZeIDVAOOwgVhCFxjDRhPhS8la-CYGffCdwTsFJBxeVEunt3go-y2ObYbra7cXo3py4gM5Iv",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "plus_code" : {
+            "compound_code" : "2QMG+W7 京都市、京都府",
+            "global_code" : "8Q7Q2QMG+W7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "京都市左京区高野蓼原町25"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0335176,
+               "lng" : 135.7838496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03486742989272,
+                  "lng" : 135.7851994298927
+               },
+               "southwest" : {
+                  "lat" : 35.03216777010728,
+                  "lng" : 135.7824997701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ひらがな館",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106790192523357465050\"\u003etien-hsuan Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-m-yJ8mTwRVaPAyITUWYxpv81Lt29JIYBSQLcy0RjLQ43uoUfI8TnTrfVEWPIYJpMnnccXd7YFf8Q66LgefAx2_15YsU4aCPd1RsoRHcxOEAHEA6gyW9AsQI5DQ4PpT_THq8X_IQd7fMc7yx-IkhvPjdn2me_VM7u1AafUqZpSAIu",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "plus_code" : {
+            "compound_code" : "2QMM+CG 京都市、京都府",
+            "global_code" : "8Q7Q2QMM+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "京都市左京区田中西樋ノ口町４４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0355259,
+               "lng" : 135.7809031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03687572989272,
+                  "lng" : 135.7822529298927
+               },
+               "southwest" : {
+                  "lat" : 35.03417607010728,
+                  "lng" : 135.7795532701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "天狗食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107579528477423084379\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQs-RLgzXtHxnH8ZiiOaGS2B1gm-LUwbg7nZGJ9_zEPHhSw91_xYlkGFzs3dMqyrV13h0ptUHtbAjhNPe82Y5U7MQ_wEmjxd09nV_w8SEdKTfjMFqrEgB3YY_JahX3rZL2w2ImGh_uZmvH2TTZeR_AoExBWrWPN2pWNIKsllxBzKPT",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "plus_code" : {
+            "compound_code" : "2QPJ+69 京都市、京都府",
+            "global_code" : "8Q7Q2QPJ+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "京都市左京区田中西大久保町４７−１"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0268212,
+               "lng" : 135.7840177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02817342989272,
+                  "lng" : 135.7853459298927
+               },
+               "southwest" : {
+                  "lat" : 35.02547377010728,
+                  "lng" : 135.7826462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "野菜食堂 大雅堂",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115845968809064508073\"\u003eMasayuki Akimoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDMNwFdoNxw4lrfmv-7fGULsicSl2BoqK6SXa11Kvv75Kcgr-Ro1qnd_0yyzOQ16WVC5rpIe67RyJZkZc1cl059tbFXR7q0KRa2laxxaZN-mDy90rP1akXh_HFJCMxyGeW8sUMW7HEW7FUZiey59R0SNkfhQH7KB_cXB5f4ZknHf7Up",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "plus_code" : {
+            "compound_code" : "2QGM+PJ 京都市、京都府",
+            "global_code" : "8Q7Q2QGM+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市左京区吉田本町１２−２１"
+      }
+   ],
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0300553,
+               "lng" : 135.774488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03144147989273,
+                  "lng" : 135.7758575298927
+               },
+               "southwest" : {
+                  "lat" : 35.02874182010729,
+                  "lng" : 135.7731578701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "つなぐ食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105649652204531128618\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBfw5Hn7NKhtVQo4IYLKe-jZ94O3RVWabAn86CtplioWd71HspnlF-5LkxYkPrqOOVsM5_e2nk88Q8jmK8U3A78NlRHW8cfEX3vjwoQEJIERzK7y7B4rJZdTEEQOFasrcEQj9mCVQJiYy9R03ocAORaEIciqLxurZAhIgHhYFV8MF9H",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "plus_code" : {
+            "compound_code" : "2QJF+2Q 京都市、京都府",
+            "global_code" : "8Q7Q2QJF+2Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ19e6qZUIAWARyFpb75F41HY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "京都市左京区田中下柳町１−１２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0298619,
+               "lng" : 135.7839812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03121172989272,
+                  "lng" : 135.7853310298927
+               },
+               "southwest" : {
+                  "lat" : 35.02851207010728,
+                  "lng" : 135.7826313701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 北部食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB5Ldab1t_G8tZxKClwHOCZU_3GmWnMHooFiPEI6bawxtTyKONoEPOlmQYavQVZNo0Klch_hTWyxKIMCtkkAAL8n4SkDbmG_c7dFXTlL3OWj_UqoWDKtlvIAesrkDGW4jvNAsnINDVvrYY4-6ZeDjPxEz0cGygT7pOckvKsu5YgPnGX",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "plus_code" : {
+            "compound_code" : "2QHM+WH 京都市、京都府",
+            "global_code" : "8Q7Q2QHM+WH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARavK6MBlQEPc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192,
+         "vicinity" : "京都市左京区 京都大学生活協同組合 北部食堂"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.018893,
+               "lng" : 135.7690949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02023322989272,
+                  "lng" : 135.7705298798928
+               },
+               "southwest" : {
+                  "lat" : 35.01753357010728,
+                  "lng" : 135.7678302201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "食堂 ほかげ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107679658601388144873\"\u003eEVAN FAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECLOIfMaNBeDt5JTGO2ddoO08JsgmqnTwUssSElhk5pfg1Ainyi_ElkFRMAIb6n5GNkqYaGAXl7F9dMY8IcV8C0A_gXLu9NV_OMYnNGwEFTzmy5HDg9O2CeIUWbBkV9zOzwIBm3ZD1ZzKwyLyPJoYG9rx98L1LFkX9l2bzxeAP6_3w_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "plus_code" : {
+            "compound_code" : "2Q99+HJ 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+HJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJpx2E8ooIAWAR5IL7xsUz8K4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "京都市上京区出水町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0203765,
+               "lng" : 135.7824331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02172632989272,
+                  "lng" : 135.7837829298927
+               },
+               "southwest" : {
+                  "lat" : 35.01902667010728,
+                  "lng" : 135.7810832701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "末広食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105931464450711204000\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECiVqv8d4DoXvFHMcGI_UBFNlOK3V2DJBDEQBe8feJU17A9xxodL-ZXRpvIFr1MUximpjBXAcetXQhjUf2vzGK5UOUoF51cLXQvQGgppPWEIqmhXEjT2Axlz2b3t_SOn1cyXFBhl7Gm93ymIsQVwXyPqwdkpxFL5-UvEzEJJEzJfw5e",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "plus_code" : {
+            "compound_code" : "2QCJ+5X 京都市、京都府",
+            "global_code" : "8Q7Q2QCJ+5X"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMWXAUPoIAWARXaFsiP5NoW4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "京都市左京区聖護院東町２"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0276484,
+               "lng" : 135.792205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02899822989271,
+                  "lng" : 135.7935548298927
+               },
+               "southwest" : {
+                  "lat" : 35.02629857010727,
+                  "lng" : 135.7908551701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "大銀食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117186784006337269359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEASM_2VXdnCXMYx8S0EdgUpxinrviPpuod2mRV7N6BqhyASD-n9A7hwKXyLVNCuoUZpst-EHADKenKWbT_1Td9bn1j5mdauj_mSLwipU0En1ovOsPhkuaRaaBAAkEBRXt_TkWJ1PtZHzgJz-NfkhU2_ujXsUWBKW4Y2iSOFwxuIuirm",
+               "width" : 6048
+            }
+         ],
+         "place_id" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "plus_code" : {
+            "compound_code" : "2QHR+3V 京都市、京都府",
+            "global_code" : "8Q7Q2QHR+3V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHw2cnwEJAWARmFqn7eTJd6I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129,
+         "vicinity" : "京都市左京区浄土寺東田町６０ 大銀食堂"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0210532,
+               "lng" : 135.783143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02240302989271,
+                  "lng" : 135.7844928298927
+               },
+               "southwest" : {
+                  "lat" : 35.01970337010727,
+                  "lng" : 135.7817931701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "モンパン食堂",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1002,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115754578077950902676\"\u003eJapan gold\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-iIrsfDA3NDtesZ-o9aNdGhZ9SiPqOOZ9joiiGRvWq5UzWOOjuMcpIlEzmX662lu5QHAF4NHIbpRLQucZbTnRIrA8ot7Jc4ElKQVahcB0FfQV6i47BPmvjZHh4jgvzyuVf_PmyjYSihBrZONFgoVzWcNqY0PnvMQq5GxLP0ALU9eX",
+               "width" : 1508
+            }
+         ],
+         "place_id" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "plus_code" : {
+            "compound_code" : "2QCM+C7 京都市、京都府",
+            "global_code" : "8Q7Q2QCM+C7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ5_jVsPsIAWAROQ4tcO85dkM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "京都市左京区吉田下大路町２９−４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0339993,
+               "lng" : 135.7855595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03534172989272,
+                  "lng" : 135.7868488298928
+               },
+               "southwest" : {
+                  "lat" : 35.03264207010728,
+                  "lng" : 135.7841491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "西岡食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1643,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkDYHLhSWK2UynN99_n04Tdh8-3jf3BPuPmiAQMOdKgngVf9Ve5nzVSR2NC4kf0quhUWHyomXXUXOPH_j7B0wJJPyEMYv5o2IXq1rFC3PusySpy4F1Ul1OY4sRQSNP036zwGNaYkc1XWenbkvlbSeV-5PN3zuCpb3uPtP_oJQa8N26",
+               "width" : 2190
+            }
+         ],
+         "place_id" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "plus_code" : {
+            "compound_code" : "2QMP+H6 京都市、京都府",
+            "global_code" : "8Q7Q2QMP+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJmY_s2VMIAWARSTUouiPvspQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "京都市左京区田中東樋ノ口町３５"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.028984,
+               "lng" : 135.785759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03033382989272,
+                  "lng" : 135.7871088298927
+               },
+               "southwest" : {
+                  "lat" : 35.02763417010728,
+                  "lng" : 135.7844091701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ビンタン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101476883799591023573\"\u003ekikuko kawasaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBj8EIWAlRB1J2QHNH0Qhd7GWzNGlPbIesftDVH75vaXOgwjT2xBB3Awa86G59aGBeSpgSKws7ronUhovZwJVd_isXcmroMSc7AyizBN7zdn-mYDzUzcEoHR_aZ8tKyLruzWpWwiwgOw3er6uIC7iZk0CKk37J1RN8FOxM3uxaJvgk8",
+               "width" : 1616
+            }
+         ],
+         "place_id" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "plus_code" : {
+            "compound_code" : "2QHP+H8 京都市、京都府",
+            "global_code" : "8Q7Q2QHP+H8"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "京都市左京区北白川西町８２−３ 光楽堂ビル"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0222267,
+               "lng" : 135.7762049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02357497989272,
+                  "lng" : 135.7776738798927
+               },
+               "southwest" : {
+                  "lat" : 35.02087532010728,
+                  "lng" : 135.7749742201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 南部食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003e清水翼\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxMBRi_d-hq4TxkUghwS8FIeQI2Ts7Yqvq5EPLgYaX0PmkglAsa0WA4IBJNSzattluWAQqqARxKL11Ncd21WHwKMK4JW5-l2P-fmPMZqS7ezQleiBqYJ_hn4yKTdmbzpAVbRMpz6ocDRzkZbeCtdDC5bA7Tu-qftPLjfOnrH-TJ3Vg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "plus_code" : {
+            "compound_code" : "2QCG+VF 京都市、京都府",
+            "global_code" : "8Q7Q2QCG+VF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ__-_-1cIAWARU3h17wJhS2w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "京都市左京区吉田下阿達町１０−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0287527,
+               "lng" : 135.7809899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03005927989272,
+                  "lng" : 135.7823268298927
+               },
+               "southwest" : {
+                  "lat" : 35.02735962010728,
+                  "lng" : 135.7796271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ハイライト食堂 百万遍店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAq5zpD-CbZzE20JiDZbt2RNgrEo6ffiTu3n48w4HOkzMbBkUJ9in7nP7noafkBvZ82ghZE-x4XKYQb2R0vRCVgCiYmbT1df42vh8c_ZkTwpbwWTM6GTnYQxkRgj0TeHclye08yDGyqTp_WkuMo2G5zg_ti-QS7KO5TPfwL4XI-wYQr",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "plus_code" : {
+            "compound_code" : "2QHJ+G9 京都市、京都府",
+            "global_code" : "8Q7Q2QHJ+G9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXeEcZVcIAWARLnOadEUHCNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473,
+         "vicinity" : "京都市左京区田中門前町９４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0248678,
+               "lng" : 135.7763257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02621762989272,
+                  "lng" : 135.7776755298927
+               },
+               "southwest" : {
+                  "lat" : 35.02351797010728,
+                  "lng" : 135.7749758701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "お食事処とくら",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 9248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118233367215970069682\"\u003eToshiro Nakahira\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECy9fq9aJKYDfh7b7YKEFpJ3fP87p8ykLtIehT8BsHvdxgrcVts6YDJwdKSf-LlLzs1xC_OSkykm6luxHIBfejuF1xjQ10lhJALdSoBwO_biEslUbO1laUc8U41g1D7BrBromWfx4RucBhciuPaJbZdZHYTBQYIh2uVEUDVX0Bn0ddF",
+               "width" : 6936
+            }
+         ],
+         "place_id" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "plus_code" : {
+            "compound_code" : "2QFG+WG 京都市、京都府",
+            "global_code" : "8Q7Q2QFG+WG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJGflxyFgIAWARG5E6B2t95N4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "京都市左京区吉田中阿達町１０−３７"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0199356,
+               "lng" : 135.7697235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02129567989272,
+                  "lng" : 135.7709215798927
+               },
+               "southwest" : {
+                  "lat" : 35.01859602010727,
+                  "lng" : 135.7682219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都健菜食堂 SOGEN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "plus_code" : {
+            "compound_code" : "2Q99+XV 京都市、京都府",
+            "global_code" : "8Q7Q2Q99+XV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJxQAMNfQJAWARTByesWNG73g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市上京区上生洲町２４０ コートリビエール1F"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0266577,
+               "lng" : 135.7818152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02800132989272,
+                  "lng" : 135.7830346298927
+               },
+               "southwest" : {
+                  "lat" : 35.02530167010728,
+                  "lng" : 135.7803349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 中央食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076722562714558619\"\u003eJinYoung Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOzWzglK3huZqqjpmsZ_j-h5aT6Nw9Ljez0CS5I5ZH-uCG1ag10F8-zp_VAATxzcCfNS9plSj3EEfD7ZLrj4ad1gHzno3YS313pMKK--hkBW067sBb6fmdEWFb8CgNQt9Pbyc_lTSKewT624qhpIzWivvUqT_ulp5s-nUzc2-JVGDK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "plus_code" : {
+            "compound_code" : "2QGJ+MP 京都市、京都府",
+            "global_code" : "8Q7Q2QGJ+MP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJoy9mBFYIAWARM5cerRfVr6A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "京都市左京区吉田本町３６ 総合研究8号館"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.02883810000001,
+               "lng" : 135.7876286
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03014067989272,
+                  "lng" : 135.7889641298927
+               },
+               "southwest" : {
+                  "lat" : 35.02744102010728,
+                  "lng" : 135.7862644701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "タイ料理 カトーコバーン食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAvOF02tkeG_5eOHwN9rhNH0hwrK-G8rd3yc8wRYefKjeAhqu6dZhPuFOlfBudub-b2onO9qtX8_OW14MAVYSAariDLOB0rBbKyjBwRSM2elWGMcDzBCHqMoRClcJVdeBHdV9oMY2hwkpsj-_Y_xJ-3nZJOQ9cFIeGBoiHEwu0YKgJh",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "plus_code" : {
+            "compound_code" : "2QHQ+G3 京都市、京都府",
+            "global_code" : "8Q7Q2QHQ+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA6TOZSYJAWARaq9ozSw4x54",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "京都市左京区北白川久保田町６４−１４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0237805,
+               "lng" : 135.7791007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02522852989273,
+                  "lng" : 135.7804207298927
+               },
+               "southwest" : {
+                  "lat" : 35.02252887010728,
+                  "lng" : 135.7777210701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "京都大学生活協同組合 吉田食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105368070317040652041\"\u003eMatsushita Takahiko\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAQ7uINT4Q0p44Qxg4XaY5FBruqPGUDaKZJlbg4dkKI-a2UFbTviNG8XJ-sG7A6kMVcXya_UPF7W7gtvh8bKOZiVWibs320zue6ybbpHI6daMzZHgFoEPPVtVwFObGlnwostK6FVTY6TfGyI34fKBO92leb8vGjCuz8SDB6QVYOAFek",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "plus_code" : {
+            "compound_code" : "2QFH+GJ 京都市、京都府",
+            "global_code" : "8Q7Q2QFH+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJoy9mBFYIAWARp0gvi_tUxJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "京都市左京区吉田本町"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0285583,
+               "lng" : 135.7683937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02983242989273,
+                  "lng" : 135.7697387298927
+               },
+               "southwest" : {
+                  "lat" : 35.02713277010729,
+                  "lng" : 135.7670390701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "なかじま食堂",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eMasataka Inoue\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED0VghCtRVnYWBcPwnUjXSX_1duio7tqC6fvrUSnFfImZs__YQ9e3Q-jMHOLfhmZveHhk78BdSValU42-vcTC86FaoBTX19KRuTtFPgHCfrnLdzyWSlRKG5-XhEO0T2VGEX14pFt_ctuFnf1FUb9tUV2HUyea1hf3O4OiB8XSjlhMPD",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "plus_code" : {
+            "compound_code" : "2QH9+C9 京都市、京都府",
+            "global_code" : "8Q7Q2QH9+C9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJuwMKLmYIAWARGHMH3SjW6_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "京都市上京区寺町通今出川下る 東入米屋町310"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0347928,
+               "lng" : 135.7757202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03622447989272,
+                  "lng" : 135.7770480298927
+               },
+               "southwest" : {
+                  "lat" : 35.03352482010727,
+                  "lng" : 135.7743483701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1195,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAPxrxeJCF46Gc1IhTBeiXVIdjgQKLQA_HUkfPe2p6Jw4NDvj_39YTIPH2jkUr_YEvN8Lsf63MFG-hdmTsxYj9Ply8gV4YXdUimzrbcuZeIDVAOOwgVhCFxjDRhPhS8la-CYGffCdwTsFJBxeVEunt3go-y2ObYbra7cXo3py4gM5Iv",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "plus_code" : {
+            "compound_code" : "2QMG+W7 京都市、京都府",
+            "global_code" : "8Q7Q2QMG+W7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "京都市左京区高野蓼原町25"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0335176,
+               "lng" : 135.7838496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03486742989272,
+                  "lng" : 135.7851994298927
+               },
+               "southwest" : {
+                  "lat" : 35.03216777010728,
+                  "lng" : 135.7824997701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ひらがな館",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106790192523357465050\"\u003etien-hsuan Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED-m-yJ8mTwRVaPAyITUWYxpv81Lt29JIYBSQLcy0RjLQ43uoUfI8TnTrfVEWPIYJpMnnccXd7YFf8Q66LgefAx2_15YsU4aCPd1RsoRHcxOEAHEA6gyW9AsQI5DQ4PpT_THq8X_IQd7fMc7yx-IkhvPjdn2me_VM7u1AafUqZpSAIu",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "plus_code" : {
+            "compound_code" : "2QMM+CG 京都市、京都府",
+            "global_code" : "8Q7Q2QMM+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJsylxslEIAWARlU70Y58GKTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162,
+         "vicinity" : "京都市左京区田中西樋ノ口町４４"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0355259,
+               "lng" : 135.7809031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.03687572989272,
+                  "lng" : 135.7822529298927
+               },
+               "southwest" : {
+                  "lat" : 35.03417607010728,
+                  "lng" : 135.7795532701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "天狗食堂",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107579528477423084379\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQs-RLgzXtHxnH8ZiiOaGS2B1gm-LUwbg7nZGJ9_zEPHhSw91_xYlkGFzs3dMqyrV13h0ptUHtbAjhNPe82Y5U7MQ_wEmjxd09nV_w8SEdKTfjMFqrEgB3YY_JahX3rZL2w2ImGh_uZmvH2TTZeR_AoExBWrWPN2pWNIKsllxBzKPT",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "plus_code" : {
+            "compound_code" : "2QPJ+69 京都市、京都府",
+            "global_code" : "8Q7Q2QPJ+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPV5C8U8IAWAR8-RPR4xviNI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "京都市左京区田中西大久保町４７−１"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0268212,
+               "lng" : 135.7840177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.02817342989272,
+                  "lng" : 135.7853459298927
+               },
+               "southwest" : {
+                  "lat" : 35.02547377010728,
+                  "lng" : 135.7826462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "野菜食堂 大雅堂",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115845968809064508073\"\u003eMasayuki Akimoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDMNwFdoNxw4lrfmv-7fGULsicSl2BoqK6SXa11Kvv75Kcgr-Ro1qnd_0yyzOQ16WVC5rpIe67RyJZkZc1cl059tbFXR7q0KRa2laxxaZN-mDy90rP1akXh_HFJCMxyGeW8sUMW7HEW7FUZiey59R0SNkfhQH7KB_cXB5f4ZknHf7Up",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "plus_code" : {
+            "compound_code" : "2QGM+PJ 京都市、京都府",
+            "global_code" : "8Q7Q2QGM+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlzLQsmcJAWARQOGPU2bqMqY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "京都市左京区吉田本町１２−２１"
+      }
+   ],
+   "status" : "OK"
+}
