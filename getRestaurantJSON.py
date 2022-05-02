@@ -1,7 +1,7 @@
 import requests
 import json
 
-class requestToGooglemap:
+class getRestaurantJSON:
     #def setUp(self):
         #self.key = "AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
         #self.client = googlemaps.Client(self.key)

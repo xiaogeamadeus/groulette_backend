@@ -1,7 +1,7 @@
 import json
 import requests
 
-class restaurantFileInsert:
+class getRestaurantJSON_Morethan20:
 
     miseName = ["Chinese"]
     API_KEY = "AIzaSyCh7xnktNn-nWh_KlNh_VP8rg8DITmqL9Q"
