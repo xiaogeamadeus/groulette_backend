@@ -22,7 +22,7 @@ This is the backend part of groulette.
 
 **Diagrams:**
 *Full-Stack Diagram:*
-![image](full.png)
+![image](Full.png)
 *Backend Diagram:*
 ![image](Backend.jpeg)
 
