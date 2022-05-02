@@ -22,9 +22,9 @@ This is the backend part of groulette.
 
 **Diagrams:**
 *Full-Stack Diagram:*
-![img.png](full.png)
+![image](full.png)
 *Backend Diagram:*
-![img.jpeg](Backend.jpeg)
+![image](Backend.jpeg)
 
 ### The description for the files.
 
