@@ -34,6 +34,6 @@ class getRestaurantJSON_Morethan20:
         miseNum.append(misenum)
 
 
-        #jhhh222
+        # test by sqx
     print(miseNum)
     f.close()
