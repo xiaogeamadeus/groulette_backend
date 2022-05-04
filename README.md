@@ -21,6 +21,7 @@ This is the backend part of groulette.
 6. Change the roulette for each customer's past records.
 
 **Diagrams:**
+
 *Full-Stack Diagram:*
 ![image](Full.png)
 
