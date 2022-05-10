@@ -1,0 +1,3632 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "９６−２",
+            "short_name" : "９６−２",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "田中門前町",
+            "short_name" : "田中門前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8225",
+            "short_name" : "606-8225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8225\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中門前町９６−２\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8225 京都府京都市左京区田中門前町９６−２",
+      "formatted_phone_number" : "090-3993-3511",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.02878760000001,
+            "lng" : 135.7807643
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.03008708029149,
+               "lng" : 135.7821059302915
+            },
+            "southwest" : {
+               "lat" : 35.0273891197085,
+               "lng" : 135.7794079697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 90-3993-3511",
+      "name" : "アジアンキッチン サロマーン",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～0時00分",
+            "火曜日: 11時00分～0時00分",
+            "水曜日: 11時00分～0時00分",
+            "木曜日: 11時00分～0時00分",
+            "金曜日: 11時00分～0時00分",
+            "土曜日: 11時00分～0時00分",
+            "日曜日: 11時00分～0時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 385,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100345884956668014698\"\u003eアジアンキッチン サロマーン\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECSVeqBzosFAKLKKhukc4f0GeZVvQlPQCIXEj9l_WFRvPejv8m1uA3T7raN1PV6NVFfVVNKodKmT2Aysi05H2ISB0ElOGsNlvFWSTdSJv81mlJRae5-fd_ajJjgrF7Pz1cdtGXQSNBMZvCozek6-H-l77B72aLBEtYBUN-slbQV5GVq",
+            "width" : 290
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113002739308834333644\"\u003e長島大樹\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDyVARXx6GhgvIk0tyr-LXbrkvG4LzeVA9X-FkifAx-A2MobFiOF5iG_VITmxbbHQpIaPbTWbzqJBElVUJyRafbwBsMi2l4yXSbHTcqTdVRad6Xo_cs8s_A07qMmlZcJtkGzMF6hWcDaYy4ajp_HJxyuCy61M5FGJEYLxyK2WC3A6T-",
+            "width" : 4160
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104577856358680451061\"\u003eka na\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBUAXZ_zof_7KSMtU4vMNX7Ab3c-qR4OqPS7BOhHqumLfVcRy0xLiRMAXecLwakNjal1X5yw5fJg8Fcdzk5W_O0pa-xiaoavtKIip0p_Ord26Al5VrkqYzC7feabTHSGqevYOZrpX9y_Ryb8Qu23N06cuganRaVoxmvN4kaDtbXWxfN",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104577856358680451061\"\u003eka na\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA1PfU-UEkdzcvBZPgR6eN1twfwKImDM1ibUm9SFyBuEJmbd_t4jf5GIOejJ9o94FQtiREKi6vUmL2RKaIpkHhnQtjw6bKm2vXefOdwR6t4tT0FOzNQATavTRMKVfPcl36cZJsF4Iz_Bv8bzJAB7cV3QHniWgSA1RccCxUQ9Vs-LSo6",
+            "width" : 4032
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECXA1a1FVb1YoyGbx6ato7PtAeijuXVJpmyvqO4SCpWhsHlYAhdvSiWiWwot5dmdqktNTKcCw9dZP5uWBbxZ8TtFkAPB56rpqvTx_Wqnhh7GH2_ZNHUf6V6taxloNtlpwoOj1NPoon79HeMQs_EDXcVVToXAGyuRviG0XfMwUPcWVGb",
+            "width" : 3264
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105653486834514441544\"\u003eMuhammad Hafidh\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDnfsMOX0wbGIFBWhMVzYMxsvwdzkTXWGiaT6w2i53_9lQHG02wIwCO_SIEsm2BJY5GKM-9hcJ1kqglfcD-JWgCY9ZUJW0NoIO19tpLwM-mtMe2U84uoVjdPoMP6XpQWOwew8Sb4kSTabsgW_BjHSF-NCokqlmwUff3mPFbpNRdA5HB",
+            "width" : 4160
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101080638536674746051\"\u003eN M\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBYd9ajHOqvYiUSrjs4KIlDTQmQ8ee7djovLZ0bk93Rbkaxm9RzEkwA6IF2icXcmRVTqHwB0YMemEmvx3ydUy_1UXVE5jI27f9CyJ3yb-ttXbiNOlUDqLVd9lLDQKx1pVWanH63yBI9F4c8h5P8-y-bc9cNUSOvt-3vVlH6mTWGJpKN",
+            "width" : 3024
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECCJ0fA3R-gu6XmZrJ8AN-Cfy83pOyJVae4BkuSrUruU73lnP4o7mRx-QXwI5ohGahGbz8572d_kw3uApYuPyGsHByvvkckmW_K49twO_lWvW5ejD8mEv77X4mGfv2dQZiKssdR-I8dADqBc-ONfPyF2QGmRAGbBYWcvMvR-tc2ncZi",
+            "width" : 3264
+         },
+         {
+            "height" : 1185,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102672938790448383539\"\u003e中村健人\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDmRhrFsenTvnCfctVv_Wn0us86YH5sfc0Sryh5Sg3t0HC5Ru1g9HlqPImI9tPFf7frqPTYaH-XWuVNU3rTcM6o9coGG2Bid2iehYhDRF8_7rlpHm20r0Je7htOaK-uz_DcleMciU1yCfzz7hbq-N2GYOz6elqAHIlusy9LZZbGitmD",
+            "width" : 1171
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101080638536674746051\"\u003eN M\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB5TB0R3rxZkUVMmS0X_aeI2vp51x126aPgqdxFMNDtB7T3x_ZNxpNWRKAerkhzKhRG6E2BgxFta8dIQ3KMam9lx_X1xDAVoHdz6s8WJMtHzcXHr921_IIc3V02lMpRJkCpKrodB2PcDpYMl3i-g0VcWBlZXBq-muNkClgz7RzooOpp",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJgR_qY1cIAWAR_G-414hVF-A",
+      "plus_code" : {
+         "compound_code" : "2QHJ+G8 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHJ+G8"
+      },
+      "price_level" : 2,
+      "rating" : 3.9,
+      "reference" : "ChIJgR_qY1cIAWAR_G-414hVF-A",
+      "reviews" : [
+         {
+            "author_name" : "中村健人",
+            "author_url" : "https://www.google.com/maps/contrib/102672938790448383539/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJx-yEoo0yex41SCOWcZoiilfGYoj5eizoPsa9JG=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "1 か月前",
+            "text" : "辛さも希望できるので辛いの苦手な人も食べやすいかと思います。\n今回はセットにしました。特にナンがとてもおいしく、私は1枚で満足でしたが、おかわりができるらしいので良かったらしてみてください。\n店員さんがとてもフレンドリーだったので話しかけやすかったです。\nあと、チキンカレーを少しとスープをサービスしてくれました🍛\nとても美味しかったのでリピります。",
+            "time" : 1647704107
+         },
+         {
+            "author_name" : "ka na",
+            "author_url" : "https://www.google.com/maps/contrib/104577856358680451061/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxf5yaeKHSPJuVE9ws67UbIocQIyLEU36QENal6=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "4 か月前",
+            "text" : "ずっと前からお店があるのに一度も入ったことがなく、初めて行ってみました。日曜日だからか、空いていて、ゆっくり食べられました。辛さも希望できます。初めてなのでノーマルでお願いしました。\n\nカレーにセットにしてナンとサラダ、スープ、チャイをつけました。サラダにかかってる赤いソースは辛いのかと思いきや、すごく食べやすく、カレーも程よい辛さで満足です。なんと言ってもナンが食べたくて入ったのですが、ナンがおいしかった。おかわりができるそうなんですが、1枚で満足できましたよ。\n\n店員さんは日本語が喋れる方でとてもいい方です。怖がらずに入ってみる価値ありですよ‼️",
+            "time" : 1639295400
+         },
+         {
+            "author_name" : "SM",
+            "author_url" : "https://www.google.com/maps/contrib/105740414919435693106/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxQf_HTZZB0l1TsxsVbCrPbav6Z_jFB5RLUnzbx=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "色々なカレーがあり具沢山でした。セットメニューにしたのでサラダとスープとラッシーも付いてきました。ドリンクはチャイも選べたと思います。ナンはおかわりもできます。店内は広くてインドの雰囲気がありました。また行きたいと思います。",
+            "time" : 1601433538
+         },
+         {
+            "author_name" : "Noriko",
+            "author_url" : "https://www.google.com/maps/contrib/114605103930355872727/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJyNhX5tyjo2UIeKXo7-B8x_rSwQNZHA7SwrcSX9=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "1 年前",
+            "text" : "料理は最高に美味しい。ビリヤニは多分今までに食べた中で一番美味しいビリヤニでした。ただちょっと、テーブルなどをもう少し清潔にして欲しいのと、音楽がうるさ過ぎるのが残念でした。今度はテイクアウトします。",
+            "time" : 1606044256
+         },
+         {
+            "author_name" : "Kamoy Kii",
+            "author_url" : "https://www.google.com/maps/contrib/105518834135659266848/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgH3Mv6o0NPWXQnJcUUVfXRLan1l6OmeIGDFc7hUg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "お店で食べたこともあり、テイクアウトで利用したこともあります。\n美味しい。すごく美味しい。\n店主もとても優しい方です。",
+            "time" : 1606279281
+         }
+      ],
+      "types" : [
+         "meal_takeaway",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=16147469035183304700",
+      "user_ratings_total" : 49,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中門前町９６−２",
+      "website" : "http://www.raju.jp/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "光楽堂ビル",
+            "short_name" : "光楽堂ビル",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "８２−３",
+            "short_name" : "８２−３",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "北白川西町",
+            "short_name" : "北白川西町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8267",
+            "short_name" : "606-8267",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8267\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区北白川西町８２−３ 光楽堂ビル\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8267 京都府京都市左京区北白川西町８２−３ 光楽堂ビル",
+      "formatted_phone_number" : "075-754-8622",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.028984,
+            "lng" : 135.785759
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.03026648029149,
+               "lng" : 135.7871257302915
+            },
+            "southwest" : {
+               "lat" : 35.0275685197085,
+               "lng" : 135.7844277697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-754-8622",
+      "name" : "ビンタン食堂",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時30分～14時00分, 18時00分～23時00分",
+            "火曜日: 定休日",
+            "水曜日: 11時30分～14時00分, 18時00分～23時00分",
+            "木曜日: 11時30分～14時00分, 18時00分～23時00分",
+            "金曜日: 11時30分～14時00分, 18時00分～23時00分",
+            "土曜日: 11時30分～14時00分, 18時00分～23時00分",
+            "日曜日: 11時30分～14時00分, 18時00分～23時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101476883799591023573\"\u003ekikuko kawasaki\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECZuKd2A_VOD-xoP8rDC75c75mxlDWDqx_YZDFt9iEgexlWE8mxo1EFpPBXxu8gmPGX3Ty4khAFTJ_zEC7frjcmHRALv7B02O7TCqrT_01ttWCfL3BTc7NRald5w1iMkhuDq522rxNu4UjbqLh7KEaiAFecQ3-OkyUkIyHbNoG0s6h7",
+            "width" : 1616
+         },
+         {
+            "height" : 291,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108009590475565557117\"\u003eBintan Shokudo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDcVwHiutg6obVFLi2BE2S6gPuEQEvV6CEukuoXOr5LsAe4_z8AuBsY_pytzJvpfIu4goZOHNF66WYSwI7OAkHKnDWNGnRpdzLyZ0_yK9in_cS6bKF2Q1Q7pLRuY6OqstMyQ1Hu_zV_j_ss45611MJgzdEYYIoetZOMbn9Yx560Gpz7",
+            "width" : 517
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116592066578700432202\"\u003eSyed Hashim\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA1FS7xBkyyQRvD-cO6-89CvqRXdUrX-JYqheSardZpARPnGEkNqDfTf7sE_wrPXGIx3cShSz8shs9g-V69Ij8TGryeHWshnYNhJdSz28xvqX3OuhoH1D5i9INlx1hKeqTSVxR5l1PbLJSlE1fQsLlhJCiu1YiP8f0XQdWAjB5QtQM",
+            "width" : 4032
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108009590475565557117\"\u003eBintan Shokudo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEChHs54RYChlbQrVAggfBzC_5NlgGWNYqmNUa7SF8bqaBKRrozugjoF94hYVdac6MM0gF-sPE0OZ8UDHqwjdkvG9bAlvvrvT3qZMivy4HglR3hp95_6hKLJy9TjHQSV3o8zZkbalovFTSQpW-3X9R_aklNmYXsiPzh78_HGtpro1dCD",
+            "width" : 960
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED91h26Sr5BRlKlfQOLTl2ozVacNe7-Ezu9o3K9Dam71x-o04gW-ZYe58ffb6tg5dcdq02nJnSQ9yBR15qTbZ5BOPVyKunYxkaA-w_AE5MTCyvP2FJApi2jbuufIZ4zNejlyq3bdu4mWlQXGAoBOIbEszbt8QfpOi2KG3NN89Ibnj--",
+            "width" : 3264
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116592066578700432202\"\u003eSyed Hashim\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB0HPTs9O6Y8QAEm8AjeumeAd2X0jsPCDgNTD9b37XX6hzxqW9AR6vgOdd7tBH5V_XQ0wAA85Psi51QG6LL7O2R6B9ebjeLyL6auhXrk6G80UC3KRJUmpwDlSaomVWQI_LY-7T7kNExwLqYNORsQuFbavAb_WtD1yzad8FYHG0VeE0",
+            "width" : 3024
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106414717817318294774\"\u003e鈴木貴宣\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECtXym-Y29DmP6uByJYAcDBcs87VgDs9usIa3i0_12785FGeo_1VaSonOZrf7PuTBH7jPWYf1LQQoJdpZIwvVdYiwoj75jM1aQfdSk67H06i_YrlKp2JlmVJCwB93PxZI_qm2K65uz7BjNSpCO1jFZPzzyrE1VLw5d69idD9JYpC4sF",
+            "width" : 2252
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116592066578700432202\"\u003eSyed Hashim\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEABI69XZYNptnc82c3LD5PntjQsqJD7h9ASY6eY7rtz2PHaAa0vtiA51Ig2cZCZp9pa7YkC7aiET5h9nzx_jLRtwVMzs5XfyXPC84itrwj-KBaozzsTCY_z6k31dN3i-im_heJf95gn0CyxKNep2KarEQrBdoNQWBgS0hcPxo8xYlc",
+            "width" : 4032
+         },
+         {
+            "height" : 2156,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100047325059953582435\"\u003eReydig Harris\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDHzgZnRP1nWs65P-x1qikrqECYPsBVEEp711ovjlVM7Z1zAT4MpwhqZJeNlqzLBb-cF3abYl10_umj3Zjm9kKc7-vJBMZTCxFJVmMX3GIdrxHvFnADw0L7R4hFbApKmMHzZLkul9h7dXnUSO-4nlW9klYHYIZu5tzPu9iY9V0pg-Ha",
+            "width" : 2880
+         },
+         {
+            "height" : 3464,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEALNrOUEUOgJ0ZGS5OCUijXUWAb8H8UglvDZ7zShexbiHaQrVukcJQ2NO46wJA55atHx5hahIKIjDgXpaNgQZ9UAG-lBDlhe6kjl1XlygW0FmFYE_zgcvtEUCry2iMxHvQYquiqN4CB0xMVdRpVlsjjxs3_b-OL8CB6W4dKufdKO2BF",
+            "width" : 4618
+         }
+      ],
+      "place_id" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+      "plus_code" : {
+         "compound_code" : "2QHP+H8 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHP+H8"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJXapE5lUIAWARGTSJCtQ6BUE",
+      "reviews" : [
+         {
+            "author_name" : "わたた",
+            "author_url" : "https://www.google.com/maps/contrib/114776611942812922991/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJygYpbAcwt41371ML4ZOfB7kbLJ1hOzHOfKsj2m=s128-c0x00000000-cc-rp-mo",
+            "rating" : 3,
+            "relative_time_description" : "5 か月前",
+            "text" : "ランチで行かせていただきました💡\nパッタイとカオマンガイを頼みました。\nパッタイは具の種類が多く日本人向けに作られた食べやすいパッタイってかんじでした🌸\nカオマンガイのタレとスープはとりあえず濃すぎました😂💦\n\nお一人で調理されてて大変そうでしたけど、見てる感じですと盛り付けが立体的で綺麗でした。✨",
+            "time" : 1637835834
+         },
+         {
+            "author_name" : "Reydig Harris",
+            "author_url" : "https://www.google.com/maps/contrib/100047325059953582435/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJyFeIWuKLPe7EFwM7BJ-0wMFomuIFUn_2syBQnc=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "3 か月前",
+            "text" : "ずっと気になっていたものの、階段を登るのが怖くて行けてなかった店についに行けた。\nランチでカレーを注文。レッドとグリーンで曜日ごとに変わるようである。具だくさんで鶏肉もたっぷり、非常においしかった。辛さはマイルドめ。\nまた、写真にはないがこれの前に出てきたサラダも、野菜が新鮮かつドレッシングがめちゃくちゃ美味しかった。ニンニクチップだろうか？中に入っていたカリカリもいいアクセントを出していた。\n\nタイの雑貨屋さんのような雰囲気で非常に楽しめた。これはぜひ夜にも行ってみたいところだ。あと、個人的に雑誌とかが置いてあるのもポイント高い。PayPay使えるのもめっちゃいい。",
+            "time" : 1642577829
+         },
+         {
+            "author_name" : "鈴木貴宣",
+            "author_url" : "https://www.google.com/maps/contrib/106414717817318294774/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh6N58098zWLssVxjsa-VChfNUoTJQ9E0gaeDb69g=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating" : 4,
+            "relative_time_description" : "3 週間前",
+            "text" : "インド風カレーが3種類あります。\n合掛けもOKですがメニューに値段が書いてないのは少し残念でした。",
+            "time" : 1650259991
+         },
+         {
+            "author_name" : "Shoko Ishino",
+            "author_url" : "https://www.google.com/maps/contrib/112426177434513056261/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgWAe39rxqU65mrVZ_M1Cnp9LQj4nU1Ob-gWHAKtA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "1 年前",
+            "text" : "夜利用。京大の学生向けかと思いきや、クオリティー高いです！ソースから添えのサラダまで、丁寧に作られてる。ほぼ全部の料理についてるサラダの細切り大根が、単なる生でなく、ピクルスになってて、それすら美味しい。チップスもよくある工場の味ではなく自家製なのかな、美味しい。デザートの揚げバナナに添えている黒米のシャーベットも自家製かと。初めてたべたけどめちゃくちゃ美味しい。\n鶏肉サテ柔らかい。ビーフも美味しい。ポークは脂のところが、かたかった。\n若いシェフがこんなに種類の多いメニューを一人で作っているようで、どこかできっと修行してきたに違いない。拍手です。",
+            "time" : 1617711134
+         },
+         {
+            "author_name" : "hide yasu",
+            "author_url" : "https://www.google.com/maps/contrib/114437343846976820203/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiGa0dAeTzpLUng0JUCEHzw2-3yW8bKyirplyRtIA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "雰囲気もごはんも美味しかったです。ガパオライスとそれのライスがもっちり麺に変えられたものを食べました。また行きたいと思います。",
+            "time" : 1613176199
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4685215669733110809",
+      "user_ratings_total" : 81,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区北白川西町８２−３ 光楽堂ビル",
+      "website" : "http://facebook.com/BintangShokudo"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "25",
+            "short_name" : "25",
+            "types" : [ "sublocality_level_4", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "高野蓼原町",
+            "short_name" : "高野蓼原町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8101",
+            "short_name" : "606-8101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8101\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区高野蓼原町25\u003c/span\u003e",
+      "business_status" : "CLOSED_TEMPORARILY",
+      "formatted_address" : "日本、〒606-8101 京都府京都市左京区高野蓼原町25",
+      "formatted_phone_number" : "050-3696-3399",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0347928,
+            "lng" : 135.7757202
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0362236302915,
+               "lng" : 135.7770471802915
+            },
+            "southwest" : {
+               "lat" : 35.0335256697085,
+               "lng" : 135.7743492197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 50-3696-3399",
+      "name" : "ブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo",
+      "permanently_closed" : true,
+      "photos" : [
+         {
+            "height" : 1195,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDtsQe6YC6kzNu3M7dQANV_DuDaiYLwqBNFJ3iNbWwd8HAre4XmdmNYWjaiJ83ZpPLm8-7iIWHqZB5fOoyhszPltZLHem6mMTJvaks_ojl-cfu4y0t49pXnQFs8fYqceF1fpEKe1X02T3rGNSVIREIKEqs3UNFDXv9-y260LFxybdCl",
+            "width" : 1080
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBz8OUeYGtwgNP7wcu6nJshzlxm0GwReNruWgvzFE01a_HjU8dQrAIvfqbJBZ6nq5xiygB_pwq4TMWyiHmvlqn3tyPoRT4p31Zz01mn07AXD_NFg11jFYuZkA5On_ZLdSpkbP-TQXp4cBsva241h43OnnOK-vyBlcRB7yWZwFyhCR_f",
+            "width" : 2048
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114129673759699658525\"\u003e今井歩\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDyP7pprrjgr-RPRp_rDD4-9PjMl0sTXJXWS-4BO47rmFC6acW8C8pJkez1RH3eSzV2j7wberxCGBE6wVFtqIr3peQ1dHh3LmA18Ihe7ECXZPb_H8ufiFYYtOYZLlx7hgw48Xre4qyKJIJ2SclSd1UNHot8MI9-qL-HD5nWV_IQVZy0",
+            "width" : 5333
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114129673759699658525\"\u003e今井歩\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECs5ls19fAzWdvDCj4wYJsXfoJKbWmKdvN2BC4leftmR_ErnTNdp0uTa85QkAarmnDu5sTpLuoti-bUHDeF-Rpa6FJ6vW73eM7CU-IwiiyjZ0LEasunblAOu57v3xNp8iFkuhlfi9XGzLlW1hXWgDgjOPyAC3EoxzyNsUuNtTmc8Iz6",
+            "width" : 5333
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110374393778135035534\"\u003eY O\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECY_66oA_kHtd1uEx8mvkRsoirgGlmC-lRMT4nouM8zETbNYtiW6wCw_Xan4NK3IuALx6A2DLcJiZcEm36f4FEzw8DqO_ayOSg_-P8RlSY_Om5T4cnzvw1GxpmyO_J_Lx0P_I_lIsakzg-nuDGAJAGgIegUHioW787tSu9VbjTEo_ri",
+            "width" : 3264
+         },
+         {
+            "height" : 2976,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106062969153423340409\"\u003eYasuki\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBaIBXJnqRsqDf1bV5HJtiGZPREmg7nzIxa4nuBUPydJqIi-5nq_jyOaGgprqYBls3Suw18WaF9w-W7L0-wHN-FePTbCW0kElZFT597q8mkjsgzYoeju0b5jGuvfueVPLZRwHOrhmZu-A7rH3bx1ra1OXZVobxBiID3NslEnKq12amQ",
+            "width" : 3968
+         },
+         {
+            "height" : 2976,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106062969153423340409\"\u003eYasuki\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECpqSrWSh2M3b9qxDGDZjkiak3bdgb0tVvKWIlvYwonuyCDJnl2IXGQrG_nGCHY7H22wg04WgpCj6R6JfQ0IZUhLN4wJJnM9Ww7eQ-ha0KsrWO5L6_YF3tyPMDl1g6dPAPNqmBI8T6ilX4gqtBOaztIkao38S1dxB59GyyZf3vUApTt",
+            "width" : 3968
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114129673759699658525\"\u003e今井歩\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBOjWopBouCLxu1pC09oSeAj3QuCpdTA0qyykzr47nTgSt0vLFBx3aBoOwXtDrWc0j5a4HZ0TkB0BhLjPI_DDA42Twfb4IIGAJvCAiXh7S0G6LbzojWe9ydGIp_iGc0AQ6DmyYFniKONl5naa5itdvu9wLJERWhhnwtw8triXEKOWdc",
+            "width" : 5333
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECuCxelhNxgpsDZivHcCpbuPpDjKYnAPQ5wflR7BTEsVzJtqcHCRS1ZZwRAVpB4YyMgCXnPSOGY6ZTezOQYe2gK6PAVxv7M16CfumFKoq1rMEO-Nn2lOYwGLOmqjiL4Oy8SYmUBUcXZm5mAJ5aeCBqxPR0-P4fE6gw8b4DKdTa7ujKN",
+            "width" : 728
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103057833045963880622\"\u003eブータン食堂 チャロチャロ Bhutanese Restaurant CharoCharo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBp_AoTBjp1EQv3pMeNFC2b1e6aReq2up1i3PZzEbOx6uh7848Is9Jt55K4X8-FaQnG96_YYlkRNsz-0IeBD0JE9S8E9hHnfOqAJaUdmUiH1kBRJunpbF0gEgBhr_vQhfSuemnbOBP1szaBPUHxR3_u-f1SywZHSA6Gq_n4s5i0ax-2",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+      "plus_code" : {
+         "compound_code" : "2QMG+W7 日本、京都府京都市",
+         "global_code" : "8Q7Q2QMG+W7"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJA_xFZuwHAWAR00kIuCD6MeU",
+      "reviews" : [
+         {
+            "author_name" : "nishimura mikiya",
+            "author_url" : "https://www.google.com/maps/contrib/105602546352002413402/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxpDnTM_PFUfEKSWfR04pgjdmRZtOyAO41EPFbc=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "3 年前",
+            "text" : "おまかせでディナーをいただきました。どれもたいへんおいしかったです。\n馴染みのない料理なのでもうすこし料理についての情報をもらえたら、もっと楽しめるのになぁと、おもいましたね。\nメニュー紹介（食文化全般にまでつっこんだ内容のもの。）がテーブルにおいてあるとか…。",
+            "time" : 1553648304
+         },
+         {
+            "author_name" : "Y “M” O",
+            "author_url" : "https://www.google.com/maps/contrib/110374393778135035534/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjx8cHmFj-dDQWstYEUuTXJtJNJgTD_bdyzMCZniw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "3 年前",
+            "text" : "とても美味しかったです！！\n\nスタッフの方にとても親切にして頂けました！\nブータンの話も面白かったです",
+            "time" : 1550037097
+         },
+         {
+            "author_name" : "九嶋英明",
+            "author_url" : "https://www.google.com/maps/contrib/103511691473015476369/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiPIjW2DCsObiLBpXjODZqpZMpfzqs0iiwRoqAZuA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "2 年前",
+            "text" : "駐車場なし\n本格的ブータン料理",
+            "time" : 1560207451
+         },
+         {
+            "author_name" : "上治千代子",
+            "author_url" : "https://www.google.com/maps/contrib/106272782438748607989/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxHbtHxb9ZDiV3POOGklgtbfZGOOKsK7dywRSWw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 年前",
+            "text" : "良かったよ",
+            "time" : 1560921309
+         },
+         {
+            "author_name" : "paul pearne",
+            "author_url" : "https://www.google.com/maps/contrib/114092843427722313521/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJx4i9Qc4bPtxyIaSVgysWLhIs7unCSXFtGfHSpV=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 5,
+            "relative_time_description" : "3 年前",
+            "text" : "素敵な若いカップルが、アート ギャラリーを併設したこの美しいカフェを経営しています。ブータン料理と日本料理のビーガン料理とベジタリアン料理の融合。美味しくて高価ではありません！",
+            "time" : 1544532880
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16515256326977767891",
+      "user_ratings_total" : 16,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区高野蓼原町25",
+      "website" : "https://www.facebook.com/charocharobhutanjapan/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "１１４−６",
+            "short_name" : "１１４−６",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "浄土寺西田町",
+            "short_name" : "浄土寺西田町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8417",
+            "short_name" : "606-8417",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8417\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区浄土寺西田町１１４−６\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8417 京都府京都市左京区浄土寺西田町１１４−６",
+      "formatted_phone_number" : "075-752-1158",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0285337,
+            "lng" : 135.7877512
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.02992863029149,
+               "lng" : 135.7891143302915
+            },
+            "southwest" : {
+               "lat" : 35.02723066970849,
+               "lng" : 135.7864163697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-752-1158",
+      "name" : "goya",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時30分～14時30分, 17時30分～22時00分",
+            "火曜日: 11時30分～14時30分, 17時30分～22時00分",
+            "水曜日: 定休日",
+            "木曜日: 11時30分～14時30分, 17時30分～22時00分",
+            "金曜日: 11時30分～14時30分, 17時30分～22時00分",
+            "土曜日: 11時30分～14時30分, 17時30分～22時00分",
+            "日曜日: 11時30分～14時30分, 17時30分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 811,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109197340511168350869\"\u003egoya\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDEEc-GiJDo2D-6NJ6nucD5HRzLm-TDtxhXelJraX_aZhocasNmeGQ7GpLB1wiBWQag2Ob_HFkTSM_Rgu5yj4qjVFNMt1J0ziW889YRDNNTfBkXxc2ar_AXjcoSgEr_NkGgkJPILUHlEtzK-maqRbS9szblDdG6DQw1iBDA1cCoMTgf",
+            "width" : 1440
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117497137532674308403\"\u003eみぃ助\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAKH2lmzzLjp4YEm3sqts0zZK0Ieq0ssi7yCvyqpSvJtzCa36o8C90NGY84Lg2h_EfM17Y-JOL4Ca8HDdr4cQV3FPK1Be2s0Baai2OYx9sNA7OTBOyBS8oa6lWDXG2Ez8JSm2OtuCzzZ0_fztM5CA87M4XqwBxFMfydnEkSRIxlBrvH",
+            "width" : 4032
+         },
+         {
+            "height" : 1078,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109197340511168350869\"\u003egoya\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDofGptCjC4UPxsgu37wf8YeO-F95i1xCGczV1mAcTQm79JUJZ8byUjJ6JVYAugjKQo6XWG1-vxLVY11oKZtwPb-PJMNKv99nDD21UGLI1ibOKkXTaFERg3FL0_uvjYDUOiPsS8-2yBZB1UOgNxmZRS3tNXppvlkpjHlpaPuqKiSMRi",
+            "width" : 1440
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106227091682729148630\"\u003eChiyo Kamino\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB0LM7bZwA8cex4C_8yoTvmfHnA8764PQo8tGqAhIbe3ZSoeJzpci0XrlRFCnM3X6ZmTmf5IkawJqvN8ouOPNgHfUlQHD5N0mNoZAGfbJvWl8YJ1y8UFpKrLTzUilBw_Lxf3JeKLDKcqTruDsGUBCgPmA2FSG8-68c69bvFSJ9bFVg",
+            "width" : 4032
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102871017757664293685\"\u003e直人\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECf12-C2N56sO3N1Ece7ai7_S11nJkS82KbxTEiOXY-6vhzrmnB_wK1f8kpY7kvMgxcY0IfkiCcUrFm-BaIevouS79NR_SNQFmG73qQ90OlRSxmoM7rxI42KRqkUg5rhs-MG6y76KdpFL6sjE-ZnGnOc9fAYZX05olnduN6l2FIOVBO",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113123752636065693008\"\u003eshinnosuke mamiya\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAtxcE7uIhpP9dbsx1mPTSW_yGlw78KNyzenbg-QnxThREyN8CVW7dZ-ZqJ4NvivNMIHV2HZ-4rbqzkfr0cuLGHj0uKAfMBRCVhPnbwDHyV6MaT7hijsmJPcUL5EJn19taCrfMtEtuVcQVZlAzEs4GXaTpgn0a-3J11R_6wNiK0X4wk",
+            "width" : 4032
+         },
+         {
+            "height" : 906,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109197340511168350869\"\u003egoya\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB-7Nw_uD8eQ_JIiKg6gnSwiWF5dP7bm35byPGBq5AAMdU3LNGFFV1LFJoKm9IYlD0hbTxczfUXEfgwXnWkZF7cm6DNotgdhHcgKFL0-kzA2fCTmUYnecCk2M2AIbq0FF_lSqGxzvAW5Nop8DUk_T6DPwLfT7FkFYoe_Ka_x7H-NMu5",
+            "width" : 1080
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108608809205400335685\"\u003eKazuhiko Umeda\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECWacfwWmpJRNwpK0pGKXdJUE9gKZ0qTD-JSgA9tXRjVJ2Lu_rMQuGqZQqCLLQFSZaxDY_P5uWuQl6a38BQ3NmOGfq4xRxyHXt_yRqa8MEhK-nkqjsDsrRFg1-EAC8PfJvvq1pr9Xc2jNEKCvFEddKAnh9keKlBr5J-4UgvBo5as9_z",
+            "width" : 3024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109469072314867760052\"\u003eMasashi HIRATA\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDnlvECLm6CeX03SxAVjUBVUlGObUVwQ14XlYIdL9Jepx0OnAKhR9zhf64r_W6DKl_9197-cXi9BZoRaIghlScjYTpuVBDzbLxPzlVk---yknGpvZOiUwXynyrw94zW16-2rkmE4bjZkgpIFyXSbNLJCm-120U-lMD_UNRedW_GcauA",
+            "width" : 2048
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108608809205400335685\"\u003eKazuhiko Umeda\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDUdiLTmhnY-xYemfvv43zoXQ2z9AiRtNqN2aj7L2vsDPt5GjyjR8saF6OqptXYp7jCTDdeID9c-WWL9gvWl_birE6QARjiBRE7OfLziybJwRf6AYKoO6EUcVex4vbKpqskalPt9x4AZFotXt6XkiLQBmJX2XWvxV98L_0PurOlOynn",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJByDugv8IAWAR6HFX-TflKm0",
+      "plus_code" : {
+         "compound_code" : "2QHQ+C4 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHQ+C4"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJByDugv8IAWAR6HFX-TflKm0",
+      "reviews" : [
+         {
+            "author_name" : "田原秀樹",
+            "author_url" : "https://www.google.com/maps/contrib/107672172825304294366/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJx9Rlp9GxJWNzvTzeOZNiyE2e9rLYaRfhJ6CUuR=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "3 か月前",
+            "text" : "おいしかったです。\n沖縄を思い出させてくれる料理でした。\n同行者はベジタリアンだったのですがしっかり対応して下さり感謝します。",
+            "time" : 1642037155
+         },
+         {
+            "author_name" : "山まや",
+            "author_url" : "https://www.google.com/maps/contrib/111712081041934853884/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GipJnQDMs_SshcFepyZJDZkj_am1DEepwXx1Nnd=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 3,
+            "relative_time_description" : "過去 1 週間以内",
+            "text" : "海ぶどう食べに来た。普通に美味しかった。ヴィーガン食べ物があって良かったけど、やっぱり近くのヴィーガン店のほうが美味しいな~",
+            "time" : 1652089748
+         },
+         {
+            "author_name" : "m maako",
+            "author_url" : "https://www.google.com/maps/contrib/103692010434645323159/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJyjyxe_UitxMvyRC2t5Dd5uNNlCFlYqoMCS-tBF=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "7 か月前",
+            "text" : "2階席でなかなか注文に来てもらえず、\nかなり待たされた。混んではいないのに、\n隣りの人に比べて、注文後も提供時間かなり待たされ、お店の人の感じ悪い。\nお店の雰囲気だけは良かった。",
+            "time" : 1631432507
+         },
+         {
+            "author_name" : "AR",
+            "author_url" : "https://www.google.com/maps/contrib/101286573065694795717/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJydFf_V3trkr2jHzWemhXdXQDPH9hgXHq7SjwwyPE4=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 1,
+            "relative_time_description" : "8 か月前",
+            "text" : "1、かなり待つ\n2、1人客には特に対応が悪いかもしれない\n3、美味しくない\n4、他の方もお書きになっているが、体の具合が悪い人には2階への階段はかなり急で厳しいかも\n5、女性店員の対応が悪すぎ。客に失礼では？\n6、上記が我慢出来るなら店の造りは素敵なため、雰囲気目当てに来るならいいのでは？\n\n当方、1人で夜6時45分過ぎに来店。\n店の中には2階席に2組、ちょうど来店した他のグループが1組いました。\nかなり階段が急でした。内部障害があったので、きつかったですが、1階は4人席かける2のみ、これから混むであろう時間に1人で座らせてくれとは言いづらく言われた通り2階に行ったのは運の尽きでした。\n2階席の1組は食事中、こちらが2階席に案内された時にもう1組は注文中。\n\n2階席の人間は注文の時は呼び鈴を押すシステム。\n注文を決め呼び鈴を押したが、1度目3分しても来ず。2度目を押してやはり3分くらいしてやっと女性店員が上がってきたと思ったら注文の為ではなく片付けの為だった模様。\n声をかけたらやっと注文できた。\nなお急な階段の昇降に支障があったため、下まで呼びに行くのは躊躇われた。\n\nこちらの入店時に注文していたカップルは注文後10分程度に食事が運ばれたが\nこちらのは注文してから25分超えてもまだ来ない。\n他のグループがそれだけ早くきてもうたべおわっているのに来ないため仕方がなく店員に確認したところ「1人で作っているためお時間がかかることもあります」「キャンセルできません」\n\n呼び鈴おしても来ない人がよく言えるよなぁ。\n注文聞き取りに来られないほど、それも累計5分以上聞き取りに来られなくても謝罪もないくらい回らないなら店員増やせば？\n\n食事も美味しくなかった。\n食事が来たのは注文から35分以上（入店から40分以上）経った頃。美味しくなかったし食べる時間がなくなったのでのこしました。\n何よりも女性店員がどん！と皿を置いたのをみて心底幻滅しました。\n\n会計の時も「またクレジット」と文句ありげに女性店員が言うと奥から男性店員が出てきて処理するのはいいが…そこで女性店員にやり方を教え始めた。こんなに待たせた客をまだ待たせるわけ？\n\n流石にカチンときて最後に伝えましたけど、女性店員の方の態度、ちっとも自分は悪くなくて客が悪いとでもいいたげな横柄さで、流石に何も言えなかったです。\n\n一人の客で、単価が低そうな人間は嫌だったのでしょうかね？\nお店にもお店の意見があるでしょうが、お皿の置き方、注文に5分以上来ないこと、「またクレジット」という言い方は流石にいただけないですね。",
+            "time" : 1631373990
+         },
+         {
+            "author_name" : "とこゆあ",
+            "author_url" : "https://www.google.com/maps/contrib/116117255030024708937/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxGBEyGEktftpmBZPOTufOV2QgfdIfBOFsfO984=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "6 か月前",
+            "text" : "ランチとディナーと伺いました\nゴーヤチャンプルがとてもおいしかったです",
+            "time" : 1634214338
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7866351727725212136",
+      "user_ratings_total" : 172,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区浄土寺西田町１１４−６",
+      "website" : "http://goya-asia.com/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "９５",
+            "short_name" : "９５",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "田中門前町",
+            "short_name" : "田中門前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8225",
+            "short_name" : "606-8225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8225\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中門前町９５\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8225 京都府京都市左京区田中門前町９５",
+      "formatted_phone_number" : "075-723-9259",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0287493,
+            "lng" : 135.7810673
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0300527802915,
+               "lng" : 135.7824095302915
+            },
+            "southwest" : {
+               "lat" : 35.0273548197085,
+               "lng" : 135.7797115697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-723-9259",
+      "name" : "インド料理RAJU 京大前店",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～15時00分, 17時00分～0時00分",
+            "火曜日: 11時00分～15時00分, 17時00分～0時00分",
+            "水曜日: 11時00分～15時00分, 17時00分～0時00分",
+            "木曜日: 11時00分～15時00分, 17時00分～0時00分",
+            "金曜日: 11時00分～0時00分",
+            "土曜日: 11時00分～15時00分, 17時00分～0時00分",
+            "日曜日: 11時00分～15時00分, 17時00分～0時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 615,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111547649623406095652\"\u003eインド料理RAJU 京大前店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAVLPv7Q7m8cQ3hyMRO0tCEAOC6OEp3imuhn-VS6pKLpTsXStvo6tuAVJa2Oi3UzHrFOBnutCLSOjLdnFTAIBKz5xit8hl_1JDt6CBqnBHx_XtwURQsRYqlpmF7o1bNOZkY1j4307Fu-MHxCuumSrLy1okErvB9Djz3Rl_2avsoAgRY",
+            "width" : 453
+         },
+         {
+            "height" : 1281,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111547649623406095652\"\u003eインド料理RAJU 京大前店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEChJdWPYsjwk72m1qGr-_tVtM_vwA97XVtkLM0IF0p4gBhw3ML6qCTjgLYv_pzq8nTVvpoo7VW78hkr1R3GJFzjGtMKRtdu4puEW_b9aKWuujOwoUj_VzZTXXyjHeaRT8OObFJ0IOeMwQi6DFQbKnbdZqgvExrWWzRbxqtw8L7QrAlN",
+            "width" : 1920
+         },
+         {
+            "height" : 2608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEC9K8lk2r7RJAGFbYUMExsncnmU-sJV-BNbYfQJgoTMtktMiWKWDBMRIPz6JOxRieSM-Y8lvVbiNb63ScXoBt6fFDDU3-Rg7m-ktZdxARv1MDI55kj0CdJ6l5cBpHrtx3GPAQ2yudV5kqhpxuMxEU2ZmC6XcYvYCRseF8ZcLPYl9rli",
+            "width" : 4624
+         },
+         {
+            "height" : 2608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECKy0dL8YG2zUW0Sj6mMEP54mYx_AR6taDO0azZyzbf-o1J3U2YUgEfvr5dhsNksaCHUiGS2Gfg0DxIdBkj6unKWggeLifnzZleZxVPNX_uj-cf5cH2EcfU1zzD_ctcRkrfWQkMTG50sUDN5h1DApOBjxh2ZPsiCzcyu2_o3fFonTIy",
+            "width" : 4624
+         },
+         {
+            "height" : 2608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBK0nE2FtubsU2CS0-CZLkPuBZ7Msg0Iw50xyUuN8WCd7K9i7uARDHF9Yiz1Iluxg6fYVCbVB7bnvXT7If9yUeTmfU_J-oAbM5jy1FdohbpEuVY6mOzhzy18yTI4hJIMIAZRrJW084bk-hY6j6GjHw705F9I669G2QVVZd-zEhlovfI",
+            "width" : 4624
+         },
+         {
+            "height" : 2608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEC8ejq4mCeanJZdXTvdXuLA1ciF8AApHvFbqQJ95TzFy1g-libmrQVqQQYhDPQsjFi28tnWmY45xI0cthBpTok4iPKNg2Q7IUvSkfKr_Xhnbu9bK7F6FOeil9CRVb-cv_20Z2zUpHaMsUUhP-sbu4hrz_0pkRssYaKOwwDFwhyW3jKo",
+            "width" : 4624
+         },
+         {
+            "height" : 4624,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB4iBViy3zDX2L7WnF3M6mY5gcNXGryJ3zsQjWOEI8nqmcEEkOZatELjtLTNtFE-YRx3CpQIzdKKxFuIgNqtyoWd6NV1-O_neiV1C74vDWnye0emXKPulfkaqYPbaOMuNhFr6QQCbMa2TvLo2rCER8uA9n_qDby7HJ_Cy-JxnM4wMPd",
+            "width" : 2608
+         },
+         {
+            "height" : 2608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBVDU800nJXCYeeEpNBXZ826EkCrkk28Zcl-rRE6YHIoV037Q5QS3XMVMkAaTn-6FARxFNEAZZUbFXVG1dUzZItGXqbIChxDQGvcdtf6jP51mYfZuk5oZF8JgwG6jGcsLWiGLfBhV_mZ6B_eq6kyCbDG4us1gwHobPj64lcoDl7Hxbf",
+            "width" : 4624
+         }
+      ],
+      "place_id" : "ChIJ4fxEzi0JAWARaVNurDEDDSk",
+      "plus_code" : {
+         "compound_code" : "2QHJ+FC 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHJ+FC"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJ4fxEzi0JAWARaVNurDEDDSk",
+      "reviews" : [
+         {
+            "author_name" : "梅澤和弘",
+            "author_url" : "https://www.google.com/maps/contrib/105965418663795585795/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJwAGVGgCc4nLxLPmBVzEC-Ka0Kk1td8OOn4tbNC=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "1 か月前",
+            "text" : "",
+            "time" : 1649219094
+         },
+         {
+            "author_name" : "xin x",
+            "author_url" : "https://www.google.com/maps/contrib/111964449141704432524/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJze-5Zz_IhLiqaH9l_GyU7_U6dIRaW3MzeCCW2R=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "3 週間前",
+            "text" : "",
+            "time" : 1650208614
+         },
+         {
+            "author_name" : "Khan Mujahid",
+            "author_url" : "https://www.google.com/maps/contrib/103299229873676558991/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gj06xZEfMqT9Z-6wVgenE0mS_mzLM5TAbrU8b90=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "1 か月前",
+            "text" : "",
+            "time" : 1648543541
+         }
+      ],
+      "types" : [
+         "meal_takeaway",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=2958024042133476201",
+      "user_ratings_total" : 3,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中門前町９５",
+      "website" : "https://www.raju.jp/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1Ｆ",
+            "short_name" : "1Ｆ",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "ローレックス田村",
+            "short_name" : "ローレックス田村",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "３７４",
+            "short_name" : "３７４",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "河原町通丸太町上る",
+            "short_name" : "河原町通丸太町上る",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "桝屋町",
+            "short_name" : "桝屋町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上京区",
+            "short_name" : "上京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "602-0877",
+            "short_name" : "602-0877",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒602-0877\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市上京区桝屋町河原町通丸太町上る−３７４ ローレックス田村 1Ｆ\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒602-0877 京都府京都市上京区桝屋町河原町通丸太町上る−３７４ ローレックス田村 1Ｆ",
+      "formatted_phone_number" : "075-241-0892",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0178133,
+            "lng" : 135.7692969
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0191669302915,
+               "lng" : 135.7705458302915
+            },
+            "southwest" : {
+               "lat" : 35.01646896970851,
+               "lng" : 135.7678478697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-241-0892",
+      "name" : "パクチー丸太町",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時30分～14時30分, 17時00分～20時30分",
+            "火曜日: 11時30分～14時30分, 17時00分～20時30分",
+            "水曜日: 11時30分～14時30分, 17時00分～20時30分",
+            "木曜日: 11時30分～14時30分, 17時00分～20時30分",
+            "金曜日: 11時30分～14時30分, 17時00分～20時30分",
+            "土曜日: 11時30分～14時30分, 17時00分～21時30分",
+            "日曜日: 11時30分～14時30分, 17時00分～21時30分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 865,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAEI9WatmSzDY7TTaQbax05P1ASa4KqLdMlW4TEzfD9ZSsbdPeTw2lY6bTSlyVRX6Ow49Ov9NsCN_cHv3g9zDV_wB_yG5O-O3mn3CCwFj4RUUXSCFks7AuzzsiCBdjxH76AkX2mV1mFi0SElkesDhKWlX3Oy-McYTrb-h7d3-1qD49V",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAM_haFJwIzuWAsCTzf1Y1NMM6AvKe9fJK-6nHJNSxoxfM6D5wKedK_dscS5nXUFpzA7uZQe2XHwMu1VM1SJLKspwHnntD4jJFbDCh3Z_taN7DQ3PAllh8atW2pyULRAhWg5IoQTFycefo4ubeBm1WaNBRokTypQ86epVJlCOKum90-",
+            "width" : 1536
+         },
+         {
+            "height" : 3468,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105825671849875620830\"\u003emanabu sasae\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEApqfu0c-1xISHTTEt2llXd-h6ZimkkSbLQtbT_nCHbRocGqjVD0LgPaw3SZg-xOHdo3BwCxEMGAQ57SmD21k3CT8Gg9YQIQRnisOm_JXGSs9sps5WohMIhUPcTDGqLsAbAjYd-Ivw3sH0ydhRSgW0ef4xsDlWbJnLeJqX5mLuzFZY",
+            "width" : 4624
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBQvztFWRlvepVzsQU23OzCt0waNCCbr8M2hWzj4DfoCjANMw8dbEQCNugm2FpKkxuN8GMzJ9wIGPpjmniGWpwE-vs2Pik_5-NwAMqerSW8zZLayVGFYmLyqoQKoG_G1UH2Ofl2oVu6BzTs-n8kSVGNW3th5_sIxx_X3xHG5CdTrNGX",
+            "width" : 4192
+         },
+         {
+            "height" : 730,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106543343752634501734\"\u003eKEN\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBXDGom48z1bulKp4pts-clZoPTj8RFl2-1dWLE8giFFVm5O0PXdO_5BYOPf6j-YqQj9stAPuyNw6w3ZNqTuOkyrHRgHmVeGqowJmTIZvU46MIjdQx_28sQ2qbefRnfcB3SOPhMqw0vAYT6fHbHnNjr6foU11-TjcIjbWSxJPYJV45a",
+            "width" : 960
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDouwiTz1eIGGmebCGhXO5Erg441Vdlx4exqosTi5BSl1X1Ylg-r7sxFN6-LsqVaO_sFYHeNIKbVMO536dsKgjBB7MvWkRM0ZZKQlT5cOBeoxiNDfS6ISFDgbiTyCCsyRAwyxSPHBTlz1l_8jEST2noIfy0cg7GwRFvl4oHTErC-tZV",
+            "width" : 4192
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB0T344M5TeGaUx4yfW7CTT_ridheLEhVLxRkz5tSUIRaMdcRkz_FIsxxE3bbwuY9PHqD7UAvF68EH4tT4-OZKgUaAZqKmrJc0DRALnIXZIdeD2iG65Sn7Tpadm2iVweMrKJfx_zlP9XcXaTpuXgL_-a62c0W34bFQo8OGY8cxN0Xzq",
+            "width" : 4192
+         },
+         {
+            "height" : 3464,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECiu5xTeheSpJP6AugBxHRhDvQG0YYefhxyMFXh3EOVW6sPMUVATnZeGoIp5ekpluj2l0b020Irv-5oW5LpzwsWQS--96jI0PGCHsPpPKLkLucLil_nbnUsIwKP4jaBg0CAaBJtP0GDJcOEmrIDzvTxgyDU2YfRrsb_fWJDHu-_fJO-",
+            "width" : 4618
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECngjcpxlnX91ypeGetkYtngfC2t9pV9qHAVpghrWwpJ-g_6_ByXzFa0ScKIOolnhMB7eI6CXryAKPz44gue8550h31mU_wmqcxCQNNHGgD2PxppDUQhJLWrOfwRn8PK_gJjIVEkzbC1JhVg65ALCIT10lvdZ6KYRuFUoQHneNMrnsb",
+            "width" : 4192
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916777029031943752\"\u003eパクチー丸太町\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBtgA1RDd89Grh4SCWjIFthMtzKw_9I3htUdj50cY9enkrtigX0AZmIwYKVKSD2-14UKVAu9VaoHKyuyjgxc1mQXjxov4UO0K_BUIZi9hX8qek56sR0r701QoWJ7ksUcsmOCF6PO_gNguvpwP8CheXlbsSoxXkK2BSy8zSwi7UsokVe",
+            "width" : 2796
+         }
+      ],
+      "place_id" : "ChIJr8WYGosIAWARdKn5WhKb794",
+      "plus_code" : {
+         "compound_code" : "2Q99+4P 日本、京都府京都市",
+         "global_code" : "8Q7Q2Q99+4P"
+      },
+      "price_level" : 2,
+      "rating" : 3.9,
+      "reference" : "ChIJr8WYGosIAWARdKn5WhKb794",
+      "reviews" : [
+         {
+            "author_name" : "ごみぱんだ（ごみぱんだ）",
+            "author_url" : "https://www.google.com/maps/contrib/102976582182202764043/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiYAjq7loseCKKw5VT91sqLZP2SX1L0Ri3hc-GR0w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "4 か月前",
+            "text" : "こじんまりとしたベトナム料理のお店です。店内はそんなに広くはないですが、席数はそこそこあります。お昼時によく利用しますが、待たされることはありませんでした。\n1000円以下でお腹いっぱいになれる良いお店だと思います。",
+            "time" : 1641527432
+         },
+         {
+            "author_name" : "渡辺さくら",
+            "author_url" : "https://www.google.com/maps/contrib/103246053093187060629/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjCXIdl14IEdJ5TVn3hcngWbBOM1IlpWdRJdokm=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "1 か月前",
+            "text" : "お手頃な値段で異国ランチが楽しめます。いつもフォーのランチセットにしていますが、サイドメニューのコロッケ3種が特に美味しいです。",
+            "time" : 1648459101
+         },
+         {
+            "author_name" : "egy tky0k",
+            "author_url" : "https://www.google.com/maps/contrib/112172119664894108705/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgEyPooRf0dN2RTLNZ5g-TVnJ4f2iSZv79PrM7WhQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "6 か月前",
+            "text" : "東南アジアの屋台ふうな店のたたずまいで、味もとてもおいしい。値段も良心的なので大満足です。",
+            "time" : 1634645690
+         },
+         {
+            "author_name" : "えび",
+            "author_url" : "https://www.google.com/maps/contrib/100371754772494435409/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJy3PrSrJmKaIJCxokcHkHuNsGalwHHKudP163LF=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "8 か月前",
+            "text" : "宅配サービスでよくパッタイとトムヤムクンを注文するのですが、ここのお店の味が私は1番好きです！値段も安いですし、味も美味しいのでタイ料理を食べるならこのお店だと思っています( ¨̮ )︎︎\n1度店舗にも足を運んだ事もありますが、お店の中は屋台風で楽しい雰囲気で、机に調味料が置いてあるので味変も楽しめてとても良いなと思いました！\nコロナ禍で大変だと思いますが、頑張って下さい！",
+            "time" : 1628944087
+         },
+         {
+            "author_name" : "おざわ",
+            "author_url" : "https://www.google.com/maps/contrib/114157475798349338457/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxntVU7RB1JevUyfOoqP_zSpXhLY6qPRTf4y9FBRA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "9 か月前",
+            "text" : "配達員として伺いました！\n普段から仲間内で評判の悪いこちらのお店ですが、\n挨拶後放置プレイ気味で（こういうお店は待たされる確率が高いです）料理完成してるかも分からず、確認も兼ねて奥に行きました。\n\nするとお料理が出来てましたので番号確認して回収。\n夜なのに屋内で何故か帽子被ってる女性店員さんは会計中でしたので、とりあえず先に梱包してると「確認してくださいね」と言われてしまいました。\n\n「？？(配達の)番号は確認しました」と返すと、めっちゃ目開いて「一言かけてくださいね！」と追撃。\n\n「私の許可を得ろ」って意味だったのか～！\n完全に後で声かけるつもりだったので全く思い至らず。\n\n勝手に奥行ったのは申し訳なかったですが、それ以上に目つきがヤバかった。精神科医の片田珠美みたいでした。絶対に検索しないでください。\n先の配達で陽気なお姉さんに「ありがとうね～！」とチップ貰った後でしたから尚更。対比がすごかった。\n\nところで人は年を取ると縄張り意識が強くなるそうです。\nそれまで皆が普通に通ってた道を「私道だから通行禁止！」等言い陣地を確保しようとします。\n老化による諸々への不安感の増大に対抗すべく、領土を広げて安心感を得たいということらしいです。\n\n要するに、コンプレックスが強い人間は縄張り意識が強い。\n何故かそんなことを思い出しました。\n\nこういう人を見てると常に争ってるんだろうなーと思います。\n頑張って勝ち続けて下さいね。\n\n＊＊＊\nどうしても屋内帽子が気になって調べてみると、まず帽子を被る人は自意識が強い。それを屋内でやる人は「すごく~」ということらしいです。勉強になりますね。",
+            "time" : 1627575045
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16064228898991876468",
+      "user_ratings_total" : 256,
+      "utc_offset" : 540,
+      "vicinity" : "京都市上京区桝屋町河原町通丸太町上る−３７４ ローレックス田村 1Ｆ",
+      "website" : "https://www.green-curry.co.jp/marutamachi.html"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2F",
+            "short_name" : "2F",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "吹上ビル",
+            "short_name" : "吹上ビル",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "１４",
+            "short_name" : "１４",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "２８",
+            "short_name" : "２８",
+            "types" : [ "sublocality_level_4", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "田中門前町",
+            "short_name" : "田中門前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8225",
+            "short_name" : "606-8225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8225\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中門前町２８−１４ 吹上ビル 2F\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8225 京都府京都市左京区田中門前町２８−１４ 吹上ビル 2F",
+      "formatted_phone_number" : "075-702-2611",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0291432,
+            "lng" : 135.7791114
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0304800802915,
+               "lng" : 135.7805677802915
+            },
+            "southwest" : {
+               "lat" : 35.0277821197085,
+               "lng" : 135.7778698197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-702-2611",
+      "name" : "こあの助",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 定休日",
+            "火曜日: 11時30分～14時00分, 17時30分～21時30分",
+            "水曜日: 11時30分～14時00分, 17時30分～21時30分",
+            "木曜日: 11時30分～14時00分, 17時30分～21時30分",
+            "金曜日: 11時30分～14時00分, 17時30分～21時30分",
+            "土曜日: 定休日",
+            "日曜日: 定休日"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3672,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106967570382870447227\"\u003e黄英貴\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBxJa6XeWdDeIccaFzta7lchDIlqBakDzfUEQzQOu0IzF163e_QRxZQ9AIcCBSJ0xMUCSThmvAMpDuNEM9LukLDGxmDsdm_QsjEFZleIfUCYggUPdOHglMpk-9M5XoEbIYXpE67heiM_f_gjrlu1Xp4iTKSbqhTUoH3odVGWaOz5G4Y",
+            "width" : 4896
+         },
+         {
+            "height" : 1512,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109119404120026786805\"\u003eこあの助\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA8muicIU0r291jh6GREtZY3eHZA_RckQ6ccPf4C9NCsDoZ9EhnME0wiiunG7ggoR0t2_qfUIH0yK6zD0frxnJGhrlEuGuZla9GaESKD5m4hDFCooclNZqCLft11ADxbbg5AA6xuTPT6Awepv1LbAO5kwv5XKMoY9LBIwPtxtOUtsLN",
+            "width" : 1513
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eM. Ino\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECe3KrzTRnuYtqjNQIXQOb_Rmm5s7fR55jWRdmeVAk1HTMlLnod0u9FtJkcmzHw2oZHFWuapeggQjKRWEgi8CWvCfeQG961qRmOaa1sO_dlVkECpQVYGbDWRiO5tVbwrUs01y5gSZDAuOxNhSDNmALnWleKNy6TPMvZ0_TpDaN2Xc0U",
+            "width" : 4608
+         },
+         {
+            "height" : 3472,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAux5dy_WN1KZP2fvlgi5OhQa-eiSt92DeM5w0iCHuErNwQM1GQypwoGK3Jd31KS_h_8Uj1J0uYc-s-Fn9hiUQat6CuuFFMvLEUTM3qdnxbNNjUCo4vt5Y9gdTG8uRc-TmN4cSFSACkv-Bh5f4Ki1KsQcehLCTxtRwy_tHJG-0FD1Kn",
+            "width" : 4640
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107477784214548231519\"\u003eM. Ino\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEATaD7bAm-Dlqixrp3tbnylbXxckYGkbKSceOxINqlvbCfAVIafHx-33UA2_6Rg6e8t2KOJx0XJhZIcDrOzXj2LisAllon4TkCRXeIYFB2vrf29TWFMe_pOH4Z-zB9Xg3kXuG4pDgHxGgL95zjNyVfakgThSD8Im51HQqpKStV3rhSC",
+            "width" : 3456
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104853430729578919815\"\u003eFrancine Lianne Emralino\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDZjfM4P91UOgBdtCMpCFEvsIzFf48atD5tPrYxqGx3VzcPKiw_GCfdNQgFHNmdl7OTIuXAbJmG9vMf9jXleBLf4XvxydaCRMm3SJy4SIfKJJPY5iJlE4tv59kRwFffARltuyw2ncg42VEl6Qh1orC44jte9V3NDZNLC9nV6X8oWHlc",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116822099528776565745\"\u003egk Izmo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBitJ9Huv_4YiogcOCVEuwXbwjjlQQUba4tJV_jGu0iFjSsSgqxEm92lzf4TdpkcP183fxwUl4wJ3DMrUbinszWzHbS9QMOs6IN4KyVwSe8wru3KyzA7NqIpiehU4Zd3d7fo6HvrjeLxMh6ZVeb87J1r7qMEX617stVCFOJfE_s9qxD",
+            "width" : 4032
+         },
+         {
+            "height" : 2073,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116822099528776565745\"\u003egk Izmo\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDprCcxob0gXPLueVBVhV7j6YtIr9aCUbXD4cW36UaFSWbA_QbFU4iWjaV-_nA5FQGlNjWdiWqTtUgG0MyIQBpBWYyeogb1DmUVdipuHE4NfGy62V0L5YF0rOz5sM5x0pI8QfhKf4HJjRWA_oflyiD43bQ65aUNklsGPr4L2tFsyQJC",
+            "width" : 3719
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105653486834514441544\"\u003eMuhammad Hafidh\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECEXyhgSySqCsobyq6hdUrGJi1wTJXFqYk6mJzcR2-PmS6D6fDI4S-n1JfRarSLt-2LuiTDCGY4Hz0BOKxIZqz2j31STvp7EUzMiVcKtao3xbc-v736jnFfkWrxPrDoofeYpImScZHRXQq10pfDInBUsPVE-fC72HQHYdCfXc8zrdM8",
+            "width" : 4160
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDi3hgpDa8FfgYq42QUVRbXdln6XmeuW1PflfCEKrwgep7UI9Iz9i1JHQlD1T9ubu6xX8HYDh3_xGnkg0f3PdtYyl4HvV32AZ83lA1eHbiSJk2lI4ul2ZBVL30_LnT8D6GAxrmQDSgMdKH6RUq-wPbUAxu2fMp8UYUtymM6SlDws9HQ",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJkfIPjFkIAWARPTJ3RuuhGZk",
+      "plus_code" : {
+         "compound_code" : "2QHH+MJ 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHH+MJ"
+      },
+      "price_level" : 1,
+      "rating" : 4.6,
+      "reference" : "ChIJkfIPjFkIAWARPTJ3RuuhGZk",
+      "reviews" : [
+         {
+            "author_name" : "M. Ino (MGN)",
+            "author_url" : "https://www.google.com/maps/contrib/107477784214548231519/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJwycu7m8fx8RN-EiP-DFQiuxyIBDxwHQh4BqmHI=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating" : 5,
+            "relative_time_description" : "過去 1 週間以内",
+            "text" : "百万遍の交差点といえば、京都大学の目の前ですので飲食店が豊富にあるエリアなのですが、国際交流の豊富な京都大学だからなのか、インド料理や東南アジアなどのエスニック料理もかなりあります。こちらは百万遍の交差点の目の前の雑居ビルの2階にあります。ビルの看板を頼りに行きましょう。\nタイカレーやトムヤムスープと、オリジナルの丼ぶりものがメインのお店なので、今回はイエローカレーとオリジナル丼ぶりの豚肉と納豆の丼をオーダーしました。学生向けのお店でもあるので、なかなかの盛りで登場です。お味ですが、イエローカレーは日本よりのマイルドな辛味ながら、最後に来るスパイシーさも程よく美味しいです。昔はもっと暴力的（！？）な辛さだった記憶もあるので、ジャパンカスタムされてきたのかもしれません。豚肉と納豆の丼ぶりは根菜類も豊富で、こちらはスパイシーさは無く、どなたでも食べられる美味しさでした。\nひとしなずつ手作りで作られているので、時間によっては待つ時間が長くなる場合もありますが、百万遍に来る際にはおすすめできる、美味しいお店です。",
+            "time" : 1652070796
+         },
+         {
+            "author_name" : "Hiroyuki Hayashi (ひろちぃ)",
+            "author_url" : "https://www.google.com/maps/contrib/107292063959920470717/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhMZMskQbLq14fh5ex9-4UjC4eiBbrK0qR4uGeQcQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "6 か月前",
+            "text" : "お昼にカレーが食べたく検索してたらタイカレーかあるじゃないとお店に行くとトムヤムもあるじゃないですか…悩む…グリーンカレーとトムヤムどちらか？うーむ？そんな時は両方頂くのである^_^どちらも美味しく私好みのお味で満足してお昼からのお仕事に戻るのであった^_^",
+            "time" : 1635556042
+         },
+         {
+            "author_name" : "H M",
+            "author_url" : "https://www.google.com/maps/contrib/105419193971829944930/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgZ1jfPt-ybXLAQCkNdMQfeNsAYVh5Tx9S1qzI7Rg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "6 か月前",
+            "text" : "角煮丼の角煮が口で溶けるほど柔らかくて、タレもしつこすぎないのでとても美味しかったです。",
+            "time" : 1635695514
+         },
+         {
+            "author_name" : "a a",
+            "author_url" : "https://www.google.com/maps/contrib/106188493977803996812/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjwuLFt95B6ZKCnI8JTmOs4MzD1kB1URJoP92qsDw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 か月前",
+            "text" : "近所にタイカレーを食べられるお店が少なく希少な存在で有難いです。もちろんお味は最高です。",
+            "time" : 1644541928
+         },
+         {
+            "author_name" : "corn flower",
+            "author_url" : "https://www.google.com/maps/contrib/110993892396302632869/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgxBcoCIWtg1DOgHW5lCvOGSE7UDkYgWfTAUrGGJQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 週間前",
+            "text" : "このお店で初めてグリーンカレーというものを食べて、あまりの美味しさと辛さに衝撃を受け(辛いのはもともと大好き)、ファンになりました！\n\nその後、本場のグリーンカレーが食べたくてタイまで行きました笑",
+            "time" : 1650357570
+         }
+      ],
+      "types" : [
+         "meal_takeaway",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=11032026794092343869",
+      "user_ratings_total" : 125,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中門前町２８−１４ 吹上ビル 2F",
+      "website" : "https://koanosuke.kyoto/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "401F",
+            "short_name" : "401F",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "１００",
+            "short_name" : "１００",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "浄土寺西田町",
+            "short_name" : "浄土寺西田町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8417",
+            "short_name" : "606-8417",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8417\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区浄土寺西田町１００ 401F\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8417 京都府京都市左京区浄土寺西田町１００ 401F",
+      "formatted_phone_number" : "075-751-8716",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0281187,
+            "lng" : 135.7894712
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0294656302915,
+               "lng" : 135.7908308802915
+            },
+            "southwest" : {
+               "lat" : 35.02676766970851,
+               "lng" : 135.7881329197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-751-8716",
+      "name" : "ナマステキッチン銀閣寺店",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "火曜日: 定休日",
+            "水曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "木曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "金曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "土曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "日曜日: 11時00分～15時00分, 17時00分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBBM18z61ajhUwpjiw2RdeFyp9PttpvrJjPzw6iev9crDvtoe9bBAburdW0p6Ft4poElXFxDBhL5v4LWPwnar3y0Meavi4yoLiCDV1tX_vVrvcWUtJkELtAcGeBEC-Ud-tZK9GcwXT94sXHu0z3CL7nM9qJhk6RH4Su1K0LdLeZH1Le",
+            "width" : 3024
+         },
+         {
+            "height" : 742,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDbAw-XE899Qkssyb_C-CYd1bY0ax4u-aZKy2ThK5Z8S5Th8sSESw3BN7YbpWDMCia2n3mkrbES_zV9KK15jdzmRV9fnLhJDjNxsCwYxfCOViT4zs9PcMpd2KGQbanjvY3fB83dkHC_3ucrMEUdE0lCc8UKCWxXXmqQQb-ipjx6RnLl",
+            "width" : 750
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105064288320896264820\"\u003eRabin Bhandari\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDpnMpOPQxF_wQrNwOA3yfeMNZFh8yXd0VPCpMTxONYzW4fZZExmvFxE_Vid4lv8yjDrdLtQv_PoF7GGUHOHTiqQGIytwjAM3T0FcIrCnt648qCkAQaP5KBMYUTEMApG2dpiq136htuy0mLO7VcF--qhJ7Zf5P9HtGFIQZ65ELaXupG",
+            "width" : 3024
+         },
+         {
+            "height" : 3432,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104400635122711649968\"\u003e10 nonnon\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBNl0N75oxRWBTjyP5foj_7K0-QZqcKKORTMI9EQCgx662By93LhGc92vXERuOeoaFDlBEI93vWG0XxZNDc6UX-4EVWgty8GfVsQuLT5jze9dXnZ1nyqKYJGy149wecyEW9pTq09HeCJWIhyb__HZbWA8p7KSvPFwiLhpEctCjwEwQB",
+            "width" : 3432
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBa1bE7t7ymix7PPNuT5phvVO97ZvoPcownaN2H7LLNK-ZTj1kOx5p0FsBJ7hrQ4xJoyXwghMx83GENoJSq_YOLri8v2LPtek9-30L5NgbWf4vq4H7vmsoSySNcPmR4VthibWoRhOroBxYsdqlZzdJgtLCAVwNsh2bw-VnycMfGZB3M",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDjmgbNypSpqsbgsMtNokwpcq2-z2tfGBSGP83pvLYIq4vp5YCAhMIlh4sw6YDAalk_liDtpzl5TRme504jxZIVV-BQuaLhUEu71FDFFpbz59kELBVd8zRNH97m9Xj3_kVdKIJVmUHrkjOI4pjyDku37SvbhC50A1JCVgm6mJKKi02S",
+            "width" : 3024
+         },
+         {
+            "height" : 776,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDO23vAMofdiAMhc2yi-TjQpkB3u8zvcAH4CWgytzbF16zVo7xeTFUl9Fgtc2YmRVDnX76N0nZCseSfi7qeFskCzDrAdy_8jPQ29njSMMQWl0CqHpp8i0-WuAZrQDxKDU4MkkopCJqElqK0CiPODR46ayodz7s_5looU9XXsYBkGiAO",
+            "width" : 750
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECZDJ4jgkLXckUnE9omtOpyjrdcciMr2miOav9RHktLfFVmTLDiN3AYV0X4jc4p0OE8nVhm7M1_fJqxT-HfFyleBfP759G2YCz1H0VPivHN9e1OhUETlwam9fFbpgbW9dOVhqCLDX3nBScFedlaQ3Nt-u2aw9bmziqAmgXxVFCfBd97",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116644102758066251738\"\u003eナマステキッチン銀閣寺店\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDhMikuf1zkUOIRjat81glWnKv-QoXF6eI85I57GNLbEr1NlBuILMkwRt8fAZJAr1Hrseyo9qXmM_W3mfR4R25iKHSKlaWBi_tAMCwJy5jD0dDTP6ebkkjIHOVc9y_Se2eGP4N3v_7NbHXIk3kFL2WkrlLwzcHzI8guICMCQFPSXK-5",
+            "width" : 3024
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105064288320896264820\"\u003eRabin Bhandari\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDJVt8avL7pyASdusLWLHmkOp9-TpypBM6SyMVdl63h908JtX9l-gUrqFOgKjJbj6Q0-lnngcCT0GwadjB8U7FTKQVCnG-Ie1w_06uhA4oLf8xtdeVeVwipVlxdj6Q6VPi4QTOVBvGc-UHd16f5_NbYDvGpDjGjmwr3CMaPt60Ka9C3",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJc-QwaGsJAWARglPTr8gbDZY",
+      "plus_code" : {
+         "compound_code" : "2QHQ+6Q 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHQ+6Q"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJc-QwaGsJAWARglPTr8gbDZY",
+      "reviews" : [
+         {
+            "author_name" : "10 nonnon",
+            "author_url" : "https://www.google.com/maps/contrib/104400635122711649968/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gjn8823O3y9hCNwXcjc6UIlbZi86dvL8mMqvc9Q85w=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating" : 4,
+            "relative_time_description" : "3 か月前",
+            "text" : "店内はカウンター4席くらいと２テーブルぐらいの小さなお店\nランチを頂いたのですがナンの大きさにびっくりしました\nそしてその何の下にはさらにご飯とタンドリーチキンが隠れていて\nお腹いっぱい。また行きますね\n以前は、同じ名前で一乗寺駅前でやられていて2020年春にこちらに引っ越してこられたそうです",
+            "time" : 1642073664
+         },
+         {
+            "author_name" : "兵庫義幸",
+            "author_url" : "https://www.google.com/maps/contrib/114654577959665547644/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gho7SyZu9wapotZTi5zMXlJ55yww8cOP0P7oxDihA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "過去 1 週間以内",
+            "text" : "ここのチーズナンは最高です！",
+            "time" : 1651882736
+         },
+         {
+            "author_name" : "森貴宏",
+            "author_url" : "https://www.google.com/maps/contrib/102037741149690890235/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ghlc3m1RGKrhZu4jThwfwJ1d-vibU1jrW08memqVw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "1 年前",
+            "text" : "高い割にチーズナンが変な匂いがして食べられない。ランチタイムに客私一人なのは納得。",
+            "time" : 1603941838
+         },
+         {
+            "author_name" : "Ho Maya Gurung",
+            "author_url" : "https://www.google.com/maps/contrib/115622107983104439624/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJyD--hubOPKtAyYHGn9dhZMc9R84CeRh53V9TI9=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "美味しいものをたっぷりと楽しめる場所。",
+            "time" : 1607831055
+         },
+         {
+            "author_name" : "Jit Gurung",
+            "author_url" : "https://www.google.com/maps/contrib/117757726770746178984/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJz_fWc9jlEh4xAyXQqCYRMHy5OV9LhR77ZEcv8=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "",
+            "time" : 1609930351
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10812328829143700354",
+      "user_ratings_total" : 9,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区浄土寺西田町１００ 401F",
+      "website" : "https://m.facebook.com/namastekitchen.kyoto/?locale2=ja_JP"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "８−１",
+            "short_name" : "８−１",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "田中門前町",
+            "short_name" : "田中門前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8225",
+            "short_name" : "606-8225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8225\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中門前町８−１\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8225 京都府京都市左京区田中門前町８−１",
+      "formatted_phone_number" : "075-724-1182",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0304636,
+            "lng" : 135.7791358
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0318818802915,
+               "lng" : 135.7803692302915
+            },
+            "southwest" : {
+               "lat" : 35.0291839197085,
+               "lng" : 135.7776712697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-724-1182",
+      "name" : "グルグルケバブ",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 定休日",
+            "火曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "水曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "木曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "金曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "土曜日: 11時00分～15時00分, 17時00分～22時00分",
+            "日曜日: 11時00分～15時00分, 17時00分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114460358139290781341\"\u003eshahram khoshnejad\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB5MWwzEBWal78mVlqay13FpibtWMidXOWjpNkuWOok0iDWWzQa83-7Cyj7fEeRUp0BJBqDQYzWOUcYOQ5t6yBiwUUpvd7TH-xZBUZtRajMHmg8PCfdGNzRNzmYkwoaXwpliMJQibJXqEx6LXShJWkfk1ItI4gCbi7GkclNqfExCQI",
+            "width" : 4032
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104400635122711649968\"\u003e10 nonnon\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBE3ML2MMW-fz8PNju2ZJWgxbc5YkF80aFBZLNcu9y-8cX9No8ubVy7WxWV0RyW4h6HBS25Tb9njFQcJDEeYA709SL3mb_-e6iCS6Ghm4_z_Hm7I-fRkiwu1FF_mKNPIDK52lUmwjTFHaNPQUrvqSNiMmH3MIDkY_68oGhuFQ1nOL8G",
+            "width" : 3264
+         },
+         {
+            "height" : 1044,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111892660487083875200\"\u003eT Nomura\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBZF3ER0LYDMHhWnpKd6A1kw1yj1iE80KT9aWgdUL00ySaLqXovTcOSnnP4osNnH9IiWEGPM2xhR9pnwsmyA_XhanGkbEe0XuXxwEDL1z66Vd3Fehl_xVZbkvnFtMekO6T9KGrcqvNUbF6K2kQU87cUFwZdYq4igiE2fbizre6dceSQ",
+            "width" : 1568
+         },
+         {
+            "height" : 1128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113739394632503444510\"\u003eぽにえる\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDOeMcPSvrsGNp_QRlJSD6zMVl6raoNPKX4kF1ybBzJ_jP9FBlgwPkjm-f_KxcI2JktZDBptgTHTDgHUcgY_HZ7rBau4W9qp950wHJNVeypBT-PP3XCa9Z-18okCY_sJnQVmJOmFMT2eq_hXmAkfkAbdb6tQbJPiu1HFFDHoKuiAVlv",
+            "width" : 1504
+         },
+         {
+            "height" : 1044,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111892660487083875200\"\u003eT Nomura\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECe4dybS61nDnAFM88Nqx4gTrKa4-O3PZKamNdekF6LE006MUyZt4MDSILd6RcLMighafHVsp7knc85G6xe1c074Z-OxrK_vZ5zdkKCmCkaIaO54VIU6HiVbdI_cCMW3ZiaF3ZCgw8u3mO4h0AkyZAbw4FqhkZOWeWn5ssKR-ea2P6J",
+            "width" : 1568
+         },
+         {
+            "height" : 1044,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111892660487083875200\"\u003eT Nomura\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDuJguATucfqc4VHnr1mAjv8MzNXK08KBVSnu2o0aR6bZuPcf6LYZprD41ZYVSHZ2A2wYDioWDRnt9GC1Ag8YhCkXDayMzJA2Z4HvB--e80ETg8j9_BIMJdyTANDyuFBFNc9gLybRmC-fY1I-TaPjjF59TryH496kmJgWHSb0MFa6JO",
+            "width" : 1568
+         },
+         {
+            "height" : 1044,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111892660487083875200\"\u003eT Nomura\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED5dun9IvjV1HhuY1VeQ5j9hxijTRu9LpQdQT17ZuEwIkt1CPgAOtPGOKITgLEfdpk60W1iNM7XoVA5Mhu9jKeh1a15CDskSvGNOannysJvIF8AE8TtzpBlDDme_X_LNFh6Tbnja_HuFpSW-NQCxNCNPZRvYbUG7QDg6NksIEXC9lr1",
+            "width" : 1568
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECY8KCR9x70inPbmFOYz_jQMNTreuwlIq16LgFOZYJ2taKtThC3VL9ymvtLfevzk14c42cKGAFkDv7GZfAuMURGpcwVW9AXtCnAmIQvL2YMZQNPFQ2FcfitnEkeSrc75ODCHYIdWfjhj3aoBd8Xf099XRe9BkqijG0thsb0KuG4N0uB",
+            "width" : 3264
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114486041893982337129\"\u003eton shaka\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDodTmaPO1V_cms3WYmY3y4QpoCQ0GuLnSFN9BS38e2jZ5kANXaf5s0-XdEigaQNuP0b7xTV-V_Zw_NNX25dc5YCp6LFoxphgDAiTlUAHgpKzhHULkmfeAmfB-l86OcTPl12Q3qrRBTthnvKz3q7vb0YsNUVOspGmyhyzzEJ2X80lrh",
+            "width" : 3024
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECQ1Fmbh6eGthc9ftOKuHXeKxZbLyRY1lXZqj_rmj-B1u1Zs5yqfQBf75W_UegldrXL_smHjwuqGMcZdjwGriawz1URyuQIBRvZAxf2ZI5jSCo0WN1Qr0OY2mjfSZG2e-KJjPou-Pl17UeV8RBSDClroxblbcsinoqda8EHUtz2Ucrp",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJl3fDFVoIAWARLN3Z6PvXFXQ",
+      "plus_code" : {
+         "compound_code" : "2QJH+5M 日本、京都府京都市",
+         "global_code" : "8Q7Q2QJH+5M"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJl3fDFVoIAWARLN3Z6PvXFXQ",
+      "reviews" : [
+         {
+            "author_name" : "ぽにえる",
+            "author_url" : "https://www.google.com/maps/contrib/113739394632503444510/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjL6UFFZ5GJi-0y1mIl3UgDmmmS0k6LtfO28M1VMw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 か月前",
+            "text" : "ランチのAセット（750円）を頼みました。\nナンのおかわり自由は付きませんが、一枚が巨大なので、お腹いっぱいです。\nカレーは本日のカレーだった、ほうれん草カレーの中辛にしました。だいぶ辛かったけど、まろやかさもあり、日本人好みの味でした。\n750円で、メイン料理のカレーとナンに加えて、ターメリックライス、サラダとスープとデザートのマンゴーラッシーが付いてくるので、とてもお得です。\nいつもお腹いっぱいにさせて下さりありがとうございます！",
+            "time" : 1645197895
+         },
+         {
+            "author_name" : "Orange Music",
+            "author_url" : "https://www.google.com/maps/contrib/104528642248440043765/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh_ZeMMolG9JuHjxuF4JwswMKEwJw707mCgF8u2=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "6 か月前",
+            "text" : "カレーは本当に美味しかったし、ナンも美味しかったです。 サラダのトッピングが大好きでした。 私はこのレストランを強くお勧めします。",
+            "time" : 1634376353
+         },
+         {
+            "author_name" : "ton shaka",
+            "author_url" : "https://www.google.com/maps/contrib/114486041893982337129/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgLZgrzSaqSrkmR5PJ9benHp4ByTv_Wkq10zFbAdkA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "8 か月前",
+            "text" : "サラダの橙のソースがうまいです、なんの味なんでしょうね、買いたいんですけど笑\nインド・ネパールの味なんですかね。\nナンおかわりできてラッシーなど飲み物、サラダ、スープ付きのセットが750円からあり味もそれっぽいのでお値打ちですね。\nサフランライスも付いているのでナンおかわりはできない人が多いのでは……と思いますが。\n辛さを辛口にすると、CoCo壱番屋の3辛ぐらい？はありました、辛さの方向性が違うんでしょうけど。普通にしておけばこどもでもOKです。すごく辛いも選べるみたいですが怖いです、誰かリポートお願いします笑\n写真にある棚でスープなど一部販売しておられるみたいでした。\nコロナ禍でお客さんが少ない今は、貸し切れる時も多いかと思いますよ。",
+            "time" : 1629118601
+         },
+         {
+            "author_name" : "yasuhide k",
+            "author_url" : "https://www.google.com/maps/contrib/107605237931871650420/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJyJrNSs2PWAwH0WI8Q5U2pnzxXp7pdQGH3L-lr6=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 5,
+            "relative_time_description" : "9 か月前",
+            "text" : "美味しいです。",
+            "time" : 1627539572
+         },
+         {
+            "author_name" : "有本匡志",
+            "author_url" : "https://www.google.com/maps/contrib/103591804737752865103/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjHE7dYoq9JBFfYzom5Gasjx8c8FMWHsIEVykpc6Q=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "2 年前",
+            "text" : "全然うまない。行く価値なし！\nナンもカレーもうまくない。\nナンは焦げた味が強いしすぐ冷めてパリパリの薄くて苦い煎餅味になります。カレーも、はぁ？ってくらいスパイスに深みがない。ルーは二種食べたけどどっちもうまくない。二度と行かんわこんなとこ。",
+            "time" : 1580634558
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8364829359853919532",
+      "user_ratings_total" : 136,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中門前町８−１",
+      "website" : "https://guru-guru-halal-kabab.business.site/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "ルミエール出町柳",
+            "short_name" : "ルミエール出町柳",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "２２−７５",
+            "short_name" : "２２−７５",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "田中関田町",
+            "short_name" : "田中関田町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8203",
+            "short_name" : "606-8203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8203\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中関田町２２−７５ ルミエール出町柳\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8203 京都府京都市左京区田中関田町２２−７５ ルミエール出町柳",
+      "formatted_phone_number" : "075-723-5591",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0298639,
+            "lng" : 135.774758
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.03123273029151,
+               "lng" : 135.7760706802915
+            },
+            "southwest" : {
+               "lat" : 35.02853476970851,
+               "lng" : 135.7733727197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-723-5591",
+      "name" : "クルーン",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1200"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 12時00分～14時00分, 18時00分～22時00分",
+            "火曜日: 定休日",
+            "水曜日: 12時00分～14時00分, 18時00分～22時00分",
+            "木曜日: 12時00分～14時00分, 18時00分～22時00分",
+            "金曜日: 12時00分～14時00分, 18時00分～22時00分",
+            "土曜日: 12時00分～14時00分, 18時00分～22時00分",
+            "日曜日: 12時00分～14時00分, 18時00分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104400635122711649968\"\u003e10 nonnon\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBSkOVhi5i-likh3u-VZEq1Kx7zON0u6vyixYPuXsXQhlkXPA2A_6_oZIIlMLYGIx9HFxHBB1u3X0oeCiIApmudU4RIBir4SJEO14CkVGlbEK-2I-cCTDubysJrqrR89dDqObca33MAvXI5lF8TFb2Aylg1KGW4KcC4tN_ejKsVOFAg",
+            "width" : 3264
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112372165475122695185\"\u003eSeiichi Himei\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEADAUSfYC23jxWZwYt8f0V8DK598rHzLP525gKpZQKldxrwCoEBOCYbiH4rD2Fp8B2RvnFk7Njk1va7ZHjzE-Iboo5_oNT47oOWv_Z2MsXUI5l6s8lborHk2qcF3ZLb0w2dtb2lXV-VKxYNH079MpgHmGN8NQbd4B75w-hJYnR4msx5",
+            "width" : 1920
+         },
+         {
+            "height" : 3464,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECOELC-mFsffOZ53xrEeib7-DDXiAAmw16GJ_Utvl4wxKf2ya5AjU1am8l1__hwsb6hxO6cliUC23__TrZnFdbVCeiRskkISsCCK-MXVlEc-jUE_IrZeqeo16S-t0NA4eaoXqoZk6tvXmZOVbXIRlTXJ-1n3KYQv3Z8nf7YyDq0G9by",
+            "width" : 4618
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104378603627788860540\"\u003eChen Jia-Ling\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBKK7TYtpNVv2UboZ6Pm8urNFHT9irrxpz5_e4cUrLnYen5kunOkXi5vtq4nkTTnl2c5e6GedGWQOf9hHTkPLmxqJUwE4WO98cH-NWI8woo6j0PDx0EUeoyLJPdXRkQk38ZpBoC8TvnyfA0h4Drh8JsPhf9GnGtxndIBPrhjhSTRwWH",
+            "width" : 2880
+         },
+         {
+            "height" : 3464,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA4dc1otf8-1i--V86eJ3f7VzvXx1epqD2eTR8DtHryXiR4GF7BDvUhJgqF7SLmBPMDygZbSd-3uvW2a0sSTS7-cFKbKD0dWXngzThF8uQ4-pOujKONq-6EXcdE65u375wc04tC05kYxNpCv7CgIN_Kd5hxpFwGOjLFYgnb9W17Od-u",
+            "width" : 4618
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100052724772947192358\"\u003e梅棹了\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBUJJS4NO7jw-V9fGr92BLcMrE150yf_GdYsVgUl9qpuU6wuJ2pIuNX0OvaKnv2P_poXyT20RR-hUk4t6qDB7ckXIS4N-PfUbPM5yzlHfwzpUmys5G0FbbwM85jflMPLsugtKAUYmDD69XHsgZR6YjRD0xhnm5Lx_nlVQqF8rSsvv02",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106563425694309588647\"\u003eY Sano\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED5c0hIFkPvRgpUfYJ3dqP68hmuL1KyPmUIIO0NMiprMa3bKCRkmwLQaCjADpyr_KX3aN79ineJuL5WKYYf_zGEbt-eIHZH8a1Hn1Igr2KV-IaHHm0QmwX7rPsZVgox3p86wI9p_nNJ7eLjgOl1TCjsC3UGxBW7l9mmGx60FQRRhDHt",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112364936204808326345\"\u003eT Nao\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBWDdsmTTLYkDWwpKPUaHvRqKFDSxEqyNnVCp0sCQWu-1yFJleJQ0SwUfw-FI198wbdmbSJidmaRhcSVzDGA4zcro-KYaJtDHObXulD-eX_GpK3FSjROq-b6K4z2RAJxOaEKxqU4GiI9e_WdXjv5Cyqms7IE9QwNCrkWy9meqgvKNhZ",
+            "width" : 3771
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104400635122711649968\"\u003e10 nonnon\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECEYGG-s1xAF1eYo386jTq96ZFf5dGZ77JuVMgg5IauyfJk3BR670Jtf9YJ9iwAWXwr6enIfaTvA7ZPLthCjb63heMvI1CezdLoYzeOyeFsINmQti5Iu2TBjHdMgDjyPSCgqIQNNKjJuV_tdLtDUhzLjNhYyOEpQIz4n3FTydA45sP0",
+            "width" : 3264
+         },
+         {
+            "height" : 2874,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECKhWwoAAupY0FnSrgOhdqxfkGvU8u5gflosrMS3da8HG-0kEQb5dk6qBAI9eerk2G5Z2ttF7SS8ZI3nFVAJRXuJHrLJuQCdQDjrJmE94-bKLgAI-3MsynFvD6hZ-aEGjrn10gB1K_7Vl7StH85U0ezBbTi5lc3mRSWLyuH1fT3Efku",
+            "width" : 3831
+         }
+      ],
+      "place_id" : "ChIJ-xa_YVwIAWARUpksBQWOfbc",
+      "plus_code" : {
+         "compound_code" : "2QHF+WW 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHF+WW"
+      },
+      "price_level" : 2,
+      "rating" : 3.5,
+      "reference" : "ChIJ-xa_YVwIAWARUpksBQWOfbc",
+      "reviews" : [
+         {
+            "author_name" : "Y Sano",
+            "author_url" : "https://www.google.com/maps/contrib/106563425694309588647/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJygUJX5AxYRpp7hzfiu9ONpMb_qBBQpeII4e5Mg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "4 か月前",
+            "text" : "ランチにロコモコとカプチーノ頂きました！ロコモコは本場さながらのシンプルなグレービーソースのでしたが、このグレービーソースが濃厚でめちゃくちゃ美味しかったです！相方はガパオライスとカフェラテを。タイ料理が苦手な方でも好きになる味と絶賛していました。セットのサラダもボリュームあって幸せな時間でした！ありがとうございました！",
+            "time" : 1640584776
+         },
+         {
+            "author_name" : "MASA FUKU",
+            "author_url" : "https://www.google.com/maps/contrib/103710465891652258523/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi6JkRtN08sexX9ik32uR8UDuH-jY5jmA6k-hf86w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "2 か月前",
+            "text" : "ランチメニューをいただきました。\n辛さはありませんが調味料で調整できます。\n出てくるまでに少し時間がかかったので★４個にしましたが、味は本格的で美味しかったので、また別の料理を食べてみたいです。",
+            "time" : 1646551028
+         },
+         {
+            "author_name" : "鈴木A",
+            "author_url" : "https://www.google.com/maps/contrib/118041690367974925613/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh9FIaX5pjAxCHgGuUEHtfR9QZ2XGCCc_At8rVM=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "1 週間前",
+            "text" : "サービスが非常に悪かった。スタッフさんに何かを尋ねるときに、スタッフが目をぐるりと動かして呆れた表情を見せました。小皿をお願いすると、洗うのが面倒とかの言い訳を言われました。食べ物はまぁまぁでしたが、サービスだけ考えるともう二度と行きません。",
+            "time" : 1651151754
+         },
+         {
+            "author_name" : "ああ",
+            "author_url" : "https://www.google.com/maps/contrib/113735445943091693692/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzLmufq7OBSTo9MGBQ2ClFADvuT_W4BVkZizCQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 1,
+            "relative_time_description" : "1 か月前",
+            "text" : "店員さんが超キツイ\n卓上調味料が無い席が多くて要求するとイヤミを言われる\n注文から来るまで45分かかった",
+            "time" : 1648440045
+         },
+         {
+            "author_name" : "梅棹了",
+            "author_url" : "https://www.google.com/maps/contrib/100052724772947192358/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjPv-AOURn9PhgolF1wok0yW4LgPHRY-_o-mzV8MA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 4,
+            "relative_time_description" : "5 か月前",
+            "text" : "何年か振りに訪れましたが、相変わらず美味しいタイ料理が頂けます。",
+            "time" : 1638104917
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13221880233242433874",
+      "user_ratings_total" : 73,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中関田町２２−７５ ルミエール出町柳"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "１２−１３",
+            "short_name" : "１２−１３",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "吉田牛ノ宮町",
+            "short_name" : "吉田牛ノ宮町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8302",
+            "short_name" : "606-8302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8302\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区吉田牛ノ宮町１２−１３\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8302 京都府京都市左京区吉田牛ノ宮町１２−１３",
+      "formatted_phone_number" : "075-200-1493",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0248324,
+            "lng" : 135.7772757
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0261813802915,
+               "lng" : 135.7786246802915
+            },
+            "southwest" : {
+               "lat" : 35.0234834197085,
+               "lng" : 135.7759267197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-200-1493",
+      "name" : "Sakura Sari",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1745"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1745"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1745"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1745"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1745"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1745"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1745"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 17時45分～22時00分",
+            "火曜日: 17時45分～22時00分",
+            "水曜日: 17時45分～22時00分",
+            "木曜日: 17時45分～22時00分",
+            "金曜日: 17時45分～22時00分",
+            "土曜日: 17時45分～22時00分",
+            "日曜日: 17時45分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBmL-g_N4pHzpznUBRCw_gvz1e0VMuBz7h2ImzTwQ0yrxN8tm9RTFoJdPNm8v4F3pwTUOWrDf-0UyJ4n5DWCF9HQJiBuiw2ftE_oN5H4Js7SFXvL0oDxYABy9Rs6JvgxSa34DwTsJRUGyPUg4JvL8SIxIsnJDn3TW7tC73GCpcLe_57",
+            "width" : 3840
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108118343357406596801\"\u003eSakura Sari\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBrv1oCSDt82M-zTGnO626U9SexpmGC7lB9yILLcxKjF_pbiYNP0YY2K4f1rnrk-9nuE-9qkgw3tUPCzA8qjXjYonRoVviHrnIkuBe-uQJQ_TwtkEQmpxRuZBCPFHCAf4r-FlsXUqCOcASZhNvG0r4W1HPSnvqQhy3xen3v6h5rSk5F",
+            "width" : 3024
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003eNAN ASHI\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB38cc--atBoR-52VDj7-JMy8PFheJjSL8ocejiMPRXPOx31QXXWAidhMTFOOpHrDTDTyWLWCGlLqpKdOvm4L2rMnYQ3c9EovJhIrSt3x2ujVeCrCv7P4iHKU4zWX8UYicDx7nsZYzQGPAcfFtJSqmPKmepQyK7qiHyeDDQ2ggvoSMq",
+            "width" : 6000
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003eNAN ASHI\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDuriIRtTzzaIJd8ijVpomF19pWwZYPORGqTGZhfwzN9qfkztwPuH06xfVYHgssLL9nxhS4dMZilbqnuu1rVAnwBadCLE2Kq_rmadSJvksrXw7uBlWZnZb6HX8752K7cb5oSLuWBM3VbeBBf_5KgNtK_E7hkSmNcCkKBRIYmDCjYMbG",
+            "width" : 6000
+         },
+         {
+            "height" : 4080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100055992439930842977\"\u003ebig gess\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDZbxNyMxcvvkjnzUNMXyIadxHkP06nslXAvQSf_AEo6yM_UwKvj-BjQVH7yDPQtna54U7fts68Te0rF3fzyfm_adlho3Q2LK9fN7D_imhPU0DEiQx02zK5ILQXGBg1POj3jl6KDP8synsQsDoDtE2jlvVsraThUOSegUMOEntu1_Zc",
+            "width" : 3072
+         },
+         {
+            "height" : 4080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100055992439930842977\"\u003ebig gess\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECO_HlWkZQ2jPMn2RMJp7VgRz5RNb47dzFXYkqL8hoiLMi9pQcqtZVKDJ_4gec4PJq_auQe2RErwrc_9mbNJpKV4uqKG4jrFeCZr1LKuZOQFlg2aWlpHuNGo2du4humeFqRdYfCCJgT4U3r7JhJVB5_AE1OsPfObguHIdBLjKbRSnpA",
+            "width" : 3072
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115523647782810210659\"\u003e井上美和子\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED51WRsV8FQjC3qpmJrai9AHCy6Rc_OmbNXH9qkIDz3pMq4Cp5lM_gXlzyvDBC1wL8LPJ5FpLNaUhey6Ckh6lb40haoY8UZOcLXtt-tNX25W53DBG_tpv3VsxUP0cg1YuvxfgEHbhxwedDLvvouAt7zJZrt7uhOvlFmNEjZMAFzmKnX",
+            "width" : 4032
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114458407949132085921\"\u003e山田陽子\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBrJgkTiGrT4-nIWQheNKfvsrbYpzWut6gif2WKFZ948P-VxHuiLC7QAoTYhPN5tavam1k09eaU5vmHk_FkONDiaGSOH_Nm-yig68ZXwt7bjEvOJFdddMKOxygRzJWrtyn3nLmyko5G5LaPWH2qYpRC_egbk9xKT3x219QVT0FRakSR",
+            "width" : 3024
+         },
+         {
+            "height" : 3072,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100055992439930842977\"\u003ebig gess\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEC2jfZzr6SbQKnWkt9Fr9fA_pFrYIoSNRLf1LocMuty0MI4BarVUObwsqbdw4GHaGbb2o0YgRL3e04dvoE37HmgKQplv6azHDzRO_Bjt6DEdEAGlWD9l6i3wQs9cHGUn1qyNhmYVkDYYDPWO8AwwUxcs-rLSbZVvTJggA4OtyoYP1yY",
+            "width" : 4080
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117210035211670977742\"\u003eNAN ASHI\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA4qz5a7RpAS8gYPWdvu8yiLyOuT1XxDJInaZo34tQ48qwsjoM57W93k2e_RXps9cT6XcUpDajnt8WZRvzpZjALiBFvkb_5tuIxmAAU5OZVo-U8swwnwOBDlefreGNtjniSUKKoH1F19LZvtrwne6aNDEm8gOKmII37-BcLQRiiYyLk",
+            "width" : 6000
+         }
+      ],
+      "place_id" : "ChIJ0YIul1gIAWAR-vuxss3ZfXQ",
+      "plus_code" : {
+         "compound_code" : "2QFG+WW 日本、京都府京都市",
+         "global_code" : "8Q7Q2QFG+WW"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ0YIul1gIAWAR-vuxss3ZfXQ",
+      "reviews" : [
+         {
+            "author_name" : "NAN ASHI",
+            "author_url" : "https://www.google.com/maps/contrib/117210035211670977742/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJy9nrqu8aw24pg7593vvrmk_N7A3-sZ-XIXmmBN=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating" : 5,
+            "relative_time_description" : "7 か月前",
+            "text" : "旦那さんがドイツ人で、日本人の奥さんが経営しています。東南アジアのエキゾチックなものも作ってくれます。もちろんドイツ料理がメイン、ドイツビールも樽で置いてあるのでビールが好きならば文句なしだと思います。結構アットホームな雰囲気。\nただ規模はそこまで大きくないので、大人数で来る場合は予約をした方がいいかもしれません。",
+            "time" : 1633689154
+         },
+         {
+            "author_name" : "Takeshi Enomoto",
+            "author_url" : "https://www.google.com/maps/contrib/107944247717919328786/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiBQKpyqFuol2_DLiDTGmHfR6IhMz5A9QKbJWERqw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 4,
+            "relative_time_description" : "9 か月前",
+            "text" : "居心地がよく、常連客が多い。",
+            "time" : 1628060284
+         },
+         {
+            "author_name" : "Ko Yo",
+            "author_url" : "https://www.google.com/maps/contrib/104490979206455185422/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzsMdAEUZkiWbf0SjvtT2d04oqHObv2EZS6UqU5=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 4,
+            "relative_time_description" : "7 か月前",
+            "text" : "火曜・水曜は間借りランチで和食やエスニック。\n月曜・金曜はおじさんのドイツランチ。\nドイツランチは外国感あって面白い。間借りランチは、副菜もあれこれついていておいしいです！",
+            "time" : 1632387520
+         },
+         {
+            "author_name" : "井上美和子",
+            "author_url" : "https://www.google.com/maps/contrib/115523647782810210659/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgRXut2mfIv92vR3kNPr9Y_PG3f1CeBzmj1GQhm=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "6 か月前",
+            "text" : "ドイツ人の義母から受け継いだドイツ家庭料理以外にも裏メニューが充実しており、沖縄料理やスペインや南米料理など各国の料理が楽しめます。特にバリ料理を始め東南アジア料理は、それらが流行る前から店主の弘子さんのお得意料理で、本当に絶品です✨✨\n気まぐれメニューなので、常時あるわけではないですが、お勧めです💕\n河原町蛸薬師でZappaというROOKなお店を始めて40年、お客さんから親しまれている弘子さんのお人柄も素敵なので、足を運ぶ価値ありです⭐️⭐️",
+            "time" : 1634129454
+         },
+         {
+            "author_name" : "山田陽子",
+            "author_url" : "https://www.google.com/maps/contrib/114458407949132085921/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJxWTRBXDLHbW4p7IjC5mJuQXql1Fydq8EWuP7yp=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "4 か月前",
+            "text" : "ええよ～何食べても美味しいねん！\nほんまやで！",
+            "time" : 1640099220
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8394104757978004474",
+      "user_ratings_total" : 21,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区吉田牛ノ宮町１２−１３",
+      "website" : "https://www.doitsulink.com/sakurasari/"
+   },
+   "status" : "OK"
+}
+{
+   "error_message" : "Missing the placeid or reference parameter.",
+   "html_attributions" : [],
+   "status" : "INVALID_REQUEST"
+}

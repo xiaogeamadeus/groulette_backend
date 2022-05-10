@@ -1,0 +1,1918 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "１０９番地",
+            "short_name" : "１０９番地",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "荒神町",
+            "short_name" : "荒神町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上京区",
+            "short_name" : "上京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "602-0856",
+            "short_name" : "602-0856",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒602-0856\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市上京区荒神町１０９番地\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒602-0856 京都府京都市上京区荒神町１０９番地",
+      "formatted_phone_number" : "075-746-4344",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0214436,
+            "lng" : 135.7689126
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0227481302915,
+               "lng" : 135.7702632302915
+            },
+            "southwest" : {
+               "lat" : 35.0200501697085,
+               "lng" : 135.7675652697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-746-4344",
+      "name" : "OLU BURGER KYOTO",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～15時00分, 17時00分～20時00分",
+            "火曜日: 11時00分～15時00分, 17時00分～20時00分",
+            "水曜日: 11時00分～15時00分, 17時00分～20時00分",
+            "木曜日: 11時00分～15時00分, 17時00分～20時00分",
+            "金曜日: 11時00分～15時00分, 17時00分～20時00分",
+            "土曜日: 11時00分～15時00分, 17時00分～20時00分",
+            "日曜日: 11時00分～15時00分, 17時00分～20時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3360,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEC6rq_v58yO1eEvIpNvwd-pU5ngmFIah5Lmidbf3iOoQbdsqPX5ZAHSzgEyFKR5J1syL-lqC_qFTTgo2p_jUBm_KABu69F5iq8kzFWk4VCfPly04vnjNkzxFcA5E8Sb21-GKMb_GaHXvqpewx5NSiuKT0q5AubeTebtBSFuWDbTi9HT",
+            "width" : 5040
+         },
+         {
+            "height" : 5304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAZhQzXjXC9VhISdKqo1zqjAyKgLKryqXeze7fmWL8QGA1MGxwdCc017QBn_geyDtu75o5khBbMOxB84gb06jsNy5YDDsD6bXpb6jR9pm6QtRQQPGlnB9lA3FW5eQdk_vYOoXL8ik7SYlLdHNKnAuJROurKx1y1wIgUnPN7xG11cgCo",
+            "width" : 7952
+         },
+         {
+            "height" : 5664,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109303691394665494832\"\u003eベルカンプFOOTISTA\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAkYX5evC5oHJrRzsHzPPq70DAVjPZVgE-N0wsJIuRnSjcjUL6Q_twcZ7AKsOxFIoOAho5zZALqFMfu2vUvRV6dNgmRYOyrWAASWlKq-m-OkdYc6dM1jhMfzRhlRmSmTawcCIkQ0P8G85Aksry7cHaSbRPKGKrP3nYTXWdG-slpZfid",
+            "width" : 4248
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECQEnMQ3xcuPNGJtYTpX03bvinreOHiEGYvCDrREVHVPsitwZdjxACkHFlOMbdhsLaL6rCqVvRlyuURdYfASFgkRzy-c7FE_kz0IR56tFADJbVR-dB9Kf0V5ehSqNBlO7a7qsTm2HL4p493_7J_EnXh1Awq_cenAlIqwWgAOYm2tLpP",
+            "width" : 1080
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106738067340381057719\"\u003e元次\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEC7wshUDF6Qg-N72EvqBeHkHE87sKLQBmKNdU6OYNAuGqcOq_RPQ_CHlJIFTOKLpM6fk9OvmgNTelWEpYsc6x-Nm0DDQRrhT3lf5riz8mHnW2857EjHW4PiEQxgWLLTBfh7EytPB0KK_XZ_pS23GOsgc_xiGa-qSNytLTwlwZZEhxIh",
+            "width" : 3024
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBlz3lAMRkND7x2G6bX5L81mX35jQXFZhc2faTuMt9tTPFlaHa6g-c3MFBdiLsFVZiPzgGd_ywvaY5rvtP16EG9oxCgC_IhhIWYghzQhgG0wkThnt5ltSrb-MwqdaB3rxE-VREfZHUrhUklcFnttd_PVbBSo-6BXWIof46VDlt1IbqU",
+            "width" : 1080
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDTSZsjnHOoAw7M5ZGA0pfMqFntfn7vgG1R5SSIr4GYl8PJ0SJB8S_HUYzR6t1NwlICYej6ywe5dgCE76dXlnKu3w54YDV0RAb1MZLsSe5EiqtporZlbUq5_LNwWiO_xZYUihK0Ah7yqbh7HEWWgklRTss3NIOw864_Mmh3OQ-g6VJC",
+            "width" : 1080
+         },
+         {
+            "height" : 4564,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB-m-y-GbA_rTWWTms2PaYWP1x5JozSu5SDliqaj9yxbwimJNz9LM0amFOVldinm7VF0pymBHd03rh-38Mtexq55-yYaYYvFo0VFGoLXRRYiilny_hgQLAcgvQbKRG-q0_2qengL9KTFV6UXrE70j2hagyxkeo_JvJnbK7QicBx0CLD",
+            "width" : 6843
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109351030086841907204\"\u003eOLU BURGER KYOTO\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBED6SXzDc8w7jMDEjDh0eSVFi4RHGT4bcbarra0OfK4D3O4DXc-0pZODeXBL4enhbxgYKla7CJFVir7ThUjr160guk8YEVwuw48XHcjJl4KiY_WI1HjrhwRE3MdNWq5LoOcV5LzJ5QNWI9T07RL__8TMV1lwSwBiQTSSrlwmzXYTTW",
+            "width" : 1080
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100214943210620310067\"\u003eあきさん\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBPT9jSIfcRwPV97Mj4S6jcFpvu9-YH36WOuAWzWPYPaYz-0Gh_qpphGTtVvkzr_sshAR-X0hDE31wTwQLfVpHHRn30lwPQ7dhJ4LOMeEa3JQoE1lC4ITgMxN0ELUw47Z-iFfbkkjJr6yveq-gYBE3L-cUSnFa3DOGFVGrHu754TYzU",
+            "width" : 4608
+         }
+      ],
+      "place_id" : "ChIJRU-Fs3kJAWARet7NEHG9XHU",
+      "plus_code" : {
+         "compound_code" : "2QC9+HH 日本、京都府京都市",
+         "global_code" : "8Q7Q2QC9+HH"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJRU-Fs3kJAWARet7NEHG9XHU",
+      "reviews" : [
+         {
+            "author_name" : "すばるうまうま",
+            "author_url" : "https://www.google.com/maps/contrib/116061493004355533837/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgW_ET4K0nIMHMc99NWr4x5HJEufbAD3o7H_1-3=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "2 週間前",
+            "text" : "こちらのハンバーガーが気になり訪問。\nバンズはすぐ近くの『LAND』のものだとか。\n\n「出し巻きバーガー」1350円\nこちらのパティは京丹波牛100％とのこと。\nこのパティ自体が、噛み締めると旨味が…という素晴らしいもの。\n今回は悩みに悩んでだし巻き玉子と九条ネギが挟まれるこちらに。\nだし巻き玉子はぷるんぷるんですね。\n単体でもおいしいです。\n九条ネギ、だし巻き玉子、そしてパティ。\n美味しくないわけがありません。\n\nどことなく品があるハンバーガーでボリュームは控えめですが美味しかったです！",
+            "time" : 1650641857
+         },
+         {
+            "author_name" : "よっちゃんのパパ",
+            "author_url" : "https://www.google.com/maps/contrib/107787450671233039358/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi0Qi8qBHEpv1Jcxrtl3qrjGADpTtgh0p1LIe79=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "1 か月前",
+            "text" : "京阪電車神宮丸太町駅から徒歩10分\n京都の地産地消をにこだわったハンバーガーを提供されているバーガーショップ\n\n数あるバーガーメニューから今回いただいたのは「アボカドチーズバーガー」\n\n厚みのあるバンズはカリッと焼き上げられ香ばしく中はふわっと柔らかく肉汁溢れる大きなパティや濃厚なチェダーチーズ、フレッシュなトマト、アボカドをしっかりサンド。\n大きな口を開けて頬張ると美味しさが口の中に溢れます。\n\nポテトフライをカリッと軽く揚げられています。\nバーガーメニューがとても豊富なので色々なメニューを試したくなります。",
+            "time" : 1648083360
+         },
+         {
+            "author_name" : "ベルカンプFOOTISTA",
+            "author_url" : "https://www.google.com/maps/contrib/109303691394665494832/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiOPVWEzua_XnGv41awOPI_EjT2LBTktSOiFt30Kg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "1 週間前",
+            "text" : "毎月一度は訪問している、最近は各種媒体に取り上げられているハンバーガー屋さん😍\n平井牛のパテとLANDさんの特製バンズの相性は抜群でレギュラーメニューも最高ですが、各シーズン毎の限定メニューもどれも素晴らしく一度は体験するべき激推しバーガー屋さんです✨",
+            "time" : 1651410319
+         },
+         {
+            "author_name" : "蛍火",
+            "author_url" : "https://www.google.com/maps/contrib/101335375020594850066/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgpPNZDZXKeg42Q5t8mPC6476zFKKeIKXM4LxG-jA=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "2 か月前",
+            "text" : "お肉もジューシーで、バンズも柔らかくてとても美味しかったです。\nまた、是非行きたいお店です。\nコロナが落ちついたらワインと一緒にハンバーガーを食べようと思います。",
+            "time" : 1645354064
+         },
+         {
+            "author_name" : "shou uechi",
+            "author_url" : "https://www.google.com/maps/contrib/105033230175211194280/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzRekHV7ne7nbpvnD2SbOi3kX0ns39fTRbwt0zn=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "1 週間前",
+            "text" : "定員さんの態度が悪い。正直もう1度行こうとは思わない",
+            "time" : 1651489395
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8456842493605830266",
+      "user_ratings_total" : 72,
+      "utc_offset" : 540,
+      "vicinity" : "京都市上京区荒神町１０９番地",
+      "website" : "https://oluburgerkyoto.site.gochisoo.com/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "101",
+            "short_name" : "101",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "リバティハウス",
+            "short_name" : "リバティハウス",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "３７−２",
+            "short_name" : "３７−２",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "吉田神楽岡町",
+            "short_name" : "吉田神楽岡町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8311",
+            "short_name" : "606-8311",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8311\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区吉田神楽岡町３７−２ リバティハウス 101\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8311 京都府京都市左京区吉田神楽岡町３７−２ リバティハウス 101",
+      "formatted_phone_number" : "075-708-5332",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0269431,
+            "lng" : 135.7897138
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0282626802915,
+               "lng" : 135.7911081302915
+            },
+            "southwest" : {
+               "lat" : 35.02556471970851,
+               "lng" : 135.7884101697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-708-5332",
+      "name" : "Burg×Burger",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～22時00分",
+            "火曜日: 定休日",
+            "水曜日: 11時00分～22時00分",
+            "木曜日: 11時00分～22時00分",
+            "金曜日: 11時00分～22時00分",
+            "土曜日: 11時00分～22時00分",
+            "日曜日: 11時00分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 809,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eBurg×Burger\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECK_7_5MdJnZcAycpZ7abRFdLC3o70QR8Wat3aCkwqArUVKieZYsllNa_3w6x3wMg1QkZQuXOiUJeGZckeMp9dqP5JzYXQq2vmIw93dbJq6OrlB4AE3DF2Nly8DtfP7LWUSMcjAQh782o8ustKyJSNdkbXLzQWIIA3NgEUK4DCAh0TE",
+            "width" : 1440
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eBurg×Burger\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED4Ql9gUBmRIm7b4303WnvXWjSov4L_WFAvRJ__pKZ2l7w7hWuG7u4HqHBWJssbOXhMRPwsRGVM85ILmC8TJWJGo77Hwf3OPcN8vSjv1s7MhkYNh-HEKU6LOh7bF8hqoRI4MJxln76ScyC9eM_pJyubTyB2PypWy1q1tjc2aU5DI45y",
+            "width" : 4192
+         },
+         {
+            "height" : 2795,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eBurg×Burger\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDGYezXb4vkNE9JOArpnRSJm6NtMzToAMOeBwMz1PsFn-OSlCJ4DABWXPW_YZd0KUp6zC6A-_tiaglXWfA-KcBOyXSNg06ZaL6H46Dh2oW4bzas9rLKDoQy6tOW88agFf9PoAd5Yk3tW62V7L80Vs38NRGSLXydIIgSYgU0H-zPsXhc",
+            "width" : 4192
+         },
+         {
+            "height" : 2789,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eBurg×Burger\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBoMe8e7mEdz69ZITs1vfW6yfOb99VEWSEKnb5C_wBtrzBdLojAWP4uunmZixSkuuR_lvKqtNbd-AMeSP5_6W5uk89m86KB30Pvf1eMxhekV_l05Eu8v5bxDTRyFFNKcR07X50Erx1Y9YSKWYN6LW0FK5CgezmtCMRiHKPuleRLy5WG",
+            "width" : 2790
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116456558868414996755\"\u003eHal Sato\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAEypZym-j91wGirkVNsL7Ja4ECVuJ9hYiI5m0N-wsvpsX_7SBXOQZKyf_oec17PeyjVVIO9R0ldlQ5eF64GILTU8jWuO9tb598LSgKDuv-cCF6G_xE-ud_cgzcYfHhEvGlU4Cg551SQ_p84V_TN_b6yyv1sEcpSRj_Ju-3H5vomFfC",
+            "width" : 4608
+         },
+         {
+            "height" : 809,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eBurg×Burger\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECFXkgXRAkuMhuZ-rTQIRMH-AaNKn1EgBQ_-i4a9cHmJEO5dhCXgMdULlD3eL3D47XhuSwhCio-dUeKn7pZw-YxDINIkDfDSdkyQ0mkR8VbvMz0-C_Bef-FYSx14yTZ2A0-5qk2GlAjKwxn3rMx2w8D7Ppw1X3qyeJnPrM6gIwqRn42",
+            "width" : 1440
+         },
+         {
+            "height" : 1440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107446292272955293342\"\u003eBurg×Burger\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB-rYODqDkx2H06MGR3EjIKsbdCekYeQeVXzUdxb2lAgYK9mxJZnx7dZRSIU9qlEt9P1j1p8NbnAiRk3m1TbLm6eFomkpnJNU4OUrVvVNwzYQR-Dhd_5W9LpUfB6gXLllERJxdXHAe-iGr4d90sB-LNLrdZ8KIYMo_tss-DCpUZWPWp",
+            "width" : 1440
+         },
+         {
+            "height" : 1917,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112031913010219117301\"\u003e高木太一\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECfyZyHaJVzywsLsGfD18hxRxb7u9wOqda3CpHVvZctftjvjKSS8Dvez19mZIlJ75o3W__HXM2unjBUDbbVvqgDaqAV-XAUZLo2UYu3ZZGhSDybQ_aFkZbXEl-uj_WkV-wQY9Z0sE3wbQm8M5meIWlKUM2VTxhomi1N2-AVQiiHDkzr",
+            "width" : 2556
+         },
+         {
+            "height" : 1917,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112031913010219117301\"\u003e高木太一\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDiHVVMqNwUwuUOV3p2JFLoO4VFh7XnVYLSNvdhpqvW2CFB1KeNDsCdFthlpy7BtYCXq3xARTUe8mYq0gbl-t5qK5RUG4rE0ezu1MPfulHLaYX2fthayMs1A1TAIwVu4ke6x60ieGXNGegElLKmVH8RDI8KBaetXcI1L3k1kDyUkzoT",
+            "width" : 2556
+         },
+         {
+            "height" : 975,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112031913010219117301\"\u003e高木太一\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBGco2cDDnip3ihIDuDXE_zcZVcwFMuRmamrnBkvPpE1fKYP2ZHFj8eEBLzzvPPCDkGD_kxv40bBN92cqRR3Cda1LL_xuT1VFkOYUMuJrXvbYlbOIdY0wm23oZhnob2jr9yUCYB27j16WzyisLMKNkCS3Gg6urrQeNSEHSVpRcNmwCV",
+            "width" : 1514
+         }
+      ],
+      "place_id" : "ChIJ29SfM1-nAWAR1OUOQpb6qjo",
+      "plus_code" : {
+         "compound_code" : "2QGQ+QV 日本、京都府京都市",
+         "global_code" : "8Q7Q2QGQ+QV"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJ29SfM1-nAWAR1OUOQpb6qjo",
+      "reviews" : [
+         {
+            "author_name" : "杨雅韵",
+            "author_url" : "https://www.google.com/maps/contrib/104312385768990074273/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzVu6T3kCGJL78yMTcEsBLZIXP09ip9OE_zTot-=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "9 か月前",
+            "text" : "美味しかったです。また行きたいと思います。",
+            "time" : 1628330927
+         },
+         {
+            "author_name" : "高木太一",
+            "author_url" : "https://www.google.com/maps/contrib/112031913010219117301/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiCnSfRIw2hnN0Um9v4aPZSNZrKXJslUq7P4zvBmA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 5,
+            "relative_time_description" : "9 か月前",
+            "text" : "2021.8.8.Sunday\nハンバーグ💞肉肉しくて〜ガツンとくる😍👍\n又✨突撃します‼️",
+            "time" : 1628461821
+         },
+         {
+            "author_name" : "はやせみなこ",
+            "author_url" : "https://www.google.com/maps/contrib/111529412091803865107/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzSM--JUS0lP675iCvzgJCo1zc3Ic773gBuzZ_l=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 4,
+            "relative_time_description" : "8 か月前",
+            "text" : "ハンバーグ、美味しかった！",
+            "time" : 1630652255
+         },
+         {
+            "author_name" : "竹内剛",
+            "author_url" : "https://www.google.com/maps/contrib/103040094878316269046/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjR4UTvEvxlgkBeiHvz9VHOh4jp_JrXf469OHjhpg=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "5 か月前",
+            "text" : "",
+            "time" : 1636860275
+         },
+         {
+            "author_name" : "Hal Sato",
+            "author_url" : "https://www.google.com/maps/contrib/116456558868414996755/reviews",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzB-h3MzFMp5XCnnd10YzDpvMZy35fuigZx0MFU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 3,
+            "relative_time_description" : "6 か月前",
+            "text" : "",
+            "time" : 1636000950
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4227466723500942804",
+      "user_ratings_total" : 6,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区吉田神楽岡町３７−２ リバティハウス 101",
+      "website" : "https://www.burgburger.com/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "真如堂前町",
+            "short_name" : "真如堂前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上京区",
+            "short_name" : "上京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "602-0845",
+            "short_name" : "602-0845",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒602-0845\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市上京区真如堂前町\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒602-0845 京都府京都市上京区真如堂前町",
+      "formatted_phone_number" : "075-256-7317",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0284931,
+            "lng" : 135.7676871
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0298092302915,
+               "lng" : 135.7690323802915
+            },
+            "southwest" : {
+               "lat" : 35.0271112697085,
+               "lng" : 135.7663344197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-256-7317",
+      "name" : "GRAND BURGER",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～20時30分",
+            "火曜日: 11時00分～20時30分",
+            "水曜日: 11時00分～20時30分",
+            "木曜日: 11時00分～20時30分",
+            "金曜日: 11時00分～20時30分",
+            "土曜日: 11時00分～20時30分",
+            "日曜日: 定休日"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2618,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115703364588376587722\"\u003eピッピ\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAcpqZ40v9IFk4rnw1KQJFBlBBTfSiXZkXLb1xdgHQU2bMBPT2Lvaxio-wgAqk1yRP3Ky9Kdl6m-sGc0f-NJV4dbINmm6BM7jjsqxUt9J8DoR8uM6mFDNnRvAhK-oZ7Qc5c8D5yVrp6N5J5ILXdhV6mPTlDwiNDC7EtQYh7T-YHpPkv",
+            "width" : 3918
+         },
+         {
+            "height" : 3472,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECfXML4_Ukh7GjsvfAAi7S06IvBQwufOdMINK2LXTltd8bR0Lz1r3PC4nqx1ZC5-RUMTTxfHXoXrawYYPPtNC7QFlDndj_LOqARpbKPA_Mi4jwxrhh1kkg2wFMgQOXi9gaST6O1JZCkVHhjzq9Husuj_fy-6PdzzzSiLaplGRuEMpwi",
+            "width" : 4640
+         },
+         {
+            "height" : 3262,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101290173315393415904\"\u003eTakuya Ishida\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECMUzqPTzv1OcCFbEDTLw69TEiRexgZsAGyg9nSAtnkGXrbeGyPOxD2TvHQ5JjsIeqEbOrDF_aFk9kjT3e4-rsx4wSyGlzMmVLwRMvSgXLw7qvbj0mtrLcPrZuOP6p5JC_lR2sqnBLj7lLrs1ajG6-GTbiask3RpGG75DLzCpVzzz7x",
+            "width" : 4903
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105414532758820434031\"\u003eくまごろー\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDaVJgxSK0oPsofEY8OGQHRQqyaifO1E97Jj93HgR5Lwrj2RLfbph7as64tntLs_fgz1gUt2EGKJJmdSjMkggoeaUy_NE6L4qK3hkL_pVtYE_4YkZmMx5bjiJ_W-G5hxCioIHpW3CeslS0gEnNa1W90Dozo-OjQTODrCZ_-NQielpR0",
+            "width" : 3000
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113708783406987816298\"\u003eDo Hyung Shin\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBver_dKTwxafnJF6cmZOGpW5HnemI4fKov5bM0fak6Sp63gPjZRxtXUGYFKroOL3bbHLKEDO8NEuLX9s771iv_Mvn8NFhosHoKy6P2pb8m91t48r5wnXT9SNxVUFheqfj8jGCm06Uk-vM9Ys73M8kd6L5maT4q_ilpKrclKO7zzHM3",
+            "width" : 4000
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116051369909293381122\"\u003eAlexander Kaymak\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAMpzCmJue9cGBIyVy3TG-pnuF2WVhLcMH9hYT2qUdSGdnpOoyuF-SLqTrkbLJrkVNZK4AxvEXk9ZJLbU9rWuKHbSdPO07ZR0yy5CTIZFZhN7-KKscUmI9_c82MfIRnkLVQzK8eujK6bBrkvORGlmlNctJrLCzoEeLlESCrLvWir8wU",
+            "width" : 4032
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104552191296516882264\"\u003eY Miyuki\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECwnbpNdbMQ765Ztd6AddWA3OzV23kuSDMqXFsTMh41qIuhcxNgz1kM144HD5bF_4375hber2uusoatuiL8m_bMK4NOv_vYIvugHVwlX1RjS-f9lHXItOlkElIljBZew53loM40Rd_Nl6IJQs_yjHJc_inRvgvcSz1ZvRz7z5gThMZL",
+            "width" : 2448
+         },
+         {
+            "height" : 5333,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111676990482930884930\"\u003eなかじー\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDxuxGnFD3ZEhUPeXpJS5q1EtiYrO69Si4fHaGGGPPcg6ie6SxwBKCiVRMW5Jrd6uKeIOrOHA8d6A1iZytVhKGI00gCh0IeInE94Gp-Sgwa5P87zDJcnJcerAD4HMI0qkmNV5Z_BZY0Qp970NOGCuC9irgM3yXEPhW7_xjCwOGGNGh1",
+            "width" : 3000
+         },
+         {
+            "height" : 1997,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104233607141544952291\"\u003eLiLaLisle\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAp11KpmKn_RM6T7Bsuiwh2eSmpAcg9T7V27UAEfIXhPBRHJaPD2SuGP7qaD_5p1k-1gUQEifIO91OlNqSvBTftdsIn-HXsGur8gczCNItYuZAND7Sl8krlO1SMcojpgGVOgBjsH2_4ZouP-LzTQqCi96Wf86y60iujZS9FRDP5U7vK",
+            "width" : 4000
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111285693109019521147\"\u003eOz Bar Shalom\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDBndkPlH-4R9x_O0el1EU53CC9kwNydbYvMU_XD6j2ROdBLBZX84QhRO-RS-O9gpttflsA4pnFDB68e0PcOxLCJLkeDu53TAG8ZaWTBfsiyik3mnh8D7KeQS0-AkwxVMH1TIManXluItDEfnuqM-RnC-b07tYR6zdgxSA1b28E4Dcq",
+            "width" : 4608
+         }
+      ],
+      "place_id" : "ChIJC9GoIWYIAWAR2dpgeElhN8I",
+      "plus_code" : {
+         "compound_code" : "2QH9+93 日本、京都府京都市",
+         "global_code" : "8Q7Q2QH9+93"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJC9GoIWYIAWAR2dpgeElhN8I",
+      "reviews" : [
+         {
+            "author_name" : "kawa kuro",
+            "author_url" : "https://www.google.com/maps/contrib/106248132901079536273/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gh-aVaJROIPw5VPEt3QulZIHYWncis4stdJ280YOw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 2,
+            "relative_time_description" : "過去 1 週間以内",
+            "text" : "13時時過ぎに訪問。\nすでに5組ほど並んでました。\n40分ほど待ちようやく注文。\n今回はテイクアウトでしたがテイクアウトでもテイクインと一緒に並ぶ必要があります。\nグランドバーガー\nチーズバーガー\nガーリックシュリンプ\nを注文。\n正直な感想を言うとあんまり感動しませんでした。なんかめちゃめちゃあっさりしたハンバーガーでした。\nちょっと期待してたものとは違いました。。。\nガーリックシュリンプは美味しかったです。\n\nちょっとリピはなしかなー。。",
+            "time" : 1651669581
+         },
+         {
+            "author_name" : "rutezukaramumoshi",
+            "author_url" : "https://www.google.com/maps/contrib/111069241926253773054/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJyerVupgh9azu8zPJYvd_J9z7-G2dkU2uxU10IQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 2,
+            "relative_time_description" : "2 か月前",
+            "text" : "味はまあ美味しいです。セットで1000円超えるから妥当な感じかと。しかし店員の男性の接客はAIかってくらい生気が無く、愛想が良いとはいえなかったです。わざわざもう行くことはないですかね。",
+            "time" : 1646115450
+         },
+         {
+            "author_name" : "Cort Emason",
+            "author_url" : "https://www.google.com/maps/contrib/111189178601845717848/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjoUlOlqUt3UnEUSK8-wZCxxPoIDwywGQ_-wuLjAQ=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating" : 4,
+            "relative_time_description" : "1 か月前",
+            "text" : "京都で 評価が高いハンバーガーのお店です。\n\n今出川駅からは15分くらい\n出町柳駅からは10分くらい\n駅から少し離れていますが、京都の町を歩きながらちょうど良いと距離ではないでしょうか。\n車の方は 近くにコインパーキング数ヶ所あります。\n\n店内はカウンター6席くらい\n2人席が 5つくらい\n\nチーズバーガー🍔\nセットでいただきました。\n\n美味しかったです(^-^)",
+            "time" : 1647401701
+         },
+         {
+            "author_name" : "九段坂公園",
+            "author_url" : "https://www.google.com/maps/contrib/111081938175269881426/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjtP_w0e_LGv4VipZfzdGUN3bmOPuOPFMyYzHaiAg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "1 か月前",
+            "text" : "肉肉しいバーガー🍔が食べたくて検索して行きました。グランドバーガーセットとペプシコーラ。1580円。確かに美味しいけど、食感は肉よりアボカドが強い。チーズは主張が強くていい味出してる。全体的にアッサリな感じで胃もたれすることなく美味しく食べられた。\nやっぱり飲み物はコーラやね。",
+            "time" : 1648708352
+         },
+         {
+            "author_name" : "Yūky “Doman” Uedy",
+            "author_url" : "https://www.google.com/maps/contrib/105371995306819533214/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GjEIlwOzt3LXdKEnawPNKPmDRchMB8UoQECrPUPDw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "1 週間前",
+            "text" : "数年ぶりにハンバーガーというものをいただきました。ファストフードのは臭くて不味くて苦手なのですが、こちらのは美味しくいただきました。ごちそうさまでした。ランチでサラダも2、3種類ぐらいから選べるなら★5ですね～。",
+            "time" : 1651126831
+         }
+      ],
+      "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13994761335257225945",
+      "user_ratings_total" : 373,
+      "utc_offset" : 540,
+      "vicinity" : "京都市上京区真如堂前町",
+      "website" : "http://grand-burger.com/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "グランディール荒神口",
+            "short_name" : "グランディール荒神口",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "７８−１",
+            "short_name" : "７８−１",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "宮垣町",
+            "short_name" : "宮垣町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上京区",
+            "short_name" : "上京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "602-0853",
+            "short_name" : "602-0853",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒602-0853\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市上京区宮垣町７８−１ グランディール荒神口\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒602-0853 京都府京都市上京区宮垣町７８−１ グランディール荒神口",
+      "formatted_phone_number" : "050-5869-5322",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0214165,
+            "lng" : 135.768881
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0227344802915,
+               "lng" : 135.7702306302915
+            },
+            "southwest" : {
+               "lat" : 35.0200365197085,
+               "lng" : 135.7675326697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 50-5869-5322",
+      "name" : "オルバーガー京都",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～20時00分",
+            "火曜日: 11時00分～20時00分",
+            "水曜日: 11時00分～20時00分",
+            "木曜日: 11時00分～20時00分",
+            "金曜日: 11時00分～20時00分",
+            "土曜日: 11時00分～20時00分",
+            "日曜日: 11時00分～20時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1819,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDCFhsOUrzGOl8uKfyK6HAOb5WeEMkUuqiyu1YEFzE-uq0eJNjxpA6cILSVbGWpAoqY-YVSVHDEgEVWZf2bBInHKXPR7B79klXI4C4VQvNncPhASuUrV8H_tjPLK1eoPMeVl1fRp5M6HEppQ9Q-RHghhLdc1QBz9ryCzLUOnZgnwDgd",
+            "width" : 2692
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118179784636399034971\"\u003e荒田高幸\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB7hx-ZnAGSMAeNX4cX64YqpNVNxsTD7GlB1R2SrJ1Xm8emRbGFv9BBClE85kS4GW2ly7PiP4WqgcApjLSsC6T4LEy_iP96-cnOW16juG1hwwtjoVgfxpf7MkVlOo-UvjKPL0Io2VRUhT0VFdvt2_slmh4DrVeSMHOPzR4tkUTVItKi",
+            "width" : 3024
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117919392702789146382\"\u003e藤﨑進一\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDKjGNrodAY9nwe_eQ36WiyQ7Krsy7m2tdfq4bZf2HFqmXq_rniaRb9Pj3A3aJYxpmMFZHSOAB7ks10N8kPwEdJkc1L0QrGwsNG98n-NpA949r4ehosWkttIyYFAXTyYeLeS3dYqtrgrgkQ36k7alnZptsUMyd4uQbueDzwpnSunKbD",
+            "width" : 2048
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103055282239260508062\"\u003e大野紀明\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBws7USIwDR8ADY0CTrFkqSq1HU7-5wuHcasiXuVEB_Ba4fajbos_TX_vmJ6byQBHck1ZeCPrM_3fRwZQYi5DDiOPJFyuRAZStVhn6RiS-qLf5h6ccnmzwZu8-P8wRXYKLU1khLDtxox30czereexoFq6N3Kykuk5rC6jGcQy9Iip-U",
+            "width" : 2448
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106697186950568763042\"\u003eDainen Kano\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED3XsfgP_z-OGn0pIl8s2BgHT-GdpZzBb56sxKoqxOJ8qqx5vTlGwGqj3KMaS9q046ompGBBPuK7L_YQpw2vSJ700ywHQ1Koq7astSFgrWg97WvP56NYdlBGNfHhl90MwhquVUUOk90eDYHNN-R3xjK12mwVVA1UKzpZmIzoDgXPxIs",
+            "width" : 4032
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103055282239260508062\"\u003e大野紀明\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDOGg4Q97roJlharFfMlMsReBTv_x61lUgpN981VtmiY3jAd9HPvEHr7da0vRQ4QVwW1FDB2NZFkRjz6mjhdlF5KFy1g6aBkCo0iNLDJj9qe2Sb0j-TnlvmCGWcohCyURnOxEtxK0CD1o9D36Vg2c6fKA6tZ2cQeL6DnHBqgWI9f-A1",
+            "width" : 2448
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109345276586921453382\"\u003enobuhiro katou\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAEpixuz4v58z58-2I-Q6Lg_ymeRwc1UO6FxWVxVfGhusrfNqMycA6jt3eLR6_1Vuc6HtYCzjLR_mnHc-9NWzqpUdleqhHzWinwSPAzRURcNjtiX89mKAOKQ-c1QzqcbqVcAdQYpLhO-P3oyEWI9tEhVu13gw8RXbEkAfnUbHCP5Ym2",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106697186950568763042\"\u003eDainen Kano\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBzdLTdusTIiVXkS0z-_CEPlwWbmPdKZfPg9pn8mMhda8QCTIEDzCW7UlOXgazxKf5rMgwpha9CM7aj3He6PzPF-TsYR7ev6CIwywFPLPtMYE1lDwFqbwK7nxgOIyEtnCVkEOsssGXqtKMwSTFoLJGOw01k_ejLVGwAWuVh2g8h2CDF",
+            "width" : 4032
+         },
+         {
+            "height" : 2954,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBSjBEomwAuZibZk_4MoxXqewOw1y27O9V3Bq1H-dN4Qcf0PJ5fDhLJKAaog5VG4tMbSYODcEHAn_au-TbTVlyS604nuAeZH8Vwy3ruHOICngS1EaGqBfaKll0K85nSOd2jsIwQhQiDA91gGw0cwbm2ZNLT6o06y0y_gplU7JjUFI4H",
+            "width" : 3939
+         },
+         {
+            "height" : 4032,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109345276586921453382\"\u003enobuhiro katou\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBg0GaG_e5XSmQpwzaeapQtHhTrGcnPBZ9cqQ9CpH8vL6w4czyFMK0H6O3nYK1vu0jXhZxXAysx9Gxgm3ncpWqkPEv11btaDULKxvVLQuht-_9NKuSw0Oj7shUhz2W0LSMzkR6eDqhaGcaRlbgHvY2v20xUQHC5TZF_iBpgR1t3zq9Q",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJb8-CHVIJAWARjLIv2FKENiA",
+      "plus_code" : {
+         "compound_code" : "2QC9+HH 日本、京都府京都市",
+         "global_code" : "8Q7Q2QC9+HH"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJb8-CHVIJAWARjLIv2FKENiA",
+      "reviews" : [
+         {
+            "author_name" : "toto clown",
+            "author_url" : "https://www.google.com/maps/contrib/103243327546204386307/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhGt2e4G9F_c2Mvcpjc5ZCiwtaiT0JDsQdxmsou6w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "1 か月前",
+            "text" : "アボカドチーズにフライを付けました。\nジューシーがお肉で満足。\nオーダーが重なると時間がかかってしまいそうなので気長に待って下さい。",
+            "time" : 1647608195
+         },
+         {
+            "author_name" : "Susumu AIHARA",
+            "author_url" : "https://www.google.com/maps/contrib/104178779188698674678/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GieFzBYFareZgLKMw5_cSeDkU7WRPwxA_jNFJAZCg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "2 か月前",
+            "text" : "ハンバーガーとしては入店を躊躇する値段かもしれないけど、直球でいい味の肉を食わせてくれるので一度体験してほしい店。",
+            "time" : 1646151930
+         },
+         {
+            "author_name" : "大野紀明",
+            "author_url" : "https://www.google.com/maps/contrib/103055282239260508062/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Ggrk_SpAjFSBZK3n3iskmttfZBadQUgflSIcjQYew=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 5,
+            "relative_time_description" : "4 か月前",
+            "text" : "一度こういうハンバーガー🍔\n食べてみたかったので\nランチに伺いました😋\nオルバーガー京都さん\n牛肉100%なので肉汁たっぷり\nバンズも美味しく\nボリューム満点💯\n色々な種類のメニューがあるので\n選ぶの迷いました💦\nチーズバーガーと\n蓮根フライと九条葱バーガー\nアボカドチーズバーガー\nベーコンチーズバーガー\nフレンチフライ\nそしてコーヒー☕️\n美味しゅうございました😋♬\n\n#オルバーガー京都\n#荒神口\n#ランチ\n#チーズバーガー\n#蓮根フライと九条葱バーガー\n#アボカドチーズバーガー\n#ベーコンチーズバーガー\n#フレンチフライ\n#牛肉100パーセント\n#美味しゅうございました\n#ごちそうさまでした\n#店内で\n#自撮り\n#ドヤ顔\n#大野紀明",
+            "time" : 1641272271
+         },
+         {
+            "author_name" : "堀友哉",
+            "author_url" : "https://www.google.com/maps/contrib/115829750880610370671/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiPT_C7iX3hjn4k9x0Htl4IUg1eo-M_hTtDncfU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "1 か月前",
+            "text" : "おススメです",
+            "time" : 1649490283
+         },
+         {
+            "author_name" : "Dainen Kano",
+            "author_url" : "https://www.google.com/maps/contrib/106697186950568763042/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJx2cVqf1BJ-5hOlhF6jI6VYQ23J-0xY74s0bnFU=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "肉の味がとても濃厚でとても美味しい。\nまた、肉の味を受け止められる専用バンズは近くの有名パン屋ランドのもの。",
+            "time" : 1613393030
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2321188149305258636",
+      "user_ratings_total" : 8,
+      "utc_offset" : 540,
+      "vicinity" : "京都市上京区宮垣町７８−１ グランディール荒神口"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "４６",
+            "short_name" : "４６",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "田中門前町",
+            "short_name" : "田中門前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8225",
+            "short_name" : "606-8225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8225\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中門前町４６\u003c/span\u003e 京美華ビル １F",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8225 京都府京都市左京区田中門前町４６ 京美華ビル １F",
+      "formatted_phone_number" : "075-721-3265",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0298681,
+            "lng" : 135.7793091
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.0312037802915,
+               "lng" : 135.7807410802915
+            },
+            "southwest" : {
+               "lat" : 35.0285058197085,
+               "lng" : 135.7780431197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-721-3265",
+      "name" : "ジェイムスキッチン",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時30分～14時30分, 17時00分～22時30分",
+            "火曜日: 11時30分～14時30分, 17時00分～22時30分",
+            "水曜日: 11時30分～14時30分, 17時00分～22時30分",
+            "木曜日: 11時30分～14時30分, 17時00分～22時30分",
+            "金曜日: 11時30分～14時30分, 17時00分～22時30分",
+            "土曜日: 11時30分～14時30分, 17時00分～22時30分",
+            "日曜日: 11時30分～14時30分, 17時00分～22時30分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3464,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDUxntg4_bxdIKaVIQZUmIJEzT5YsS3mJi3WWY48vAbk285rSMpRwIMCEAoJlSdtz2OP427HV7tNhUpG5HCq_i9IUbyVyBAR3S2taJQkaR_vPkU_R8P-_8qa8bTM562nfBhtlifyBoLiMeLcl5umqNmESbMwUcgvJWcHSVIeIYbYpbO",
+            "width" : 4618
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109724042927714444005\"\u003e長沢佳\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAxDK6TgGAImY8S_qmCGsOmfmsKLw2RA0K8yt4qm1Q-3qJg5KUt9cH8uUzVy3wvyvDVnzhPAsAkpOq7QHQV-p9PCcXNPcT4dBbOLdZDbz_EInh2kJIbXJx0c69hfpM1C7ufZRHPqDTxx_m2w4erEj7EnPzf-R2gt37hkU0_bhKalSKx",
+            "width" : 5333
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113732484585554122141\"\u003e田中秀典\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAStPjbrazIqGL6u3y9UKvd9A15SnqBednbHFPOGqC1vtL0lKkcHgLWxK-Zhdnl1lVSSZby860ArCPF7M9PnL4hmehAgqVqvLSTeQUuBHut0ygl2hcPsUTWswZX51jj6nb6Kyu_xwh3JcqOBihLJ1PgGuzKpHPTDoLrhkiSQG5lY6rU",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103759640689750790996\"\u003em a\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECYtKm5zDde8ppJxaUChZIqdW2nkE9QA2uhYSvHLXWEZPKlLnb9UxMXHODKFdzR8c662-PXwS-qFzTbYu0Ku6f3UST7FEBBs3YC49YRDUwWMjSZ6mvDYmYraGP-14AFMwpA9dGc3j8g2Z5lK9tepBIh4lsXYmLwNiggt-mthrv6TzEb",
+            "width" : 4032
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117345289062289880739\"\u003e濱田始\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAGB0tJ8MfpMFxW94m_JQvwIujZ9MNpm5Hr9Lbb8lx1TRNCIIPmCPnwqgJ8KBuyJhdZdLFJxxSwJLkC4llRJjHEelGIsSvgpA64DsEuQ5OujECUyl882mV-jWDm4muLEyCWtogGZBFu5R0X3ND7NjZMKGpsRAmaMrYNuIVpewoLh0dg",
+            "width" : 4000
+         },
+         {
+            "height" : 844,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117453700742238214197\"\u003eるりぼし\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBd7Js97WZM1ttxP0fXoZghozbN1aPx1IGIPF_y5YYEW7pwBqqpLDD9wWXKYco6pGqCeeBtoQ3IM_iR3XSw7cVWE-wGXNOlMYLZpeFk_pgHLf5TBpUAqzAblvS8Hh45Wd38yMrXZLygnuD9EZde0h1lwg0lxIiWEshbRsrGrGz4Jkc2",
+            "width" : 1125
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110112099307685339268\"\u003enoriyuki kashihara\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECSr_wEUXQTdafS7daByivwhXlq7H9mQv2-3I6_RJa3G8PxY_j_h7SVtUM1zYXJK7vIE7IE9V_JWdqETXL6UiANTWlCs4Y4PL8EHnvVheyM6IW-LkExryGz3rlLc7pFaALG7QdB9GUytT_G3yIi_s3g8OAzwwM7ri3VEGwnpIp3r3mw",
+            "width" : 1920
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117395646003463639737\"\u003eYY TT\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED_Ng9yIzIFw4dQ2Owjpo3smxX9-YtGC-e31mUbfpk8lF_NEW8ezJ6WHSZRqC9S0H3THM1Bzk494URmdQw01GelOozEKHBV7LrH814NJGP9Rg6dWHGHG5Lf3qwt-prpz6HOcDb6UX36h49IEkp4grnMI6cqgY7n0pOjXPQX8sOMz6Pl",
+            "width" : 3024
+         },
+         {
+            "height" : 4618,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAjfR5lzqwFDhUW66rLKRuE5wlxRnQM41ZuxT1q9c-O12Ro2NklaIDmP_Sk-iQnjTacj6BDAHcQMvacTo7EGdNCqClSk759JRKZxtigj71faIZpNz2jzMu_Wfny3H67zrazDxTzJcoiUHeIkbZwMZ5FZzmGtxdqyKgFoKsB2buYfQeO",
+            "width" : 3464
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110112099307685339268\"\u003enoriyuki kashihara\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDkyv6sJPlmY0c3oKyrDUR8Simfqx2rgJuTfhMJar8JayVoY1QRpd1i9RWJfkgmYdSMcXynzgjbSbTT1MtSvKGYVU3J7TFNB2_FIlGtE-YOJSK1gyqH9eEknRzme0stzaO7G55-ekdzzDMW_mGaCifccFDWLI-w3QO6MuV2D619zyKd",
+            "width" : 1080
+         }
+      ],
+      "place_id" : "ChIJL_lMIVoIAWARTWqYBNWwOSY",
+      "plus_code" : {
+         "compound_code" : "2QHH+WP 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHH+WP"
+      },
+      "price_level" : 1,
+      "rating" : 4,
+      "reference" : "ChIJL_lMIVoIAWARTWqYBNWwOSY",
+      "reviews" : [
+         {
+            "author_name" : "YY TT",
+            "author_url" : "https://www.google.com/maps/contrib/117395646003463639737/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GgdMJf9Lz2NcCRKrplDEzbv6h1vg9_CgSCE9CnM_w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 4,
+            "relative_time_description" : "1 か月前",
+            "text" : "学生街にあるハンバーグ、ジェイムスキッチンへ。非学生は量に気をつけて。Mで充分です。また、ご飯は多めなので、女性はSがオススメです（写真はMサイズ）\n\n味はわかりやすいハンバーグ。トッピングで色々選べるのは良い。味だけで言えば大人となった今、特別なものとは言えないが、学生向けのお店である。量や味など「学生向け」としては★4としたい。",
+            "time" : 1647747499
+         },
+         {
+            "author_name" : "T AKI",
+            "author_url" : "https://www.google.com/maps/contrib/115598725869234009918/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJy-D-Sp5aR3AHPa3KHwJuQIuRq9eIRwxKUXjjj2=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating" : 4,
+            "relative_time_description" : "3 か月前",
+            "text" : "若者向けのハンバーク屋さん。ボリューム満点で値段もお手頃。席間が狭いのでこのご時世少し気になります。店員の愛想は良いとは言えません。",
+            "time" : 1644240565
+         },
+         {
+            "author_name" : "ken kino",
+            "author_url" : "https://www.google.com/maps/contrib/107505808616661224563/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJwxO7_cfaLcCJu1WQQpqx6qqml6d_8koXJs0W_J=s128-c0x00000000-cc-rp-mo",
+            "rating" : 3,
+            "relative_time_description" : "2 か月前",
+            "text" : "ここも学生向けの洋食屋さん。ハンバーグはちょっとジャンキーなメニューも多い。安くで量を食べられるならあり。",
+            "time" : 1644502044
+         },
+         {
+            "author_name" : "buahan buahan",
+            "author_url" : "https://www.google.com/maps/contrib/100413069737254854868/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gi8X3hZs8aXm0CrQ2k_vrMiGeN3Vt5ouvv-0ZL7IQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating" : 4,
+            "relative_time_description" : "7 か月前",
+            "text" : "まさに今お腹ペコペコの方に読んでいただきたい感想文です。\n百万遍交差点を少し北に進むとお店があり、イートインランチは2階で営業されてました。休日の13時半頃の店内は満員でしたが回転も早く食券を買ったら席に案内いただけました。ハンバーグのサイズとソース、トッピングにバリエーションがあり何度も楽しめそうです。休日で他人と会う予定もないのでバターガーリックの大きめサイズを注文しました。はじめにサラダが運ばれしばらくするとハンバーグがやってきました。めっちゃ美味しそう。そしてライスでか〜！ハンバーグにフライドガーリックって初めて食べましたが相性良いですね。パクパク食べれます。肉を楽しむというより肉汁でデカ盛りを楽しむ料理だな、と思いました。フライドポテトもありカロリー計算したくもありませんが堪能できました。つぎは和風おろしのソースにしてみようと思います。ごちそうさまでした。",
+            "time" : 1632142139
+         },
+         {
+            "author_name" : "かゆ",
+            "author_url" : "https://www.google.com/maps/contrib/112468975773354200022/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg944PGLsyTeBCSeO34C-a1ZfMajDFBuaDCGwkQ=s128-c0x00000000-cc-rp-mo",
+            "rating" : 3,
+            "relative_time_description" : "5 か月前",
+            "text" : "ハンバーグはふっくらしていて美味しいです。\nライス、サラダ、お味噌汁がついています。ライスはおかわり自由で、ポテトも付いているためとてもお得だなと思いました。\n料理は美味しかったのですが店員さんの愛想が良いとは言えず…という感じです。",
+            "time" : 1638879459
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2754427076065389133",
+      "user_ratings_total" : 343,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中門前町４６ 京美華ビル １F",
+      "website" : "https://k413000.gorp.jp/"
+   },
+   "status" : "OK"
+}
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "３９−２",
+            "short_name" : "３９−２",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "東桜町",
+            "short_name" : "東桜町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上京区",
+            "short_name" : "上京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "602-0858",
+            "short_name" : "602-0858",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒602-0858\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市上京区東桜町３９−２\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒602-0858 京都府京都市上京区東桜町３９−２",
+      "formatted_phone_number" : "075-211-7586",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0219483,
+            "lng" : 135.7690718
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.02330783029149,
+               "lng" : 135.7705224802915
+            },
+            "southwest" : {
+               "lat" : 35.02060986970849,
+               "lng" : 135.7678245197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number" : "+81 75-211-7586",
+      "name" : "ALOHANAcafe",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1200"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時30分～22時00分",
+            "火曜日: 11時30分～22時00分",
+            "水曜日: 11時30分～22時00分",
+            "木曜日: 11時30分～22時00分",
+            "金曜日: 11時30分～22時00分",
+            "土曜日: 12時00分～21時00分",
+            "日曜日: 定休日"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100214943210620310067\"\u003eあきさん\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAHpsNiq8tV7YYlqJKIspDxMF6lJsh6289YnwpUdy7DhFHVGG-2FYj0_JcBppPDSJXZsm_fdTnu9qVhU1mPeI3uXB8ml9PO5JZmvlepIKiJzQ-sVFPdZ6h1JowMkLhXuaa01-hx4JrDjwlxQHK2MpFCtwaaZDvAkWx9_2WtWfPzDC6g",
+            "width" : 4608
+         },
+         {
+            "height" : 808,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108651005399301220173\"\u003eALOHANAcafe\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDbGVL53qLGzRX_gdOLM_xPSLuwQA2nDc4ESN2a1Uzhw8R6D4o9NpwtfNLu8q51YUSnQ471TvR3LmhvalCvp7zFcIgf0qFyqhCv8dm00ZB6UAGZQVUrpfKSbcV6lJO3mV4zbY6tymlXXTGZZfvTk1IB1owc4olFz3s-IqHZzX7yuXkA",
+            "width" : 1440
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100214943210620310067\"\u003eあきさん\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBbaGQ-KhofrUcaH-jTaF8yIMV1dRnHx-qAodqbgYVPdqdGQ-TQC6kIF_-YHZtzDQ_01jA4m14DUHydSbI9_j5iyE0XtF5CudFcl9nzoK7U81vyCtkLA6gRpYrTdUjHVT64MxDgVFFdcG4SWNo9_lnRFlQmh0jGxEolctikZdgoLg9B",
+            "width" : 4608
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEApjh0hVJcyKah-doD0ClqkP8O4VN7ae0PLkJe7f2PQJxzxXZcLDaJuyJIv-z2RF-ETe24I7HSe-35t2BB9AuVIEYnS1Sot_phPaDgHEzFpcBCL1PPzMvk8ZjFh4PHcD83I5lvR1MGFeaDcqQ4n0ihLZi8K2i4NdneUMZPqRUUdh1Wt",
+            "width" : 3264
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108651005399301220173\"\u003eALOHANAcafe\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBL6DUK3wkHCOfgz8KsPMXmcq0htIuV_zdMhNBaEOINZj0yyJiXABbqtJah-4OMQ_O-YPFGLJFvNKBjiGJ8spkm3OzTGB9P6iDeywPmbwHsYTIk9KYwvZJswmCb3LGwivgOYp2ZREVDtF2cLrMdb9x16H1WJtbeQ0stc3OTqP4j0EXJ",
+            "width" : 2592
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100214943210620310067\"\u003eあきさん\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBvTMZ__FKR4Tsq61WQhxsfYB6gfuh9_l63v0iKggFwzcpqJkugMIOsxU4-SHQLXe53V9s6yW800c74POkqeQpqrn9Tl__RzM0tpPVcjHUpZIvS0e4jaJuFRoZAOk3AsEhVwKqsW4lGKzr5bqM_8Wa1ewztkATA3R-H4EUuAZBA_9sR",
+            "width" : 4608
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100214943210620310067\"\u003eあきさん\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDTRUjCekjLtlxYBi9cXNOzQxnlYk9mDAM8mfnrHGlCrGgZpIg3sfotVqmP4qVQRNB_E7_Xah7T0u_sKEdCywfnWW2jrVRlW5_4ix_2IfCc3FVUosbCo0JdXzzgXAUedZPf6dv5soRbEahcv6rAtOpjLRx4Ukxxzr6jHFQVAyk-M3DB",
+            "width" : 4608
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBbyKoNzqyKmgy1-FGy5O-cgJmf5FSnQiR81LJTnTtQH9hNqiAK7lIPrSBkxr91iaJdD_GcQORuQjYtCxpsGeRCA0hQ_GfKsDC_euMT9cCxw6iRoh0j1foFZAPRTZfAhngoE1U-hCq_RiMfafGpSpYoGmx9_JDz3vRSO477ZTg6frjY",
+            "width" : 3264
+         },
+         {
+            "height" : 2922,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103352821811496752907\"\u003e大阪のみるるん\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAbrmQlX1Yo0KVjSbfGfYmu3nFMqGDSKoW0uqIC2Nc6oGf_f_x8chd5oX69G6jc3J65iW7SIlGw3bXYScRoAps2KiBTEE5oNJ6Wn8UR-TlP-9HHscGSYV1GvkVqpX7EXGfyzDjI3BJv7yUJNVAaB2vSgsDJwQofEMczDBFhM9V_dxNu",
+            "width" : 2277
+         },
+         {
+            "height" : 4624,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111964449141704432524\"\u003exin x\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDls1Ni56bnES46JJtkbZcjkzFDporgyGwqYW85f6lYryqD_RAA3hxMBvtVqfDWs9X3KQAMTtZH5bYfnF2w7_3euV1amuXdW4fcHcGndwTUDfixzBb1VlbgfH-Ghw-Qaf3o6pmw-98HWsZkFm4Cpe_dL1QYydcavCUo2ZRIjKc9ZBfr",
+            "width" : 2608
+         }
+      ],
+      "place_id" : "ChIJpYJwTmAIAWARWf2jhikZteA",
+      "plus_code" : {
+         "compound_code" : "2QC9+QJ 日本、京都府京都市",
+         "global_code" : "8Q7Q2QC9+QJ"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJpYJwTmAIAWARWf2jhikZteA",
+      "reviews" : [
+         {
+            "author_name" : "ki8 yo25 yu0",
+            "author_url" : "https://www.google.com/maps/contrib/107062069201563082481/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GhND36CwE70dQro45w2LE_VIXhvJc8SeGFyNuceApw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 2,
+            "relative_time_description" : "2 か月前",
+            "text" : "店内でランチの場合２種類のバーガーからしか選べません。口コミ見ながら明日は何を食べようかなと楽しみにしていたのですが…仕方なく２種類のうち苦手なカレーソースのバーガーを違うソースにして欲しいとお願いしましたが､それも出来ませんとの事でした。なんだか融通効かないなぁと思いながらもレモンティーを頼むと、ストレートかミルクしかありませんと。メニューにも書いてないし、昼はレギュラーメニューは頼めないとか分かってたら避けて行ったのに。結局ソース抜きで食べましたが当然、物足りないし､女性店員さんの接客もあんまりだし他の方の口コミが良かったのに色々残念でした。",
+            "time" : 1646753509
+         },
+         {
+            "author_name" : "atsushi nishida",
+            "author_url" : "https://www.google.com/maps/contrib/108084515130004211362/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzjLOtQWLZaiVy9JeXMzvAbGYdUpHrT-Buq4_44=s128-c0x00000000-cc-rp-mo",
+            "rating" : 1,
+            "relative_time_description" : "7 か月前",
+            "text" : "感染症対策がバッチリのお店です。\n\n特に女性店員さんは感染症対策に人一倍注力しており、店の外から来る人間は全員が保菌者、みたいな態度で接客されます。\n\n自分以外の人間もきちんと対策している事を理解できたら、もっと愛される良いお店になると思いますよ。",
+            "time" : 1632490156
+         },
+         {
+            "author_name" : "チルアウトでやってます",
+            "author_url" : "https://www.google.com/maps/contrib/114383207424531373539/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GicZFkXoib0GlZ8WovPoutqzXtzc4zTxiLE9pjS4yk=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "8 か月前",
+            "text" : "宅配で利用。\nパティ追加のアボカドチーズバーガー。塩コショウしっかりでアメリカ本場のバーガーに近い。\nアボカドもスライスされててズレにくい。バンズはもっちり系。うまいね。\n京都はうまいバーガー屋さん増えてきた。嬉しい",
+            "time" : 1629342182
+         },
+         {
+            "author_name" : "伊藤祥啓",
+            "author_url" : "https://www.google.com/maps/contrib/115569311262240708295/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14GiLcjPPkmpezc6ongDpY2pHlP4Eb7x3OKtPDtnzmw=s128-c0x00000000-cc-rp-mo",
+            "rating" : 5,
+            "relative_time_description" : "5 か月前",
+            "text" : "ゆったり出来て、フードも美味しい！\nコーヒーも秀逸で居心地サイコーです😆",
+            "time" : 1638861578
+         },
+         {
+            "author_name" : "あきさん",
+            "author_url" : "https://www.google.com/maps/contrib/100214943210620310067/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJwUAlswkWiDfOfixylZwrtpkTxYfDTEvYQgaKAk=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating" : 4,
+            "relative_time_description" : "8 か月前",
+            "text" : "御所近くのオサレなカフェで\n接客も感じ良くて\n居心地はGood！\nガレージなどは無いけど\n昼時は混んでる…\nハンバーガー、めっちゃ美味しいです！",
+            "time" : 1629907271
+         }
+      ],
+      "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16191875701423734105",
+      "user_ratings_total" : 23,
+      "utc_offset" : 540,
+      "vicinity" : "京都市上京区東桜町３９−２",
+      "website" : "https://www.facebook.com/pages/category/Hawaiian-Restaurant/Alohana-cafe-1396405467325426/"
+   },
+   "status" : "OK"
+}
+{
+   "error_message" : "Missing the placeid or reference parameter.",
+   "html_attributions" : [],
+   "status" : "INVALID_REQUEST"
+}

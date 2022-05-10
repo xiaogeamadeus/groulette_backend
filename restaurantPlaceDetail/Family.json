@@ -1,0 +1,315 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2F",
+            "short_name" : "2F",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "ｵﾘｴﾝﾄﾋﾞﾙ",
+            "short_name" : "ｵﾘｴﾝﾄﾋﾞﾙ",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "２８−１０",
+            "short_name" : "２８−１０",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "田中門前町",
+            "short_name" : "田中門前町",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "左京区",
+            "short_name" : "左京区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "京都市",
+            "short_name" : "京都市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "京都府",
+            "short_name" : "京都府",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "日本",
+            "short_name" : "JP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "606-8225",
+            "short_name" : "606-8225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e日本\u003c/span\u003e、\u003cspan class=\"postal-code\"\u003e〒606-8225\u003c/span\u003e \u003cspan class=\"region\"\u003e京都府\u003c/span\u003e\u003cspan class=\"street-address\"\u003e京都市左京区田中門前町２８−１０ ｵﾘｴﾝﾄﾋﾞﾙ 2F\u003c/span\u003e",
+      "business_status" : "OPERATIONAL",
+      "formatted_address" : "日本、〒606-8225 京都府京都市左京区田中門前町２８−１０ ｵﾘｴﾝﾄﾋﾞﾙ 2F",
+      "formatted_phone_number" : "075-706-7430",
+      "geometry" : {
+         "location" : {
+            "lat" : 35.0291372,
+            "lng" : 135.7788919
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.03035493029149,
+               "lng" : 135.7802644802915
+            },
+            "southwest" : {
+               "lat" : 35.0276569697085,
+               "lng" : 135.7775665197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number" : "+81 75-706-7430",
+      "name" : "サイゼリヤ 百万遍店",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "月曜日: 11時00分～22時00分",
+            "火曜日: 11時00分～22時00分",
+            "水曜日: 11時00分～22時00分",
+            "木曜日: 11時00分～22時00分",
+            "金曜日: 11時00分～22時00分",
+            "土曜日: 11時00分～22時00分",
+            "日曜日: 11時00分～22時00分"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117294368366339487001\"\u003eK\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAzioOv7-Z-k3d179MtyzXAHJLOjZTPt1AbhCycZUYX9cPBQ8MBxhjuCHhOqxKY_lTUxyZQb2dGIU-iw_UMNewWiUWOR25HKyz06hBj_TIOSeR4BCziYEnTSj5s-9Xncpshdckhs8NeFoXDbolUqWMhftkfEAkZ5to-uYHwnMaOoWBC",
+            "width" : 3264
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117653769290402811088\"\u003e1999 coffee\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDui6prbEOS9AF_fGcj-Stvz7udYjRD0ZBg7WtCqU7NYG-nvNgV2C56iVFFEDnTzwMIeOT_erifNaaequDCW9CUv_fUmRz6qHFv-fU6jJGN4E5ykDmphDvkDJ7eTr5icwEkQHpTEgfOenZw7zwqWAfjQXTz6MS6HW7RooG1cqaeY4Hl",
+            "width" : 4608
+         },
+         {
+            "height" : 3472,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDdE3R95as0mTXfmZxHKwZh-vj4QKEEEebyQBxQGLXT_A8gOR5-I5O0-iIADJYd0mqHAwdlkxsOYU2KzEzTrn4evDhn3wPOdDjYnezNHLViN2VpuQuvIZAUXkL_LcbNZKWWHBoa24oSSGXQj2M98mY3klTtXCUXNdapx_nOyRiUyh5V",
+            "width" : 4640
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111407335241534055862\"\u003eWorldspan M\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEC6ccE5OTU1ZmuG9gqPgeFOtfvmRbci3kgTyc0sQvkZUNjk2lEM-QVAqxmKEWcMk9E5Q8fG3R_OgVy2XhGUE-IgmejNAUe-lKAXroFcptTGt3c4cfU4p1aJdOkyVYFHJhLhHYEL-_efFv3BFxwhVtNmQOf1fafZgUVSRRRs9Ys1Lqp2",
+            "width" : 3840
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104831697281927255799\"\u003eぎあ\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDBfo-aHB3gOV8kXZNUZ2_8SasqghguDsrSh8cM9FNDbACy2EQnb0QAHwvnYewmcaR1giXY72APa2YX1oucojqYDGliPbYs6MT-JPgWjATGEP3zAd180IiqFRVDbkHTJ-M7iJRItoAEEagGAdPxQka2CNzm0MSlxcQUPgaYDXSlT2W_",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDlT7y9EdTrAFDsPvwR0gTSYuz95HhmqDJvE-Plcolx_3EMBzhQLXoLhPcusd9lWaNHjGiClFKqnJ32FegmIbqATfejH0VkgK4AuptNOXIlN16DeOZheCXln2b3eEinhpZEfngGxHyDjupsN6zAHXxj6yKMa4k_sdaNVJdBeHf5-tr5",
+            "width" : 4032
+         },
+         {
+            "height" : 3472,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECRJ4BzA9sGDTUumKeDGlyAL-jOnQBEVH5MvlEiRXrTtp-_N_fHvAhXT30EKsyMBBYGyGpLxFpbOEy9EXFe9BMfYRf5D5aNpjXtrEjM-UVhdHP1ea51EFPVPQpg3PDGvvPRCMoMy58-fde0CS57hNYU7ifzUwIjG__qsefpcnaAD6Sa",
+            "width" : 4640
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDbypD6nMi_38POOjUdgELL6rPjO__3iV4tcFbshSR0c5azQk_jzddVi-bXkB46Ecw580NZLD2qp9i2YSSZqvmjxFGnBy6o1mx2LUeZ85y9nMOUZy3hcsK5_UPN-cMZK3XvfuFdkMTq-wppcyRfdsJyjjLazRYLBfuZpBlbtfywpgj0",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108616474430432281946\"\u003eoquno ken\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECBAUkVh26YHGcX_qIWHoDCen636aXvBDPFDcze5N1UCQ4_1o5O770V6C2b_5VWmodJz_7U-aHo-sG48jtls4E_JlulBlf12NbeuTrUEbVxqcXh43nJ2NTTjuHp1QSyTj3XxiMyPY2Jx3EPZw05gIQUbutwlYUyCUK5Iudd-Iawqgej",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116799034824382220472\"\u003eLyle De Souza\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAEr9xbBHtTX7_nZgEcxQweITH0_t9W-aS5S68MiYwhpGJqkThkB0GcLCYmF0jGif_BGIuX9IccvWxSoSilm6eSc1pS65JOaW49iq2xLqgcmcl0SfpYLasRtNZzGs-_qIiaOhIHT0tVgLU8__RYRFVtStJ3RtnjITk2dybIAll-vOdt",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJ9wuc83UJAWARIsbA8e6_RoU",
+      "plus_code" : {
+         "compound_code" : "2QHH+MH 日本、京都府京都市",
+         "global_code" : "8Q7Q2QHH+MH"
+      },
+      "price_level" : 1,
+      "rating" : 3.8,
+      "reference" : "ChIJ9wuc83UJAWARIsbA8e6_RoU",
+      "reviews" : [
+         {
+            "author_name" : "ben ben",
+            "author_url" : "https://www.google.com/maps/contrib/103736694925702723080/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzYPJbFfGGMLuWUU7tuJ0XjmJRsm4TxdVlu1Ue6=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "4 か月前",
+            "text" : "席数も多いのでゆっくり楽しめる",
+            "time" : 1639321629
+         },
+         {
+            "author_name" : "中村颯壱",
+            "author_url" : "https://www.google.com/maps/contrib/116983477320735626073/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJwTSDeiMBzotsn1qEkVOrEZPS5Ga5g3LwWQeNbR=s128-c0x00000000-cc-rp-mo",
+            "rating" : 4,
+            "relative_time_description" : "11 か月前",
+            "text" : "1500円でお腹いっぱいになりました！味もおいしかったです！",
+            "time" : 1622249538
+         },
+         {
+            "author_name" : "mayumi wada",
+            "author_url" : "https://www.google.com/maps/contrib/114747921688164604368/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a-/AOh14Gg7GoekxSqJhryE0lu5fp-hPQWz3V8MtwtdLfm-=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 4,
+            "relative_time_description" : "1 年前",
+            "text" : "これからもサイゼリアの そばに 住みたいと思うほどの サイゼリアユーザーです。 何より コスパ。 ワインと その おつまみあるので スーパーOKです。 ラストオーダーが ちょっと早い(百万遍店は)",
+            "time" : 1603753186
+         },
+         {
+            "author_name" : "people's freedom",
+            "author_url" : "https://www.google.com/maps/contrib/102304301794711426464/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJwWnK_26jhzM01-IemV-ZBILX3YKSD6zsL81cQe=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "非常に美味しいし、きれいな店内。しかも、アルバイトの京大生は大変に心がきれいな青年たちで、こちらも心が洗われるようである。そのうえ、3年前、健康増進法第１回改正前に開店した時から禁煙なので、空気がまるで吉田山の空気をそのまま持ってきたように澄んでいる。そのため純粋な味と薫りを感じることができる。",
+            "time" : 1620459525
+         },
+         {
+            "author_name" : "Akemi O",
+            "author_url" : "https://www.google.com/maps/contrib/108385195409766945028/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/a/AATXAJzfXldwNR1w3lil1_HRSHa0i2acG5mf2KS3SgWH=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating" : 5,
+            "relative_time_description" : "1 年前",
+            "text" : "時短営業中でしたが、ラストオーダーは何時、ドリンクバーは何時までと丁寧にご説明くださいました。\n便利な場所にあるので、お客さんも多かったです。",
+            "time" : 1607248764
+         }
+      ],
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9603574288393225762",
+      "user_ratings_total" : 354,
+      "utc_offset" : 540,
+      "vicinity" : "京都市左京区田中門前町２８−１０ ｵﾘｴﾝﾄﾋﾞﾙ 2F",
+      "website" : "https://shop.saizeriya.co.jp/sz_restaurant/spot/detail?code=1350"
+   },
+   "status" : "OK"
+}
+{
+   "error_message" : "Missing the placeid or reference parameter.",
+   "html_attributions" : [],
+   "status" : "INVALID_REQUEST"
+}
