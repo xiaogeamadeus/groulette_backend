@@ -22,6 +22,21 @@ def getfiles(dir="./groulette_backend/restaurantData/"):
     files = glob.glob(dir+"*.json")
     return files
 
+def txt2list(filename):
+    """txt2list _summary_
+    txtファイル内のplace_idをlistとして読み込み
+    Args:
+        filename (String): ファイル名
+
+    Returns:
+        List: place_idのlist
+    """
+    with open(filename, 'r') as f:
+        data = f.read()
+        data2list = data.split('\n')
+        return data2list
+
+
 if __name__ == '__main__':
     path = './groulette_backend/restaurantData/'
     save_path = './groulette_backend/restaurantPlaceid/'
