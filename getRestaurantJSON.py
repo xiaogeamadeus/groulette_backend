@@ -33,7 +33,7 @@ class getRestaurantJSON:
 
     print(nums)
     f.close()
-    # f = open("/users/xiaogeamadeus/mypy/Practice_of_Information_System/groulette_backend/.txt", mode='w')
+    # f = open("/users/xiaogeamadeus/mypy/Practice_of_Information_System/groulette_backend_django/.txt", mode='w')
     # num = f.write(response.text)
     # print(num)
     # f.close()
