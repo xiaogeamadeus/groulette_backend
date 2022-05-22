@@ -1,7 +1,8 @@
 import json
 import os, glob, pickle
 
-# useful functions
+# This files contains useful functions
+
 def json2dict(filename,key):
     """json2dict _summary_
     jsonファイルをdict型に変換し、特定のkeyのデータを返す
@@ -87,7 +88,7 @@ if __name__ == '__main__':
         print(restaurants[i][0])
         print('==========================================================')
         
-    dump_flag = True
+    dump_flag = False
     if dump_flag:
         with open('groulette_backend/restaurantDB/restaurant.pkl', 'wb') as f:
             pickle.dump(restaurants, f)       

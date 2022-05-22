@@ -96,4 +96,14 @@ sqx の環境構築:
 ## Framework
 
 - Django tutorial
-- Database
+- Database sqlite3
+
+## データベース関係
+
+**ソース**
+
+- create database: <https://www.sqlitetutorial.net/sqlite-python/creating-database/>
+- view database/takbe: <https://www.youtube.com/watch?v=VKg1Dnz7GN0>
+- general:
+  - <https://www.geeksforgeeks.org/python-sqlite-insert-data/?ref=lbp>
+  - <https://www.tutorialspoint.com/python_data_access/python_sqlite_delete_data.htm>
