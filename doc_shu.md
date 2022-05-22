@@ -44,18 +44,18 @@ results の中に各レストランの情報が入ってる
   - rating
   - user_ratings_total
   - name
-  - price_level
   - place_id
-  - types
   - vicinity
   - geometry-location
-  - photos-html_attributions
 
 - 必要になるかもの key
 
+  - photos-html_attributions
+  - price_level
   - icon
 
 - いらない key
+  - types
   - plus_code
   - icon_background_color
   - icon_mask_base_uri
@@ -64,6 +64,18 @@ results の中に各レストランの情報が入ってる
   - scope
   - business_status
   - reference
+
+### レストランジャンル
+
+0. Asian/Chinese1,2/Korean
+1. Yakiniku
+2. Ramen
+3. Fast/Pizza/Humberger
+4. (Wasyoku)Gyudon/Tempura/Udon/Teishoky/Suchi/Syokudo
+5. (Yosyoku)Pasta/French/Italian
+6. Izakaya/Yakitori
+7. (そのほか)Family/Health/Vegan/cafe
+   削除: noodles
 
 ## 環境構築
 
