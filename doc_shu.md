@@ -1,6 +1,7 @@
 # Backend 作業記録
 
 担当: Wang, Shu
+[toc]
 
 ## 大まかな流れ
 
@@ -80,7 +81,7 @@ results の中に各レストランの情報が入ってる
 ## 環境構築
 
 sqx の環境構築:
-仮想環境: **groulette**
+仮想環境: **groulette** (conda)
 
 ## git
 
