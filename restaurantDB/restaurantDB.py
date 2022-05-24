@@ -2,6 +2,16 @@ import sqlite3
 from sqlite3 import Error
 import pickle
 
+'''
+Restaurants Table Scheme
+  - genre
+  - rating
+  - user_ratings_total
+  - name
+  - place_id
+  - vicinity
+  - location
+'''
 
 def create_connection(db_file='Groulette.db'):
     """ create a database connection to a SQLite database """
@@ -81,15 +91,7 @@ def drop_table(tablename, db_file='Groulette.db'):
     #Closing the connection
     conn.close()
 
-'''
-  - genre
-  - rating
-  - user_ratings_total
-  - name
-  - place_id
-  - vicinity
-  - location
-'''
+
 
 if __name__ == '__main__':
     # create_connection()
