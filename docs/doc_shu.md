@@ -92,7 +92,9 @@ sqx の環境構築:
 - ターミナルで`git checkout origin/main`で main ブランチへ戻る
 - `git pull` で更新されたリモートレポジトリをローカルに同期する
 - `git checkout {branch 名}`で自分の作業ブランチに戻って作業を続ける
-- `git branch`: 今いる branch を調べる
+- `git branch`: 今いる branch を調べる (ローカル)
+- `git branch -r`: リモート branch を調べる
+- `git pull orgin {remote branch名}:{local branch名}`:　リモートブランチの更新をローカルブランチへ持ってくる
 
 ## Framework
 
