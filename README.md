@@ -24,11 +24,12 @@ This is the backend part of groulette.
 
 *Full-Stack Diagram:*
 
-![image](Full.png)
+![image1](https://user-images.githubusercontent.com/70463365/169953906-501bf77b-c497-4e2d-93d0-f174a37c65cd.png)
 
 *Backend Diagram:*
 
-![image](Backend.jpeg)
+![image2](https://user-images.githubusercontent.com/70463365/169953815-de60c15c-0a62-405d-8823-4973b1e5f709.jpeg)
+)
 
 ### The description for the files.
 
