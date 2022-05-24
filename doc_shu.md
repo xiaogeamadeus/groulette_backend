@@ -1,6 +1,7 @@
 # Backend 作業記録
 
 担当: Wang, Shu
+[toc]
 
 ## 大まかな流れ
 
@@ -44,18 +45,18 @@ results の中に各レストランの情報が入ってる
   - rating
   - user_ratings_total
   - name
-  - price_level
   - place_id
-  - types
   - vicinity
   - geometry-location
-  - photos-html_attributions
 
 - 必要になるかもの key
 
+  - photos-html_attributions
+  - price_level
   - icon
 
 - いらない key
+  - types
   - plus_code
   - icon_background_color
   - icon_mask_base_uri
@@ -65,10 +66,22 @@ results の中に各レストランの情報が入ってる
   - business_status
   - reference
 
+### レストランジャンル
+
+0. Asian/Chinese1,2/Korean
+1. Yakiniku
+2. Ramen
+3. Fast/Pizza/Humberger
+4. (Wasyoku)Gyudon/Tempura/Udon/Teishoky/Suchi/Syokudo
+5. (Yosyoku)Pasta/French/Italian
+6. Izakaya/Yakitori
+7. (そのほか)Family/Health/Vegan/cafe
+   削除: noodles
+
 ## 環境構築
 
 sqx の環境構築:
-仮想環境: **groulette**
+仮想環境: **groulette** (conda)
 
 ## git
 
@@ -84,4 +97,14 @@ sqx の環境構築:
 ## Framework
 
 - Django tutorial
-- Database
+- Database sqlite3
+
+## データベース関係
+
+**ソース**
+
+- create database: <https://www.sqlitetutorial.net/sqlite-python/creating-database/>
+- view database/takbe: <https://www.youtube.com/watch?v=VKg1Dnz7GN0>
+- general:
+  - <https://www.geeksforgeeks.org/python-sqlite-insert-data/?ref=lbp>
+  - <https://www.tutorialspoint.com/python_data_access/python_sqlite_delete_data.htm>

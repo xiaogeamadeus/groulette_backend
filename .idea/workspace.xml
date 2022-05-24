@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3057386-45c4-4f2b-a881-1c7ba928a8a9" name="变更" comment="add django project &quot;grolette&quot;" />
+    <list default="true" id="a3057386-45c4-4f2b-a881-1c7ba928a8a9" name="变更" comment="add django project &quot;grolette&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +98,7 @@
       <workItem from="1652160574773" duration="6319000" />
       <workItem from="1652767493357" duration="1660000" />
       <workItem from="1653108993140" duration="31000" />
-      <workItem from="1653366522341" duration="400000" />
+      <workItem from="1653366522341" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="README.md restart">
       <created>1652160165897</created>
