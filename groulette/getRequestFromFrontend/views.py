@@ -1,43 +1,45 @@
-import sqlite3
-from sqlite3 import Error
 from django.http import HttpResponse
 import json
 from .models import User
-
-
-# class UserViewSet():
-#     conn = sqlite3.connect('/Users/xiaogeamadeus/mypy/Practice_of_Information_System/groulette_backend/groulette/Groulette.db')
-#     cursor = conn.cursor()
+from .models import Restaurant
 
 
 
-def index(request):
-    return HttpResponse("Hello, world. You're at the polls index.")
-
-# def detail(request, question_id):
-#     return HttpResponse("You're looking at question %s." % question_id)
-#
-# def results(request, question_id):
-#     response = "You're looking at question %s."
-#     return HttpResponse(response % question_id)
-#
-# def vote(request, question_id):
-#     return HttpResponse("You're voting on question %s." % question_id)
-#
+def restaurantAPI(request):
+    # solve the error
 
 
-#
-def restaurantAPI(request, ):
-    conn = sqlite3.connect(
-        '/Users/xiaogeamadeus/mypy/Practice_of_Information_System/groulette_backend/groulette/Groulette.db')
-    cursor = conn.cursor()
-
+    # 前段GET请求给的数据形式应该为
+    # genre = [yakitori, fastfood, ...]
+    # mode = 'ONI'
+    # userId = '2123dasx'
+    if request.method == 'GET':
+        genre = []
+        genre = request.GET.get('genre')
+        mode = request.GET.get('mode')
+    restaurantWeNeed = selectDB(genre, mode)
+    data = restaurantWeNeed.object.all()
+    # data 里储存被推荐算法筛选过的数据。data[0] = [{genre: }{place_id}{}{}]
     # restaurant:[{key, value}, {key, value},....]
-    # key = restaurant name || value = genre
+    # {palceId : [name, genre]}
     # total_number:[the number of restaurant]
-    params = {
-        'restaurant':,
-        'total_number':,
-    }
+    # results: xxxx request.result
 
-    json_str = json.dumps(params, ensure_ascii=False, indent=2)
+
+    restaurant = []
+
+    for i in data:
+        params = {
+            'place_id':i.place_id,
+            'name':i.name,
+            'genre':i.genre,
+        }
+        restaurant.append(params)
+        if len(restaurant) == 20:
+            break
+
+    json_str = json.dumps(restaurant, ensure_ascii=False, indent=2)
+    return HttpResponse(json_str)
+
+def selectDB(genre, mode):
+    data = Restaurant.object.all()
