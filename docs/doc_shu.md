@@ -103,6 +103,13 @@ sqx の環境構築:
 
 ## データベース関係
 
+### API
+
+- 候補レストランを返す
+  - 1. mode,genre,userid を受け取って、db から対応するデータを選ぶ
+  - 2. mode 変数に基づき、レストラン順位を決めるアルゴリズムで 1 で得られたデータをソートする
+  - 3. 上位 20 位を返す(name, genre, ID)
+
 **ソース**
 
 - create database: <https://www.sqlitetutorial.net/sqlite-python/creating-database/>
