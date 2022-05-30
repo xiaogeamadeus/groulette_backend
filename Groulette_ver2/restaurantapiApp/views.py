@@ -46,3 +46,16 @@ def restaurantAPI(request):
 # Choose right tables of restaurant.db
 def selectDB(genre, mode):
     data = Restaurant.object.all()
+
+# recommend algorithm : oni mode
+def oniMode():
+
+
+
+# recommend algorithm : kami mode
+def kamiMode():
+
+
+
+# recommend algorithm : normal mode
+def normalMode():
