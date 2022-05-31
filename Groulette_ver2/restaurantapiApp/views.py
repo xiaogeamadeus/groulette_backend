@@ -1,19 +1,15 @@
 from django.shortcuts import render
-
-# Create your views here.
 from django.http import HttpResponse
 import json
 # from .models import User
 from .models import Restaurant
+from django.db.models import Q
 
 
 
 def restaurantAPI(request):
-    # solve the error
-
-
     # 前段GET请求给的数据形式应该为
-    # genre = [yakitori, fastfood, ...]
+    # genre = [0, 1, 2, ...]
     # mode = 'ONI'
     # userId = '2123dasx'
     if request.method == 'GET':
@@ -44,8 +40,14 @@ def restaurantAPI(request):
     return HttpResponse(json_str)
 
 # Choose right tables of restaurant.db
-def selectDB(genre, mode):
-    data = Restaurant.object.all()
+def selectDB(genreValue, mode):
+    data = []
+    for i in genreValue:
+        data = data | Restaurant.object.filter(Q(genre=i)).values()
+
+
+
+    return data
 
 # recommend algorithm : oni mode
 def oniMode():
