@@ -1,11 +1,9 @@
 from django.urls import path
-
 from . import views
-from .views import restaurantAPI
 
 urlpatterns = [
     # ex: /getRequest/restaurantAPI?genre=[]&mode=oni&userid=21234xy
-    path('restaurantAPI', restaurantAPI),
+    path('restaurantAPI', views.restaurantAPI),
 
     # path('', views.index, name='index'),
     #

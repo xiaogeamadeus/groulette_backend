@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a3057386-45c4-4f2b-a881-1c7ba928a8a9" name="变更" comment="delete groulette project version 1 and migrate the workspace to Groulette_ver2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groulette_ver2/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Groulette_ver2/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurantDB/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurantDB/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +218,7 @@
       <workItem from="1653812648487" duration="784000" />
       <workItem from="1653813736376" duration="119000" />
       <workItem from="1653890318171" duration="9203000" />
-      <workItem from="1653970133525" duration="5255000" />
+      <workItem from="1653970133525" duration="6740000" />
     </task>
     <task id="LOCAL-00001" summary="README.md restart">
       <created>1652160165897</created>
