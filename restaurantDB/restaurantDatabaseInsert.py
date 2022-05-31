@@ -83,3 +83,4 @@ for stock in stocks:
 #          "user_ratings_total" : 509,
 #          "vicinity" : "京都市左京区吉田泉殿町１"
 #       },
+
