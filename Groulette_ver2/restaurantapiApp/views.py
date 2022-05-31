@@ -4,6 +4,7 @@ import json
 # from .models import User
 from .models import Restaurant
 from django.db.models import Q
+import random
 
 
 
@@ -16,9 +17,17 @@ def restaurantAPI(request):
         genre = []
         genre = request.GET.get('genre')
         mode = request.GET.get('mode')
-    restaurantWeNeed = selectDB(genre, mode)
-    data = restaurantWeNeed.object.all()
-    # data 里储存被推荐算法筛选过的数据。data[0] = [{genre: }{place_id}{}{}]
+
+    if mode == 'oni':
+        data = oniMode(genre)
+
+    elif mode == 'kami':
+        data = kamiMode(genre)
+
+    else:
+        data = normalMode(genre)
+
+    # data 里储存被推荐算法筛选过的数据。每个data 代表一个餐馆。data[0] = [{genre: }{place_id: }{score: }{}]
     # restaurant:[{key, value}, {key, value},....]
     # {palceId : [name, genre]}
     # total_number:[the number of restaurant]
@@ -36,28 +45,56 @@ def restaurantAPI(request):
         if len(restaurant) == 20:
             break
 
+
+# [{place_id: 'xsd', name: '', genre : 0}, {place_id: 'xsxsd', name: '1232', genre : 1}, {}, {}]
     json_str = json.dumps(restaurant, ensure_ascii=False, indent=2)
     return HttpResponse(json_str)
 
-# Choose right tables of restaurant.db
-def selectDB(genreValue, mode):
-    data = []
-    for i in genreValue:
-        data = data | Restaurant.object.filter(Q(genre=i)).values()
 
-
-
-    return data
 
 # recommend algorithm : oni mode
-def oniMode():
+def oniMode(genreValue, ):
+    data = []
+    for i in genreValue:
+        data = data | Restaurant.object.filter(Q(genre=i))
+    data = data.order_by('score')
 
+    if data.count > 20:
+        res = data[:20]
+    else:
+        res = data
+
+    return res
 
 
 # recommend algorithm : kami mode
-def kamiMode():
+def kamiMode(genreValue):
+    data = []
+    for i in genreValue:
+        data = data | Restaurant.object.filter(Q(genre=i))
+    data = data.order_by('-score')
 
+    if data.count > 20:
+        res = data[:20]
+    else:
+        res = data
+
+    return res
 
 
 # recommend algorithm : normal mode
-def normalMode():
+def normalMode(genreValue):
+    data = []
+    for i in genreValue:
+        data = data | Restaurant.object.filter(Q(genre=i))
+    data = data.order_by('score')
+
+    num_data = data.count
+
+
+    if num_data > 20:
+        res = data.order_by('?')[:20]
+    else:
+        res = data
+
+    return res

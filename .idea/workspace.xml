@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/groulette" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="query.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/restaurantDB/sql/query.sql" />
       <script-mode>FILE</script-mode>
@@ -94,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="groulette_backend" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/groulette/groulette" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/groulette/groulette/settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.countScore" />
         <item itemvalue="数据库脚本.query.sql" />
         <item itemvalue="Python.views" />
-        <item itemvalue="Python.settings" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,7 @@
       <workItem from="1653812648487" duration="784000" />
       <workItem from="1653813736376" duration="119000" />
       <workItem from="1653890318171" duration="9203000" />
-      <workItem from="1653970133525" duration="991000" />
+      <workItem from="1653970133525" duration="4840000" />
     </task>
     <task id="LOCAL-00001" summary="README.md restart">
       <created>1652160165897</created>
@@ -308,5 +308,6 @@
     <SUITE FILE_PATH="coverage/groulette_backend$settings.coverage" NAME="settings 覆盖结果" MODIFIED="1653372142940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/groulette/groulette" />
     <SUITE FILE_PATH="coverage/groulette_backend$views.coverage" NAME="views 覆盖结果" MODIFIED="1653375248954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/groulette/getRequestFromFrontend" />
     <SUITE FILE_PATH="coverage/groulette_backend$countScore.coverage" NAME="countScore 覆盖结果" MODIFIED="1653898923001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restaurantDB" />
+    <SUITE FILE_PATH="coverage/groulette_backend$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1653973598402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Groulette_ver2/restaurantapiApp" />
   </component>
 </project>
