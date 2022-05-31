@@ -4,6 +4,7 @@ from . import views
 urlpatterns = [
     # ex: /getRequest/restaurantAPI?genre=[]&mode=oni&userid=21234xy
     path('restaurantAPI', views.restaurantAPI),
+    path('getRouteLinkAPI', views.getRouteLinkAPI)
 
     # path('', views.index, name='index'),
     #

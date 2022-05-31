@@ -88,3 +88,12 @@ def normalMode(genreValue):
         res = data
 
     return res
+
+# place_id -> google map API -> restaurant link
+def getRouteLinkAPI(request):
+    if request.method == 'GET':
+        place_id = request.GET.get('place_id')
+
+        routeLink = f'https://www.google.com/maps/place/?q=place_id:{place_id}'
+        json_str = json.dumps(routeLink, ensure_ascii=False, indent=2)
+        return HttpResponse(json_str)
