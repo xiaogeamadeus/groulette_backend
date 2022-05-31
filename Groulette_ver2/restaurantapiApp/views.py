@@ -67,12 +67,18 @@ def oniMode(genreValue, ):
     return res
 
 
+<<<<<<< HEAD
 # recommend algorithm : kami mode
 def kamiMode(genreValue):
     data = []
     for i in genreValue:
         data = data | Restaurant.object.filter(Q(genre=i))
     data = data.order_by('-score')
+=======
+# recommend algorithm : oni mode
+def oniMode():
+    return 0
+>>>>>>> c8dbb287bc4cd4e754296507f64d1b7d6692a285
 
     if data.count > 20:
         res = data[:20]
@@ -81,6 +87,12 @@ def kamiMode(genreValue):
 
     return res
 
+<<<<<<< HEAD
+=======
+# recommend algorithm : kami mode
+def kamiMode():
+    return 0
+>>>>>>> c8dbb287bc4cd4e754296507f64d1b7d6692a285
 
 # recommend algorithm : normal mode
 def normalMode(genreValue):
@@ -91,6 +103,7 @@ def normalMode(genreValue):
 
     num_data = data.count
 
+<<<<<<< HEAD
 
     if num_data > 20:
         res = data.order_by('?')[:20]
@@ -98,3 +111,8 @@ def normalMode(genreValue):
         res = data
 
     return res
+=======
+# recommend algorithm : normal mode
+def normalMode():
+    return 0
+>>>>>>> c8dbb287bc4cd4e754296507f64d1b7d6692a285

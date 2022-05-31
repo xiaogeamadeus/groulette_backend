@@ -27,7 +27,14 @@ def getcolunm(col1, col2, col3, save=False,table='restaurants', db_file='Groulet
 if __name__ == '__main__':
     # get rating and user_ratings_total from the table
     # getcolunm('place_id','rating', 'user_ratings_total')
+    
     # load file
-    rating = pickle.load(open('rating.pkl', 'rb'))
-    total_ratings = pickle.load(open('total_ratings.pkl', 'rb'))
+    # rating = pickle.load(open('rating.pkl', 'rb'))
+    # total_ratings = pickle.load(open('total_ratings.pkl', 'rb'))
+    # print(max(rating.values()))
+
+
+    with open('score.pkl', 'rb') as f2:
+        score = pickle.load(f2)
+    print(score)
 

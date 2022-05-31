@@ -117,3 +117,7 @@ sqx の環境構築:
 - general:
   - <https://www.geeksforgeeks.org/python-sqlite-insert-data/?ref=lbp>
   - <https://www.tutorialspoint.com/python_data_access/python_sqlite_delete_data.htm>
+- add new column to the existing model
+  - <https://www.dev2qa.com/how-to-add-new-model-field-to-exist-django-model/>
+- modify existing data object
+  - <https://www.geeksforgeeks.org/django-orm-inserting-updating-deleting-data/>

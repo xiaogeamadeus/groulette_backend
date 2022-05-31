@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # resaurantapiApp, DRF 追加
-    'restaurantapiApp'
+    'restaurantapiApp',
     'rest_framework'
 ]
 
