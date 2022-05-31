@@ -1,0 +1,25 @@
+asgiref==3.5.1
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-2p6q7e2r/cffi_1642701115063/work
+charset-normalizer==2.0.12
+cryptography @ file:///opt/concourse/worker/volumes/live/dfab5924-fd99-4f24-7939-7dbf6f1585f3/volume/cryptography_1639414584824/work
+dj-database-url==0.5.0
+Django==3.2.13
+django-heroku==0.3.1
+djangorestframework==3.13.1
+googlemaps==4.6.0
+gunicorn==20.1.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+psycopg2==2.7.7
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///opt/concourse/worker/volumes/live/ef943889-94fc-4539-798d-461c60b77804/volume/pysocks_1605305801690/work
+pytz==2022.1
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+responses @ file:///tmp/build/80754af9/responses_1619800270522/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sqlparse==0.4.2
+typing_extensions==4.2.0
+urllib3==1.26.9
+whitenoise==6.1.0
