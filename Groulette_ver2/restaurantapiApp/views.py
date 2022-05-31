@@ -91,7 +91,6 @@ def normalMode(genreValue):
 
     num_data = data.count
 
-
     if num_data > 20:
         res = data.order_by('?')[:20]
     else:
