@@ -9,6 +9,8 @@ class Restaurant(models.Model):
     place_id = models.CharField(max_length=100, primary_key=True)
     vicinity = models.CharField(max_length=200)
     location = models.CharField(max_length=100)
+    # add score
+    score = models.FloatField(default='0')
 
     def __str__(self):
         return str(self.genre) + '-' + self.name + '-' + self.place_id

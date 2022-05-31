@@ -49,13 +49,16 @@ def selectDB(genre, mode):
 
 # recommend algorithm : oni mode
 def oniMode():
+    return 0
 
 
 
 # recommend algorithm : kami mode
 def kamiMode():
+    return 0
 
 
 
 # recommend algorithm : normal mode
 def normalMode():
+    return 0
